@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>zcsv_menu</name>
+			<script>-- Auto-generated at {{ data.timestamp }}
+
+{% for course in data.courses %}
+cechoLink("&lt;green&gt;{{ course }}", function() expandAlias("zcsv {{ course }}") end, "", true)
+{% if loop.index % data.per_line == 0 %}
+cecho("\n")
+{% else %}
+cecho(", ")
+{% endif %}
+{% endfor %}
+
+-- EOF</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^zcsv$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>
+

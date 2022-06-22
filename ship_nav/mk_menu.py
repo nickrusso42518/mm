@@ -16,7 +16,7 @@ def main(input_path):
     j2_env = Environment(
         loader=FileSystemLoader("."), trim_blocks=True, autoescape=True
     )
-    template = j2_env.get_template("alias_template.j2")
+    template = j2_env.get_template("ship_nav/alias_template.j2")
     rendered = template.render(data=data)
 
     with open("zcsv_menu.xml", "w") as handle:
@@ -24,5 +24,4 @@ def main(input_path):
         handle.write(rendered)
 
 if __name__ == "__main__":
-    main("ship_courses")
-
+    main("ship_nav/courses")

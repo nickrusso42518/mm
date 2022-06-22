@@ -1,0 +1,15 @@
+---
+language: "python"
+python:
+  - "3.7.3"
+
+install:
+  - "pip install -r requirements.txt"
+
+# TODO: add black/pylint
+before_script:
+  - "pytest --verbose ship_nav/test.py"
+
+# TODO: add artifact to S3
+script:
+  - "python ship_nav/mk_menu.py"

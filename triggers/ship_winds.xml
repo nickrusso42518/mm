@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>ship_winds</name>
+			<script>-- example assumes in-game "SEwind"
+
+--tailwind
+--nw: 13,13
+
+--quarter
+--n: 15
+--w: 15
+
+--beam
+--ne: 9,9
+--sw: 9,9
+
+--bow
+--s: 6
+--e: 6
+
+--headwind
+--se: 3,3
+
+local ship_dir = matches[2]
+local wind_dir = matches[3]
+
+local cur_x = tonumber(matches[4])
+local cur_y = tonumber(matches[5])
+prev_x = prev_x or cur_x
+prev_y = prev_y or cur_y
+
+local abs_x = math.abs(cur_x - prev_x)
+local abs_y = math.abs(cur_y - prev_y)
+local delta_str = "moved="..math.max(abs_x, abs_y).." / "
+
+if ship_dir == "AUTO" then
+  cecho("&lt;magenta&gt;"..delta_str.."following course")
+elseif wind_dir == "--" then
+  cecho("&lt;magenta&gt;"..delta_str.."no wind")
+else
+  local wind_values = {
+    N = 0,
+    NE = 1,
+    E = 2,
+    SE = 3,
+    S = 4,
+    SW = 5,
+    W = 6,
+    NW = 7
+  }
+
+  local abs_diff = math.abs(wind_values[ship_dir] - wind_values[wind_dir])
+
+  if abs_diff == 0 then
+    cecho("&lt;red&gt;"..delta_str.."head wind; use steam")
+  elseif abs_diff == 1 or abs_diff == 7 then
+    cecho("&lt;orange&gt;"..delta_str.."bow wind; use steam")
+  elseif abs_diff == 2 or abs_diff == 6 then
+    cecho("&lt;yellow&gt;"..delta_str.."beam wind; use sail or steam")
+  elseif abs_diff == 3 or abs_diff == 5 then
+    cecho("&lt;cyan&gt;"..delta_str.."quarter wind; use sail")
+  elseif abs_diff == 4 then
+    cecho("&lt;green&gt;"..delta_str.."tail wind; use sail")
+  else
+    cecho("&lt;red:white&gt;invalid abs_diff: "..abs_diff)
+  end
+end
+
+prev_x = cur_x
+prev_y = cur_y</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>\s+([NEWS][NEWS]?)dir\s+\S+\s+([NEWS-][NEWS-]?)wind\s+\S+\s+(\d+),\s+(\d+)</string>
+				<string>\s+(AUTO)dir\s+\S+\s+([NEWS][NEWS]?)wind\s+\S+\s+(\d+),\s+(\d+)</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

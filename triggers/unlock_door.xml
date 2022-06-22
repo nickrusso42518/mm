@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>unlock_door</name>
+			<script>deleteLine()
+direction = string.split(command, " ")[2]
+options = matches[2]
+
+cecho(" &lt;grey&gt;Options for "..direction.." door: ")
+if string.find(options, "cannot be picked,") then
+  cecho("&lt;red&gt;pick")
+else
+  local action1 = "pick "..direction
+  cechoLink("&lt;green&gt;pick", function() send(action1) end, action1, true)
+end
+
+if string.find(options, "could not be passed through,") then
+  cecho(" &lt;red&gt;pass")
+else
+  cechoLink(" &lt;green&gt;pass", function() send(direction) end, direction, true)
+end
+
+if string.find(options, "couldn't be bashed down,") then
+  cecho(" &lt;red&gt;bash")
+else
+  local action2 = "bash "..direction
+  cechoLink(" &lt;green&gt;bash", function() send(action2) end, action2, true)
+end
+
+if string.find(options, "magically unlocking it is not an option.") then
+  cecho(" &lt;red&gt;magic-unlock")
+else
+  local action4 = "cast 'magic unlock' "..direction
+  cechoLink(" &lt;green&gt;magic-unlock", function() send(action4) end, action4, true)
+  local action5 = "cast knock "..direction
+  cechoLink(" &lt;green&gt;knock", function() send(action5) end, action5, true)
+end</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>^By\s+the\s+looks\s+of\s+it,\s+the\s+lock\s+(.*)</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="yes" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>average_ar</name>
+			<script>-- (Head    ) Pierce: 118  Bash: 115  Slash: 117  Exotic: 116
+-- (Torso   ) Pierce: 111  Bash: 109  Slash: 112  Exotic: 109
+-- (Arms    ) Pierce: 105  Bash: 101  Slash: 104  Exotic: 102
+-- (Legs    ) Pierce: 105  Bash: 101  Slash: 104  Exotic: 102
+
+local total_ar = 0
+for i = 1, #multimatches do
+  for j = 2, #multimatches[i] do
+    total_ar = total_ar + tonumber(multimatches[i][j])
+  end
+end
+local average_ar = total_ar / (#multimatches * (#multimatches[1] - 1))
+cecho("  &lt;red&gt;avg ar: "..math.floor(average_ar))</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>4</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>^\(Head\s+\)\s+Pierce:\s+(\d+)\s+Bash:\s+(\d+)\s+Slash:\s+(\d+)\s+Exotic:\s+(\d+)$</string>
+				<string>^\(Torso\s+\)\s+Pierce:\s+(\d+)\s+Bash:\s+(\d+)\s+Slash:\s+(\d+)\s+Exotic:\s+(\d+)$</string>
+				<string>^\(Arms\s+\)\s+Pierce:\s+(\d+)\s+Bash:\s+(\d+)\s+Slash:\s+(\d+)\s+Exotic:\s+(\d+)$</string>
+				<string>^\(Legs\s+\)\s+Pierce:\s+(\d+)\s+Bash:\s+(\d+)\s+Slash:\s+(\d+)\s+Exotic:\s+(\d+)$</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="yes" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>spell_efficiency1</name>
+			<script>--*Spell Points Required: 89
+--*Default affect modifier: There is a (caster's level / 350)% chance to shoot two projectiles instead of one.
+--*Has a base multiplier of 4.0. sp to dmg efficiency (higher is better): 44.94
+
+local sp_req = multimatches[1][2]
+local dmg_base = multimatches[2][2]
+local efficiency = string.format("%.2f", dmg_base*1000/sp_req)
+cecho("&lt;red&gt; sp to dmg efficiency (higher is better): "..efficiency)</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>10</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>^\*Spell Points Required: (\d+)$</string>
+				<string>^\*Has a base multiplier of ([0-9.]+)\.$</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>combat_trim_out</name>
+			<script>-- The great shadow wyrm Draask is jolted on the torso with your surprise attack causing slight damage.
+-- Borsq, the one-tusked is cut on the leg with your slash causing no obvious damage.
+-- &gt; slight surprise attack to torso
+
+-- Set to true if fireshield should be displayed (&gt; minimal flames to torso)
+local SHOW_FS = false
+
+if not string.find(matches[1], "fireshield") or SHOW_FS then
+  -- display(matches)
+  deleteLine()
+
+  dam_severity = matches[6]
+  dam_type = matches[5]
+  dam_place = matches[4]
+  cecho("\n&lt;green&gt;&gt; "..dam_severity.." "..dam_type.." to "..dam_place)
+end
+
+
+</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>(.+)\s+is\s+(\S+)\s+on\s+the\s(\S+)\s+with\s+your\s+(.+)\s+causing\s+(.+)\s+damage</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>who_links</name>
+			<script>-- [115:241   Archon   ] Musaqala [*Oracle*][Duelist]
+
+local player = matches[2]
+
+local relig = "religion who '"..player.."'"
+cinsertLink("&lt;green&gt;[Relig]", function() send(relig) end, relig, true)
+
+local class = "check who '"..player.."'"
+cinsertLink("&lt;green&gt;[Class]", function() send(class) end, class, true)
+
+local tview = "cast teleview '"..player.."'"
+cinsertLink("&lt;green&gt;[Tview]", function() send(tview) end, tview, true)
+</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>^\s+\[\d+\s*:\d+\s+.*\]\s+(\S+)</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

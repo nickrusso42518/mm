@@ -114,3 +114,14 @@ all players displayed by `who`.
 [Tview][Class][Relig] [119:241   Archon   ] Musaqala [*Oracle*][Duelist]
 [Tview][Class][Relig] [168:241   Chrono   ] Vierna [EuphoriA][Duelist]
 ```
+
+### lunar_sp.xml
+Estimates the lunar impact on spellpoint (sp) regeneration and appends
+the result after the moon phases.
+
+```
+<3000hp 3350sp 2850st>time
+It is 10:47 am on Monday, September the 29th, year 1502.
+The twin moons, Trigael and Marabah are in the phases:
+Trigael: (half waning)  Marabah: (gibbous waning)  SP regen: 101%
+```

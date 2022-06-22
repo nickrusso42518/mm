@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<TriggerPackage>
+		<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>lunar_sp</name>
+			<script>-- Trigael: (gibbous waxing)  Marabah: (crescent waning)
+-- [between 0.66 and 1.22], dependent on moon phases (new lower, full higher)
+
+-- regen additive values for phases, these are unconfirmed guesses!
+local regen_adds = {
+  ["full"] = 0.61,
+  ["gibbous waning"] = 0.54,
+  ["half waning"] = 0.47,
+  ["crescent waning"] = 0.40,
+  ["new"] = 0.33,
+  ["crescent waxing"] = 0.40,
+  ["half waxing"] = 0.47,
+  ["gibbous waxing"] = 0.54
+}
+
+local t_rate = regen_adds[matches[2]]
+local m_rate = regen_adds[matches[3]]
+
+cecho("  &lt;cyan&gt;SP regen: "..math.floor((t_rate + m_rate) * 100).."%")</script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList>
+				<string>^Trigael:\s+\(([a-z ]+)\)\s+Marabah:\s+\(([a-z ]+)\)$</string>
+			</regexCodeList>
+			<regexCodePropertyList>
+				<integer>1</integer>
+			</regexCodePropertyList>
+		</Trigger>
+	</TriggerPackage>
+</MudletPackage>

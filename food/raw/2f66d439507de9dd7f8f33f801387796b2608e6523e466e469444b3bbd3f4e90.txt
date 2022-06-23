@@ -1,0 +1,14 @@
+> check eqlookup 2f66d439507de9dd7f8f33f801387796b2608e6523e466e469444b3bbd3f4e90
+Item 'a cockleshell' is type food, alignment 0, made of bone (in (fresh) condition),[EQDB]
+has keywords 'convex mollusk shell cockleshell valves'.
+This item weighs 0 stones and 1 pebbles, and is valued at 325 gold. {Cat. 2}
+This level 1 item has the attributes: rot-death
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +10 pierce-skill-res.
+This food has the traits seafood.
+This small radially ribbed shell looks like what most adventurers think
+of when they hear a clam shell.  Its tan surface is striped with white
+marks.  Its mouth is bumpy with lichen.  Lowangen and Lake Martoon are
+famous for cockles of this variety, many of which bear pearls inside.  In
+old Alyrian tales about Lady Saresyn, she is said to have eaten cockles
+every meal.  Because of these stories they have become a traditional
+delicacy in Rune, and surrounding Sepharian cities where cockles are rare.  

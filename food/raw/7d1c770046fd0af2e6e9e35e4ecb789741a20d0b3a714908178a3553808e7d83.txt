@@ -1,0 +1,22 @@
+> check eqlookup 7d1c770046fd0af2e6e9e35e4ecb789741a20d0b3a714908178a3553808e7d83
+Item 'a savo bean' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'savo bean'.
+This item weighs 0 stones and 4 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +10 acid-skill-res.
+This food has the traits vegetable.
+This can be combined with the following ingredients to cook 'a plate of huevos rancheros'.
+- Item 'a bottle of olive oil'
+- Item 'a ramekin of salsa roja'
+- Item 'a chicken egg'
+- Item 'a savo bean'
+- Item 'a gunpowder peppercorn'
+- Item 'a bag of corn tortillas'
+- Item 'a tropical citrus fruit'
+- Item 'an aromatic bean pod'
+- Item 'a grainy block of feta cheese'
+This tiny bean doesn't look like much by itself.  You tentatively put it
+in your mouth, and are amazed by its strong, rich flavor.  You feel a new
+vigor running through your body before you have even swallowed.  You decide
+that some kinds of coffee must be brewed with these beans, and resolve to
+get your hands on some as soon as possible.  

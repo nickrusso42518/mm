@@ -1,0 +1,11 @@
+> check eqlookup 04ea04dbc2b7992da0032e976548376aee674b69ec944f66b345646f8d215788
+Item 'a blind flounder' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'blind flounder fish cat2'.
+This item weighs 0 stones and 8 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 20 item has the attributes: none
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +12 wood-skill-dam.
+This food has the traits fish prepared.
+The smell of dried salty fish emanates strongly from this dish.  The dull
+colored scales are common of most aquatic creatures in the underground. 
+About the only thing that makes this fish familiar as a flounder is the fact
+that both eyes are on the same side of its head.  

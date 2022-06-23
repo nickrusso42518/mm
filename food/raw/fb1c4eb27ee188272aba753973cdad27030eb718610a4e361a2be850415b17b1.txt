@@ -1,0 +1,12 @@
+> check eqlookup fb1c4eb27ee188272aba753973cdad27030eb718610a4e361a2be850415b17b1
+Item 'some tasty caviar' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'caviar'.
+This item weighs 0 stones and 2 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-bash-arms.
+This food has the traits seafood.
+This caviar is made from the eggs of some type of large fish.  After they
+are salted and seasoned, they are processed with a special jelly and
+packaged for sale.  Many people consider them to be a delicacy, although the
+odd smell they emit is not very appetizing.  Perhaps caviar would taste
+better spread on some crusty bread.  

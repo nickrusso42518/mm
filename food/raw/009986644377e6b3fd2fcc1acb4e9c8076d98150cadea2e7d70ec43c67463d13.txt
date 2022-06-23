@@ -1,0 +1,13 @@
+> check eqlookup 009986644377e6b3fd2fcc1acb4e9c8076d98150cadea2e7d70ec43c67463d13
+Item 'a Teolaven salad' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'Teolaven Salad'.
+This item weighs 0 stones and 5 pebbles, and is valued at 350 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +7 hp-regen-prcnt.
+This food has the traits fish gluten vegetable prepared ovo-lacto.
+The salad of Teolaven is a favorite among the locals and visitors.  The
+salad has crisp Teolaven leaves tossed with a homemade dressing, croutons,
+anchovies, and dusted with parmesan.  Although some people like it, they are
+typically sharp-billed harpies, such as the peckerwoods that inhabit the
+south of Beltane.  It is odd that the restaurant would cater to such
+subhumanoids, but nevertheless, they do.  

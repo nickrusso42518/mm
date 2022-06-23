@@ -1,0 +1,16 @@
+> check eqlookup f8f0352d77d0f88447e520b354a09ba1fd2e12d4f9e4a9a35e31691da78ab150
+Item 'a sweet pineapple' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sweet pineapple cat2'.
+This item weighs 0 stones and 1 pebbles, and is valued at 100 gold. {Cat. 2}
+This level 15 item has the attributes: rot-death
+When eaten, this food will provide 4 hours 10 minutes of the 'food' affect, providing +9 saving-spell.
+This food has the traits fruit.
+This can be combined with the following ingredients to cook 'a light breakfast'.
+- Item 'a sweet pineapple'
+- Item 'a green, stripy watermelon'
+- Item 'a sliced banana'
+- Item 'a bucket of oats'
+- Item 'some yogurt'
+A tropical fruit whose yellow flesh are extremely delicious, a pineapple
+can be squeezed and made into a yummy beverage as well.  Then there are
+those mouth-watering pies......  Maybe you should just gobble up the fruit. 

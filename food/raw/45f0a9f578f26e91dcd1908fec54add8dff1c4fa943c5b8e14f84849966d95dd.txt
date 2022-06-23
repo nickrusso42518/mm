@@ -1,0 +1,12 @@
+> check eqlookup 45f0a9f578f26e91dcd1908fec54add8dff1c4fa943c5b8e14f84849966d95dd
+Item 'some tuber chips' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'tuber chips'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 6 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +90 damage-fire-breath.
+This food has the traits prepared tuber.
+A tuber has been sliced very thinly and fried in hot oil, resulting in
+crispy, golden-brown chips.  There are a wide variety of sauces and salts
+served with the chips.  Served very hot, this tasty treat is worth the
+burned tongue you're likely to get, as well as the greasy fingers you'll be
+left with.  

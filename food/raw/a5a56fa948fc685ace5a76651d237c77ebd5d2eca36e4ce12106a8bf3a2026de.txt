@@ -1,0 +1,11 @@
+> check eqlookup a5a56fa948fc685ace5a76651d237c77ebd5d2eca36e4ce12106a8bf3a2026de
+Item 'a shiny red apple' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'apple red shiny'.
+This item weighs 0 stones and 5 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 4 minutes of the 'food' affect, providing +6 ar-exotic-torso.
+This food has the traits fruit.
+*A shiny red apple will last approximately 200 more Alyrian minutes.
+Red with just a hint of gold on one side, shining as if waxed or
+polished.  A crunchy, sweet fruit that makes your mouth smile when you bite
+into it.  

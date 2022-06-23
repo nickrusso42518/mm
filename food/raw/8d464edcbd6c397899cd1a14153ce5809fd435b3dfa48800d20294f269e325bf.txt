@@ -1,0 +1,12 @@
+> check eqlookup 8d464edcbd6c397899cd1a14153ce5809fd435b3dfa48800d20294f269e325bf
+Item 'a piece of New Rigel candy' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'new rigel candy'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 bash-skill-res.
+This food has the traits prepared sweets.
+This small piece of candy is wrapped in a bright paper bearing Lord
+Vashir's picture on it.  You carefully remove the wrapper, and break off a
+bit of the soft candy inside.  It is very sweet and slightly tangy, although
+you can't quite identify the flavor.  The recipe for these sweets is
+carefully guarded, and they are made only in New Rigel.  

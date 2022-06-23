@@ -1,0 +1,12 @@
+> check eqlookup 53efa0746e8382e5a0df453542c011b239c575ea3df8a3d9dcb90e42c383a9a8
+Item 'a strawberry pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'Strawberry Pie'.
+This item weighs 0 stones and 5 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +15 sp-regen.
+This food has the traits gluten prepared fruit sweets.
+This delicious strawberry pie is warm and freshly baked.  You wish you
+had a glass of milk to drink with it.  Made from the freshly picked fruit
+just beyond the gate, the pie looks mouth watering and almost too good to be
+true.  You cut a large piece for yourself, sampling a small taste of the
+pie's filling first.  

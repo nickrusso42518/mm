@@ -1,0 +1,10 @@
+> check eqlookup 4c018fdfeffcc1805d7f8f147246a9263c268e0a225f72c3312a90ee07b8c334
+Item 'a ball of cheese' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ball cheese'.
+This item weighs 0 stones and 2 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits ovo-lacto.
+The cheese has been shaped into a small ball.  It is pale yellow.  The smell
+is not overly sharp, but it still smells cheesy.  It has a very pleasing
+taste, neither sharp nor mild.  Its texture is firm, but not crumbly.  

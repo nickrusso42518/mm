@@ -1,0 +1,11 @@
+> check eqlookup 323ca817d1adae1556a42c1cedd73993eafb7d45c46bb3f837eb3f5ddc24a8f2
+Item 'a tuna roll' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'tuna roll sushi food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-slash-wings.
+This food has the traits fish.
+One of the exotic foods available to port cities such as Rune is sushi. 
+The tuna roll is a large piece of seaweed wrapped around a layer of rice
+embracing the freshest tidbit of raw tuna imaginable.  A smear of wasabi
+adds the perfect touch of flavor to this delicacy.  

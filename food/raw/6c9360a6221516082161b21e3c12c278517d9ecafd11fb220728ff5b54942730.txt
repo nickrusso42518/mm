@@ -1,0 +1,11 @@
+> check eqlookup 6c9360a6221516082161b21e3c12c278517d9ecafd11fb220728ff5b54942730
+Item 'a plate of waffles' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'waffles hot plate'.
+This item weighs 0 stones and 5 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 30 item has the attributes: identified
+When eaten, this food will provide now of the 'food' affect, providing +10 slash-skill-res.
+This food has the traits gluten prepared.
+A stack of four waffles drowned in syrup and assorted fresh fruit sits
+unevenly on this plate.  Each waffle has been sculpted with a mold, creating
+many tiny compartments in which puddles of syrup collect.  An intense heat
+emanates from each of the golden brown waffles.  

@@ -1,0 +1,12 @@
+> check eqlookup ab79406b563aa403bd4b095272a1ae6b22ccaa1f176004c78160981f3377d55f
+Item 'some white tail deer venison' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'white tail deer venison'.
+This item weighs 0 stones and 26 pebbles, and is valued at 350 gold. {Cat. 2}
+This level 14 item has no special attributes.
+When eaten, this food will provide 6 hours 40 minutes of the 'food' affect, providing +125 spell-points.
+This food has the traits raw-meat prepared.
+This piece of meat has been sliced from the flank of a delicious white
+tail deer.  Because they are considered a delicacy in New Rigel, many
+hunters focus on finding these elusive animals.  Although the deer are
+rather small, their meat can be sold for a high price to restaurants, making
+it a very profitable endeavor.  

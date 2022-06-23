@@ -1,0 +1,10 @@
+> check eqlookup 49330557a5464a93277230adee00218afb2d460365d5b017b651a35dae4ed1ce
+Item 'a pie crust' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'teolavenpie crust baking pie'.
+This item weighs 0 stones and 5 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +10 defense-speed.
+This food has the traits gluten prepared.
+This pie crust was formed for the purpose of making tasty pies for people
+who visit and live in Teolaven.  The pie crust has some brown sugar on the
+top of it spread evenly across the crust.  

@@ -1,0 +1,17 @@
+> check eqlookup c07efaea8fbe4a74a167f7ecb89e386dc35d84769a96f17f47319bdd13480b08
+Item 'a delicious turkey drumstick' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'fresh turkey drumstick delicious stick'.
+This item weighs 0 stones and 5 pebbles, and is valued at 280 gold. {Cat. 1}
+This level 10 item has the attributes: none
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +9 saving-paralysis.
+This food has the traits poultry prepared.
+*Your current location must be equal to Kessarian's Dungeon to use this item. (Enforced)
+*Your current location must be equal to Kessarian's Chamber to use this item. (Enforced)
+Widely recognised as the tastiest part of the turkey, the drumstick is
+not only nourishing but also the best part to devour to impress friends and
+to intimidate foes.  Throughout history, great leaders have achieved
+incredible diplomatic wins while gnawing on a turkey drumstick, much like
+the one you now have in your hands.  It is browned to perfection and you
+cannot help but salivate as you stare at this tantalising piece of meat.  
++++ a delicious turkey drumstick will, when EATen, restore its eater to full
+vitals.  

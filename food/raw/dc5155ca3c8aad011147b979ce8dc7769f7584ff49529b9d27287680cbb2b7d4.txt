@@ -1,0 +1,11 @@
+> check eqlookup dc5155ca3c8aad011147b979ce8dc7769f7584ff49529b9d27287680cbb2b7d4
+Item 'a vinegar pie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'vinegar pie meringue'.
+This item weighs 0 stones and 3 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +6 ar-pierce-head.
+This food has the traits gluten fruit sweets.
+This meringue-topped pie is filled with a creamy vinegar and lemon
+custard.  The rich golden filling is tart and sweet, the meringue fluffy,
+light and white.  Sweets are a rare treat in the frozen north, and this
+simple pie is a favorite with the lumberjacks after the evening meal.  

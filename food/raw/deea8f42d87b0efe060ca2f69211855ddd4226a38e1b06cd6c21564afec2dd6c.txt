@@ -1,0 +1,12 @@
+> check eqlookup deea8f42d87b0efe060ca2f69211855ddd4226a38e1b06cd6c21564afec2dd6c
+Item 'a steamed fish meal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'steamed fish meal cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 1 hour 5 minutes of the 'food' affect, providing +25 aqueous-weapon
+-activation-damage.
+This food has the traits fish prepared.
+This succulent fish has been slowly steamed with small green onions,
+sliced ginger and garlic.  The meal is accompanied by by an eggplant puree
+mixed with crushed olives and a roasted potato galette.  The steam from the
+fish rises from the plate to tempt the senses.  

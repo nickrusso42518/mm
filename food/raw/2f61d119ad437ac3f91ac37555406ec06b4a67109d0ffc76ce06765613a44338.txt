@@ -1,0 +1,12 @@
+> check eqlookup 2f61d119ad437ac3f91ac37555406ec06b4a67109d0ffc76ce06765613a44338
+Item 'a bunch of toes' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'bunch toes'.
+This item weighs 0 stones and 2 pebbles, and is valued at 300 gold. {Cat. 2}
+This level 12 item has no special attributes.
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +6 ar-bash-legs.
+This food has the traits raw-meat.
+Toes taken from all sorts of humanoids are all packed together.  They
+have come from children, babies, adults, bums, spellcasters, ogres,
+warriors, and even thieves!  The toes have gone pale with their lack of
+blood, which has obviously poured out the back, staining the whole
+dismembered, back side of each.  

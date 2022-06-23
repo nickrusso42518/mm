@@ -1,0 +1,12 @@
+> check eqlookup 61b9ad583ec8c2300bd52e4568369883569964770b7dca657d12b9569a373516
+Item 'a ruin of kimchi' is type food, alignment 200, made of food (in (fresh) condition),[EQDB]
+has keywords 'heap orcish kimchi kimchee fried rice dish ruin'.
+This item weighs 0 stones and 14 pebbles, and is valued at 28,800 gold. {Cat. 2}
+This level 241 item has the attributes: always-equipment-index none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 energy-skill-res.
+This food has the traits vegetable prepared.
+*Your standing points with The Burning Spear Orc Clan must be greater than or equal to 4,125 to use this item.
+Composed of pickled, fermenting cabbage, chilis and onions, it is no
+surprise that the orcs like this dreadful dish.  Even less surprising is the
+revelation that the collective noun for kimchi is 'a ruin'.  It smells like
+compost and tastes amazing, but the orcs still love it.  

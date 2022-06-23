@@ -1,0 +1,11 @@
+> check eqlookup 9c6a327d2f523664c85abbdc52761edcdac9062a41e492d32589cd23f370adbb
+Item 'a loaf of stale sesame bread' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'stale bread'.
+This item weighs 0 stones and 1 pebbles, and is valued at 850 gold. {Cat. 2}
+This level 34 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 poison-skill-dam.
+This food has the traits gluten prepared.
+A loaf of bread, dusted with sesame seeds lies here on the ground.  You
+pick it up and it feels rather hard.  A whitish-green mold is growing on the
+underside of the bread, and it smells pretty bad.  You would never even
+think about eating this.  Well, maybe if you weren't so hungry...  

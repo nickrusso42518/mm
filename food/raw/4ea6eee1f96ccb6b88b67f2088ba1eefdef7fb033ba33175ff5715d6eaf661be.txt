@@ -1,0 +1,12 @@
+> check eqlookup 4ea6eee1f96ccb6b88b67f2088ba1eefdef7fb033ba33175ff5715d6eaf661be
+Item 'a steaming hot pumpkin pie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pie pumpkin piequest global'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +5 healing-self-prcnt.
+This food has the traits gluten prepared sweets.
+*A steaming hot pumpkin pie will last approximately 86,400 more Alyrian minutes.
+Hot steam rises up from this pumpkin pie, causing the saliva in your
+mouth to drip in anticipation of the taste.  Its golden pastry looks crisp
+and delicious.  Maybe instead of devouring it you should be generous and
+share it with a pilgrim.  

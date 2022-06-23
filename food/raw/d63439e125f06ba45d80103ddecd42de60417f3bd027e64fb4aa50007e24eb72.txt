@@ -1,0 +1,10 @@
+> check eqlookup d63439e125f06ba45d80103ddecd42de60417f3bd027e64fb4aa50007e24eb72
+Item 'a green mushroom' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'green mushroom'.
+This item weighs 0 stones and 1 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 1 minute of the 'food' affect, providing +8 ar-arms.
+This food has the traits tuber.
+The mushroom is firm in texture, with a rounded cap and thick stem.  It is a
+sickly green.  There is no scent to it that you can detect.  The very
+appearance of this fungus makes you to wonder if it might be poisonous.  

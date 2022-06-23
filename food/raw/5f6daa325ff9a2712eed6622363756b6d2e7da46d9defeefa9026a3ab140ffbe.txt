@@ -1,0 +1,15 @@
+> check eqlookup 5f6daa325ff9a2712eed6622363756b6d2e7da46d9defeefa9026a3ab140ffbe
+Item 'a slice of apple pie' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'wedge apple pie whipped cream'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: nomail no-auction no-mimic vanish-death no-save no-rent vanish-if
+-dropped unlockerable
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 acid-skill-res.
+This food has the traits gluten prepared fruit sweets.
+*A slice of apple pie will last approximately 180 more Alyrian minutes.
+This is part of the 'QA bound item test an apple pie 4612' set.
+- Item 'a slice of apple pie'
+Thin slices of apple have been cooked down and baked within a flakey pie
+crust.  Made with a dash of cinnamon, a pinch of cloves, a hint of nutmeg
+and a generous portion of love, this pie is delicious on its own or with a
+heaping scoop of whipped cream.  

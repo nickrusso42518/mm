@@ -1,0 +1,11 @@
+> check eqlookup 6661a75ccf47f83af041d1c746567d797a415e15bd8c01a12ce07f263d12c7fd
+Item 'a bit of candy signifying Sir Adroit and Cunning's knowledge' is type food, alignment 0, made of none
+(in (fresh) condition),[EQDB]
+has keywords 'bit candy signifying sir adroit cunning knowledge'.
+This item weighs 0 stones and 5 pebbles, and is valued at 100,250 gold. {Cat. 2}
+This level 10 item has the attributes: nodecay bind-on-take
+When eaten, this food will provide now of the 'food' affect, providing +25 stamina-regen.
+This food has the traits prepared sweets.
++++ A bit of candy signifying Sir Adroit and Cunning's knowledge will,
+when eaten, grant its eater with +25% proficiencies/spells and +[its
+consumer's level/10] damage for one Alyrian hour: 25/25 charges remaining.

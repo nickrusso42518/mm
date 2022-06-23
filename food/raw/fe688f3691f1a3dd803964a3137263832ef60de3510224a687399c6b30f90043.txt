@@ -1,0 +1,12 @@
+> check eqlookup fe688f3691f1a3dd803964a3137263832ef60de3510224a687399c6b30f90043
+Item 'a slice of lemonade cake' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'slice lemonade cake'.
+This item weighs 0 stones and 4 pebbles, and is valued at 3,000 gold. {Cat. 2}
+This level 90 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +10 negative-skill-res.
+This food has the traits gluten prepared sweets.
+One of the more fantastic items made by the resident chefs, this lemonade
+cake pops and fizzles as it is eaten, disappearing into the ether as it
+touches the tongue, providing a tasty, magical dessert to a delicious meal. 
+Covered in ephemeral pink frosting, it practically begs for you to devour
+it.  

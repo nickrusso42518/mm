@@ -1,0 +1,11 @@
+> check eqlookup 806e2857f90604b424591d41f7930c80e7cb50b2f29c5b4a4425e1f6e207eb50
+Item 'a rothe leg' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'rothe leg cat2'.
+This item weighs 0 stones and 8 pebbles, and is valued at 35 gold. {Cat. 2}
+This level 25 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 poison-skill-res.
+This food has the traits raw-meat.
+Darkly roasted meat is glazed with a tangy sauce.  This leg piece smells
+sharply of spices and radiates heat.  Small bits of char mark where it has
+been overcooked but this shouldn't detract from the taste.  For the hungry
+adventurer this rothe leg will do in a pinch.  

@@ -1,0 +1,20 @@
+> check eqlookup 8f330e7018bb8896b58fe0f4e9029ad9d6d136ee84a6661cbe2aa607080026d5
+Item 'a bagel' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bagel gluten'.
+This item weighs 0 stones and 5 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +7 hp-regen-prcnt.
+This food has the traits gluten.
+This can be combined with the following ingredients to cook 'an everything breakfast bagel'.
+- Item 'a bagel'
+- Item 'a stick of freshly-churned minotaur butter'
+- Item 'a hunk of swiss cheese'
+- Item 'a chicken egg'
+- Item 'a cold glass of milk'
+- Item 'a vorma seed'
+- Item 'some crushed pepper seasoning'
+Bagels are a yummy addition to the active warrior's diet.  They are
+boiled and then baked to a crusty golden brown.  Because of their small
+size, you can store lots of them in a small space, and they keep well during
+long journeys.  This bagel is just waiting to be eaten, and would be best
+with some butter or cream cheese.  

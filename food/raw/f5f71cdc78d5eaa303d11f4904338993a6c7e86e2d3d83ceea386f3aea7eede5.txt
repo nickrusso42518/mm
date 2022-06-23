@@ -1,0 +1,13 @@
+> check eqlookup f5f71cdc78d5eaa303d11f4904338993a6c7e86e2d3d83ceea386f3aea7eede5
+Item 'a herring and cream cheese canape' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'herring cream cheese canape'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +12 earth-melee-dam.
+This food has the traits fish gluten prepared ovo-lacto.
+*A herring and cream cheese canape will last approximately 1,000 more Alyrian minutes.
+Slices of succulent herring top a layer of softened cream cheese that
+sits atop a slice of toasted sourdough bread.  A small amount of delicately
+flavored caviar and two pieces of chives on the very top lend an elegant
+appearance to this tasty treat. 

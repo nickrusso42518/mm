@@ -1,0 +1,14 @@
+> check eqlookup 75ec7a2166f1f7e914813702e5a8624eb6eacca3e8fcd7be70afd72063d0efde
+Item 'a large spinach leaf' is type food, alignment 25, made of organic (in (fresh) condition),[EQDB]
+has keywords 'large spinach leaf'.
+This item weighs 0 stones and 2 pebbles, and is valued at 550 gold. {Cat. 2}
+This level 126 item has the attributes: identified none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +20 fistfighting.
+This food has the traits vegetable.
+*A large spinach leaf will last approximately 24,000 more Alyrian minutes.
+This singular leaf has been carelessly ripped from a large bunch of
+spinach; thin tears ascend from the bottom of the leaf, abruptly stopping
+after a few inches.  The leaf itself is limp and dark green in color.  Small
+crinkles cover each side of the large leaf showing its natural growth
+pattern.  An intense aroma emanates from it and lingers on anything that
+touches it.  This bait would be best suited for a medium-sized mithril trap.

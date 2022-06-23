@@ -1,0 +1,13 @@
+> check eqlookup 01cc89bc898a8a7c884c2fbec8d5fe22adb4246810b9e73401648f116ce15100
+Item 'a half-eaten corpse' is type food, alignment -150, made of organic (in (fresh) condition),[EQDB]
+has keywords 'eaten body half'.
+This item weighs 2 stones and 30 pebbles, and is valued at 500 gold. {Cat. 0}
+This level 20 item has the attributes: no-identify rot-death no-mimic none
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +12 sunlight-melee-dam.
+This food has the traits raw-meat.
+This used to be the corpse of a male knight who recently died under
+mysterious circumstances.  A large portion of his torso has been eaten away,
+leaving a strange black acrid slime behind.  The smell of rotting flesh
+mixed with the black slime is overpowering to even the hardiest of
+minotaurs.  The eyes of the corpse have strangely been enveloped by a layer
+of slime, giving the corpse an almost demonic feel.  

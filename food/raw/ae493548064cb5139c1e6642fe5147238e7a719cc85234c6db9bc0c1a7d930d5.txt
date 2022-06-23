@@ -1,0 +1,12 @@
+> check eqlookup ae493548064cb5139c1e6642fe5147238e7a719cc85234c6db9bc0c1a7d930d5
+Item 'a bowl of Kraz's specialty' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bowl kraz specialty soup stew steaming strange white'.
+This item weighs 0 stones and 3 pebbles, and is valued at 405 gold. {Cat. 0}
+This level 15 item has the attributes: no-identify none
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +10 conduit-prcnt.
+This food has the traits fish poultry raw-meat vegetable prepared tuber seafood.
+This is Kraz's specialty - the stew that made him famous.  The ingredients
+are a secret known only to the fabled kobold chef, and jealously guarded. 
+Rat is the number one ingredient, along with goblin sweat and whatever else
+Kraz can pick up off the ground, or is slow enough to be caught and thrown
+into his kettle.  

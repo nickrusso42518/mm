@@ -1,0 +1,13 @@
+> check eqlookup 24f51b48e21b787d57899d8c12bb710ef671c8dcaecded768b03c32534fc23bf
+Item 'a clump of silver clover' is type food, alignment 50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'clump silver clover'.
+This item weighs 0 stones and 9 pebbles, and is valued at 7,500 gold. {Cat. 2}
+This level 11 item has the attributes: identified none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +12 slash-skill-dam.
+This food has the traits raw-plant.
+*A clump of silver clover will last approximately 24,000 more Alyrian minutes.
+A little pile of shining silver, three-leaved clovers has been pressed
+tightly together, creating a ball.  Several small stems stick out from its
+sides, making it look untidy.  The ball of clover breaths as the pressure
+being applied to it is released.  A strong, pleasant aroma rises from it and
+fills the area.  

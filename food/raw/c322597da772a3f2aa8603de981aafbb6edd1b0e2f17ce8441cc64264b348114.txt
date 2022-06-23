@@ -1,0 +1,13 @@
+> check eqlookup c322597da772a3f2aa8603de981aafbb6edd1b0e2f17ce8441cc64264b348114
+Item 'a juicy turkey leg' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'turkey leg'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +25 flaming-weapon-activation
+-damage.
+This food has the traits poultry prepared.
+This is a large leg, from what must have been one of the largest turkeys
+to have ever existed on Alyria.  Its skin is crispy golden brown, and it is
+tender and juicy underneath.  The smell of it is nearly intoxicating, and it
+causes your mouth to salivate.  While it is more than you really wish to pay
+you decided it is well worth the price.  

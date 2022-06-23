@@ -1,0 +1,12 @@
+> check eqlookup 26e151dfaea45defc8db40c64dbbf19b25f4df1d08b336ba52da546277d9799b
+Item 'a small red delicious apple' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'red apple cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide 24 minutes of the 'food' affect, providing +50 damage-grapple.
+This food has the traits fruit.
+You hold in your hands a very large apple.  Rumor has it that the
+wandering druids visit local orchards and enhance the quality of the apples.
+This looks to be something of their work, you suspect.  It does look really
+sweet and delicious.  Surely one apple won't spoil your dinner and this
+fruit is very tempting.  

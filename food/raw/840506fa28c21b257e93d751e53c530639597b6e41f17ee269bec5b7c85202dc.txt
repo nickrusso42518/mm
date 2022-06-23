@@ -1,0 +1,11 @@
+> check eqlookup 840506fa28c21b257e93d751e53c530639597b6e41f17ee269bec5b7c85202dc
+Item 'a roast salmon meal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'roast salmon meal cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +6 ar-exotic-head.
+This food has the traits fish prepared.
+A filet of fresh salmon has been quickly seared in a hot pan creating a
+cripsy crust.  It was then baked to medium rare.  A sauce of crushed
+tomatoes, garlic, and shredded basil completes the filet.  It is accompanied
+by a rice dish mixed with slivered almonds.  

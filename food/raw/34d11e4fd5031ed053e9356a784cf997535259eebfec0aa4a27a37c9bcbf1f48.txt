@@ -1,0 +1,12 @@
+> check eqlookup 34d11e4fd5031ed053e9356a784cf997535259eebfec0aa4a27a37c9bcbf1f48
+Item 'a New Rigel pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'new rigel pie'.
+This item weighs 0 stones and 14 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 5 hours of the 'food' affect, providing +6 ar-pierce-tail.
+This food has the traits gluten raw-meat prepared sweets.
+This large pie has a flaky, golden-brown crust, and looks quite tasty. 
+It has to be freshly-baked, since a delightful aroma is wafting up from it. 
+However, upon closer examination, you decide that the ingredients in the pie
+are rather suspicious.  Perhaps you'd be better off purchasing something
+else instead.  

@@ -1,0 +1,12 @@
+> check eqlookup d249ac5bb51c1873b6972142c5416d362be2bc95f9909afcb1de2b07f825ada9
+Item 'a hunk of cheese' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'hunk cheese food'.
+This item weighs 0 stones and 5 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 earth-skill-res.
+This food has the traits ovo-lacto.
+It is a large, triangular hunk of delicious-smelling cheese.  The hunk 
+looks like it has been sliced out of a large wheel of cheese.  Together 
+with some good company, a loaf of bread, and a bottle of good wine, 
+this hunk of cheese would deliciously complete a good meal.  Now to 
+find a loaf of bread, a bottle of good wine, and some good company.

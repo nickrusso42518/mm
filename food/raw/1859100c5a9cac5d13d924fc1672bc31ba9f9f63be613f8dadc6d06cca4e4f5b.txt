@@ -1,0 +1,13 @@
+> check eqlookup 1859100c5a9cac5d13d924fc1672bc31ba9f9f63be613f8dadc6d06cca4e4f5b
+Item 'a dead fish' is type food, alignment -30, made of organic (in (somewhat fresh) condition),[EQDB]
+has keywords 'dead fish carcass corpse'.
+This item weighs 0 stones and 2 pebbles, and is valued at 1,125 gold. {Cat. 2}
+This level 45 item has the attributes: nohide none
+When eaten, this food will provide 2 hours 23 minutes of the 'food' affect, providing +1 distance.
+This food has the traits fish.
+*A dead fish will last approximately 5 more Alyrian minutes.
+This New Kolvir fish corpse looks relatively fresh, despite the foul
+scent it exudes and the gaps between the scales that look like they are
+beginning to decay.  Each of the many scales that cover the fish's body
+shimmer with a silver luminescence.  Obviously this type of carp is a
+primary food source for New Kolvir.  

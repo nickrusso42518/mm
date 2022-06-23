@@ -1,0 +1,13 @@
+> check eqlookup 473eedc5ea86203a60e44ae84f7fdd96fb2e13ab1fbe51fc71d634d3df458798
+Item 'a hunk of bloody meat' is type food, alignment -300, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'hunk meat bloody'.
+This item weighs 0 stones and 30 pebbles, and is valued at 125 gold. {Cat. 0}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits raw-meat.
+Maggots swarm all over this disgusting piece of meat, flesh ripped from
+some hapless traveler.  Discolored, the stench of the meat wrinkles your
+nose and causes your stomach to quiver restlessly.  Are you hungry enough to
+attempt to eat this meat?  It is about the size of a steak and perhaps if
+you cook it over a nice fire you'll be able to forget all the maggots
+crawling all over it.  

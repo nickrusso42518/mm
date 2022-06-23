@@ -1,0 +1,11 @@
+> check eqlookup 35e37adca8ff77474de0bfe7f395a7d7f334719530c53f9c1c3e76dc8d91ab93
+Item 'a tricky treat' is type food, alignment -50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'hand wrapped candy tricky treat'.
+This item weighs 0 stones and 3 pebbles, and is valued at 20,625 gold. {Cat. 2}
+This level 25 item has the attributes: unbreakable bind-on-take none
+When eaten, this food will provide 1 minute of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits prepared sweets nuts.
++++ When eaten, a tricky treat will prepare the player to attend the most 
+prestigeous All Spirits Eve parties!  Need a fresh costume? Eat another treat!  
+Tricky Treats--an Alyrian All Spirits Eve tradition.
+The wrapper bears a note: Best when eaten at night.

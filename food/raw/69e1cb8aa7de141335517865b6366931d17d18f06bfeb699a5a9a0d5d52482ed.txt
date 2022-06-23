@@ -1,0 +1,10 @@
+> check eqlookup 69e1cb8aa7de141335517865b6366931d17d18f06bfeb699a5a9a0d5d52482ed
+Item 'a scented apple' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'apple scented'.
+This item weighs 0 stones and 6 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 1 item has the attributes: npc-vanish-death no-save no-steal
+When eaten, this food will provide now of the 'food' affect, providing +12 holy-melee-dam.
+This food has the traits fruit.
+This apple looks very delicious, being a wonderful rosy color.  It is
+scented in a way that particularly draws a horse's attention and might even
+be used to win the favor of an unruly steed.  

@@ -1,0 +1,12 @@
+> check eqlookup b5e5884f29ba6053297f0e12998802ab3607eb3ce6d2a211ccc3fdc2a574514a
+Item 'a ripe pumpkin' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'ripe pumpkin'.
+This item weighs 0 stones and 10 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 slash-skill-dam.
+This food has the traits vegetable.
+A large and bulbous orange pumpkin grows here among other pumpkins, amid
+brown and green vines.  This pumpkin looks rather delicious and your mouth
+waters at the thought of roasting the pumpkin seeds contained within it. 
+However, your mind begins to wander, as you consider the possibility of
+carving a cute jack-o'-lantern in preparation for All Spirits' Eve instead. 

@@ -1,0 +1,12 @@
+> check eqlookup 8ae3781c90cdb16eb13077dbf03cda069e4e95f365749e85f2d7019da9982442
+Item 'a bag of bits o fish' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bits fish cat2'.
+This item weighs 0 stones and 17 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 30 item has no special attributes.
+When eaten, this food will provide 3 hours of the 'food' affect, providing +10 wood-skill-res.
+This food has the traits fish prepared.
+As you open the bag of fish bits, you are overwhelmed with the exotic
+blend of spices as they instantly cause your mouth to water.  Even if you
+weren't hungry, the sight of the fish causes you to tell yourself that you
+need a snack.  The only downfall that you can see about this treat is that
+there isn't enough.  

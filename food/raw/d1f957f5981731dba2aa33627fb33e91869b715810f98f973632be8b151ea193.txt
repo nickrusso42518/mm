@@ -1,0 +1,21 @@
+> check eqlookup d1f957f5981731dba2aa33627fb33e91869b715810f98f973632be8b151ea193
+Item 'a raw brown potato' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'raw brown potato dirt'.
+This item weighs 0 stones and 5 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: buried
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +10 bash-skill-res.
+This food has the traits tuber.
+This can be combined with the following ingredients to cook 'a tub of mirepoix'.
+- Item 'a small salt crystal'
+- Item 'a bottle of olive oil'
+- Item 'a gunpowder peppercorn'
+- Item 'a cup of water'
+- Item 'a raw brown potato'
+- Item 'a fresh, raw onion'
+- Item 'a stick of freshly-churned minotaur butter'
+- Item 'a large carrot'
+This overturned raw brown potato is partially covered in soil and looks
+quite dirty.  While it does not look good in its current state, it will
+definitely taste better when cooked.  Alternatively if you like it fresh,
+you should just peel off the skin and remove the eyes so that it would look
+a little more appetizing.  

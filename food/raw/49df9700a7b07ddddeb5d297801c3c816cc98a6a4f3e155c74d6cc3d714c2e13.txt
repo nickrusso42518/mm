@@ -1,0 +1,15 @@
+> check eqlookup 49df9700a7b07ddddeb5d297801c3c816cc98a6a4f3e155c74d6cc3d714c2e13
+Item 'a sugar cookie' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'cookie suger'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: no-auction no-donate vanish-death nochange no-save vanish-if-dropped
+none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 necromantic-skill-res.
+This food has the traits gluten prepared sweets.
+*A sugar cookie will last approximately 10,800 more Alyrian minutes.
+Sugar cookies are sweet and delicious.  Baked on the hearth to a light
+golden brown, it is chewy and sweet.  It also smells as wonderful as it
+looks.  The cookie would taste even better with a large frothy glass of
+milk.  It is one of the favorites of travelers as it holds up well in
+storage.  You wonder how someone could have the resolve to not eat them the
+moment they bought the cookies.  

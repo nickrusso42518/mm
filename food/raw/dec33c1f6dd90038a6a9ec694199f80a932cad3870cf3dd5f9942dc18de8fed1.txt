@@ -1,0 +1,13 @@
+> check eqlookup dec33c1f6dd90038a6a9ec694199f80a932cad3870cf3dd5f9942dc18de8fed1
+Item 'an edible plant' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'plant edible'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 minute of the 'food' affect, providing +12 sunlight-skill-dam.
+This food has the traits raw-plant.
+The small new leaves of this plant have a sweet lemony taste while the
+larger older leaves tend to taste extremely bitter.  This edible plant is a
+staple food in many areas, but it's fairly rare around Rune.  You remember
+an old woman talking about the edible plant not growing near the ocean,
+because the salt from the water covers the leaves and steals the water out
+of the plant, killing it over time.  

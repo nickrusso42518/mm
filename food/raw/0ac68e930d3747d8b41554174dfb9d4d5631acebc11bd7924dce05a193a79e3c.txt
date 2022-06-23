@@ -1,0 +1,13 @@
+> check eqlookup 0ac68e930d3747d8b41554174dfb9d4d5631acebc11bd7924dce05a193a79e3c
+Item 'an iron ration' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'iron ration'.
+This item weighs 0 stones and 5 pebbles, and is valued at 150 gold. {Cat. 2}
+This level 10 item has the attributes: nodecay
+When eaten, this food will provide 2 hours of the 'food' affect, providing +100 damage-backstab.
+This food has the traits prepared.
+It is a bar of food soldiers are usually provided with should they get 
+separated from their units and trapped behind enemy lines or where they 
+are unable to get food.  It is made to last indefinitely in a soldier's 
+pack, and looks and feels like something to sharpen swords and axes 
+with.  No one has ever dared to learn where this grim food is made, let 
+alone what it is made of.

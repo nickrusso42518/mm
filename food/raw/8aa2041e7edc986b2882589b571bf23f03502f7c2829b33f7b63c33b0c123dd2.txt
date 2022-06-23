@@ -1,0 +1,12 @@
+> check eqlookup 8aa2041e7edc986b2882589b571bf23f03502f7c2829b33f7b63c33b0c123dd2
+Item 'a bowl of milky pasta' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'bowl pasta alfredo milky cat2'.
+This item weighs 0 stones and 10 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +6 ar-bash-torso.
+This food has the traits gluten prepared ovo-lacto.
+The bowl of thin flat noodles makes your mouth water.  This dish is an
+exotic creation you have never seen before but taste anyway.  It has to be
+the best tasting food next to Mama Lois' pies that you have ever eaten. 
+There is a wonderful, spicy sauce topping the tender noodles and there is
+hot bread served with herbs and oil on the side.  

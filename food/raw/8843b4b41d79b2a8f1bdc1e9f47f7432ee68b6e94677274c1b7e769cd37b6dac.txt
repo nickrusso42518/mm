@@ -1,0 +1,11 @@
+> check eqlookup 8843b4b41d79b2a8f1bdc1e9f47f7432ee68b6e94677274c1b7e769cd37b6dac
+Item 'a tart lollipop' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'tart lollipop candy cat2'.
+This item weighs 0 stones and 1 pebbles, and is valued at 320 gold. {Cat. 2}
+This level 85 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +8 ar-arms.
+This food has the traits prepared sweets.
+The flat surface of this tart candy has a citric smell to it.  This treat
+is commonly seen being eaten by the young dracon school children.  The green
+surface has started to melt in the heat and has become quite sticky.  It
+would probably be best to eat this quickly.  

@@ -1,0 +1,12 @@
+> check eqlookup b4803ba58630fb65952f90bef54e3326a62d7d8a071766c45d5e3557adbcb1bf
+Item 'a chocolate covered orange peel' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'candy orange chocolate peel'.
+This item weighs 0 stones and 2 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide 1 minute of the 'food' affect, providing +2 ar.
+This food has the traits prepared fruit sweets ovo-lacto.
+*A chocolate covered orange peel will last approximately 200 more Alyrian minutes.
+Sweet orange decadently dipped in dark chocolate, colorfully wrapped to
+protect the chocolate.  This delicacy is quite rare, found only in the
+finest of Alyrian homes.  Does one eat it or savor the aroma emanating from
+it?  

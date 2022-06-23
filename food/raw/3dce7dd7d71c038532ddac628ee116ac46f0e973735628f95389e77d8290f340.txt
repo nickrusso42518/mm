@@ -1,0 +1,9 @@
+> check eqlookup 3dce7dd7d71c038532ddac628ee116ac46f0e973735628f95389e77d8290f340
+Item 'some bloodstained candy' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'bloodstained candy'.
+This item weighs 0 stones and 5 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: nodrop nouncurse nodecay none
+When eaten, this food will provide now of the 'food' affect, providing +12 cold-melee-dam.
+This food has the traits prepared sweets.
++++ some bloodstained candy will, when eaten, boost its eater's spell-
+points and stamina by 25% for one Alyrian hour.

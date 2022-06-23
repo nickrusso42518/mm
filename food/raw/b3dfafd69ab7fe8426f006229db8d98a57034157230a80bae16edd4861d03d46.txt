@@ -1,0 +1,12 @@
+> check eqlookup b3dfafd69ab7fe8426f006229db8d98a57034157230a80bae16edd4861d03d46
+Item 'a strawberry' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'strawberry'.
+This item weighs 0 stones and 8 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +25 frost-weapon-activation
+-damage.
+This food has the traits fruit.
+The strawberry is huge and it fits very nicely in the palm of your hand.  It
+is a deep, ruby red, indicating that it is perfectly ripe and ready to be
+gobbled down.  You can feel it going softer by the minute.  Eat it now
+before it loses its succulent taste and texture.  

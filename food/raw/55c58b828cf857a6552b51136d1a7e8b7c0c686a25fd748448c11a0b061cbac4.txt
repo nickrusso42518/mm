@@ -1,0 +1,11 @@
+> check eqlookup 55c58b828cf857a6552b51136d1a7e8b7c0c686a25fd748448c11a0b061cbac4
+Item 'a rotisserie rothe leg' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'rotisserie rothe leg cat2'.
+This item weighs 0 stones and 19 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 32 item has no special attributes.
+When eaten, this food will provide 29 minutes of the 'food' affect, providing +12 bash-skill-dam.
+This food has the traits raw-meat prepared.
+Mouth-watering smells of spiced rotisserie waft from this meaty leg.  The
+tender meat has been slow roasted and glazed with a sweet sauce.  One can't
+help but think that maybe underground food isn't that bad if it's all like
+this.  

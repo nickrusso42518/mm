@@ -1,0 +1,11 @@
+> check eqlookup 3a4d1535af14ed30867e746ed2a91b9fe35dbc477cbfdbf8d2db14c8a8642301
+Item 'a strip of salty rat jerky' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'dry jerky rat salted salty strip meat'.
+This item weighs 0 stones and 1 pebbles, and is valued at 430 gold. {Cat. 2}
+This level 12 item has the attributes: throwable none
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +100 spellcasting-priority.
+This food has the traits raw-meat prepared.
+This is a strip of rat meat that didn't end up in Kraz's pot.  Instead it
+has been dried, salted, and turned into jerky.  The meat is tough and
+stringy, and with what little there is of it, it may best be to save it for
+the times there is nothing else available to eat.  

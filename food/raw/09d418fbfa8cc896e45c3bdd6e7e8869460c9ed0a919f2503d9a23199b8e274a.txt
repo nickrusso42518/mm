@@ -1,0 +1,11 @@
+> check eqlookup 09d418fbfa8cc896e45c3bdd6e7e8869460c9ed0a919f2503d9a23199b8e274a
+Item 'clams casino' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'clams casino meal'.
+This item weighs 0 stones and 3 pebbles, and is valued at 325 gold. {Cat. 2}
+This level 13 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +9 saving-paralysis.
+This food has the traits prepared seafood.
+Two dozen cherrystone clams have been used in this magnificent recipe
+characteristic of Dorathon.  Lemon juice, butter, parsley, and rock salt are
+the specific smells coming from the sauce in which the clams are swimming. 
+Shallots and green pepper slices make a bed for the clams to lie.  

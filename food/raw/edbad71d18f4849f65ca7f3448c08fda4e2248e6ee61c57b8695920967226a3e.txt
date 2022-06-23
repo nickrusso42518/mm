@@ -1,0 +1,10 @@
+> check eqlookup edbad71d18f4849f65ca7f3448c08fda4e2248e6ee61c57b8695920967226a3e
+Item 'coco cloud tort' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'coco cloud tort cat2'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 3 hours of the 'food' affect, providing +175 stamina.
+This food has the traits gluten prepared sweets.
+This chocolate delight is served in a chilled glass dish.  There are
+layers created with a fluffy chocolate mousse alternated with almonds and
+whipped cream.  The flavor is very rich and creamy yet melts in the mouth.  

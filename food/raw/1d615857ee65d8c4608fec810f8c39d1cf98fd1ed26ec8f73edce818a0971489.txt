@@ -1,0 +1,13 @@
+> check eqlookup 1d615857ee65d8c4608fec810f8c39d1cf98fd1ed26ec8f73edce818a0971489
+Item 'a raspberry crepe' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'raspberry crepe'.
+This item weighs 0 stones and 0 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +5 running-speed.
+This food has the traits gluten prepared fruit sweets.
+*A raspberry crepe will last approximately 1,000 more Alyrian minutes.
+A thin, delicate crepe is filled with fresh raspberries in a light sauce
+of pureed raspberries mixed with a light touch of black raspberry liquor. 
+Placed on top of the crepe is more of the sauce, along with a small dollop
+of freshly whipped cream and more fresh raspberries.  Light in appearance,
+its flavors more than satisfy the appetite.  

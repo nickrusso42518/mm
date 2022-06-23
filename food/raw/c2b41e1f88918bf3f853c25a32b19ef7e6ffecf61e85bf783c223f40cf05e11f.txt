@@ -1,0 +1,12 @@
+> check eqlookup c2b41e1f88918bf3f853c25a32b19ef7e6ffecf61e85bf783c223f40cf05e11f
+Item 'a thin strip of fresh meat' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'strip fresh meat'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 minute of the 'food' affect, providing +12 acid-melee-dam.
+This food has the traits raw-meat.
+This small strip of meat has been ripped from the carcass of a freshly
+slaughtered cow.  The blood still pools around the edges, making it
+succulent and juicy looking.  It looks as though it would be almost the
+perfect size for a bird to eat, not much more than a mouthful but enough to
+sustain them for a while.  

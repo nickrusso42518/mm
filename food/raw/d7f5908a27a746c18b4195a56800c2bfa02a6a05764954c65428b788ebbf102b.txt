@@ -1,0 +1,12 @@
+> check eqlookup d7f5908a27a746c18b4195a56800c2bfa02a6a05764954c65428b788ebbf102b
+Item 'a nice piranha filet' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'piranha filet food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +6 ar-bash-legs.
+This food has the traits fish prepared.
+This fillet of piranha smells awesome.  It has been cooked Cajun style
+with spices, seasoning and vegetables.  You look around for a source of
+water before you start to eat knowing that it is going to be very hot.  It
+is hard to believe that such a mean little fish could be so good is truly
+surprising.  

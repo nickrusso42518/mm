@@ -1,0 +1,13 @@
+> check eqlookup e61c4eca87d3067c86ba75f62793dafd4431662ffd8af0a091c7cdce8078b499
+Item 'a slice of luscious cake' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'slice cake wedding'.
+This item weighs 0 stones and 0 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +12 charm-melee-dam.
+This food has the traits prepared sweets.
+*A slice of luscious cake will last approximately 1,000 more Alyrian minutes.
+Moist white cake flavored with almond and vanilla is frosted with a rich
+buttercream scented with rose water.  A delicate pastel rose made of
+marzipan and spun sugar tops the slice.  A layer of raspberry preserves is
+placed between the layers of cake.  The baker takes great pride in creating
+works of art for the couples of Alyria being joined on their special day.  

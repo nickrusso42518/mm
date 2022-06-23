@@ -1,0 +1,12 @@
+> check eqlookup 9b8e63d20833eb87d04c5c589b58bd305fac872a46ebaf63fa77d64dc7589fe1
+Item 'a rancid cut of meat' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'meat rancid'.
+This item weighs 0 stones and 2 pebbles, and is valued at 405 gold. {Cat. 0}
+This level 15 item has the attributes: none
+When eaten, this food will provide 4 minutes of the 'food' affect, providing +60 damage-boss-cat4.
+This food has the traits raw-meat.
+A slab of meat lies here on the ground.  It is covered in all sorts of
+mold and filth.  The smell of it nearly makes you lose your lunch.  It
+appears to once have been part of a goblin, and that explains the rancid
+aroma.  Sitting here to rot on the ground for months couldn't have helped
+either.  

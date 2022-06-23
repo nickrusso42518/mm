@@ -1,0 +1,12 @@
+> check eqlookup fdca3c2f4e202eca49bf5276f560a747e17c334d967f9895bc52e6b5e15ab8e7
+Item 'a chicken's egg' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'chicken egg'.
+This item weighs 0 stones and 1 pebbles, and is valued at 655 gold. {Cat. 2}
+This level 5 item has the attributes: explode
+When eaten, this food will provide 7 minutes of the 'food' affect, providing +6 ar-exotic-tail.
+This food has the traits ovo-lacto.
+A white oblong chicken' egg is here lying on a table.  It is cool and
+smooth to the touch.  It seems to be a little larger than you are used to
+seeing at local farms.  This egg seems to be to have been boiled in water
+and appears ready to be eaten.  You wonder if any would mind you eating it. 
+Seeing no one around you put it into your inventory.  

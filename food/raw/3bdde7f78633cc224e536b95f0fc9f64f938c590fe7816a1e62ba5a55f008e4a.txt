@@ -1,0 +1,8 @@
+> check eqlookup 3bdde7f78633cc224e536b95f0fc9f64f938c590fe7816a1e62ba5a55f008e4a
+Item 'several stale crackers' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'crackers food stale'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +4 personality.
+This food has the traits gluten prepared.
+Several crackers have been left here for you.

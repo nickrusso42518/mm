@@ -1,0 +1,12 @@
+> check eqlookup 1707fbbe5755afdfc94b41e9f8442c8540ed4d2adcd5cc41439d4c6086dad49a
+Item 'a hrbao steak' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'hrbao steak'.
+This item weighs 0 stones and 14 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 5 hours 50 minutes of the 'food' affect, providing +12 fire-melee-dam.
+This food has the traits raw-meat prepared.
+This piece of meat has been sliced from the flank of a delicious hrbao
+beast.  Because they are considered a delicacy in New Rigel, many farmers
+have begun raising the animals for meat.  Although hrbao are rather small,
+the meat can be sold for a high price to restaurants, making it a very
+profitable endeavor.  

@@ -1,0 +1,18 @@
+> check eqlookup f9da10a2b8d83fd816942bf8496233ee9656ef97fce6257d25c5e7ddf100fddf
+Item 'a tropical citrus fruit' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'tropical citrus fruit'.
+This item weighs 0 stones and 7 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +10 wood-skill-res.
+This food has the traits fruit.
+This can be combined with the following ingredients to cook 'a ramekin of pico de gallo'.
+- Item 'a tropical citrus fruit'
+- Item 'a fresh, juicy red tomato'
+- Item 'a small salt crystal'
+- Item 'a tiny bundle of cilantro'
+- Item 'a fresh, raw onion'
+This strange fruit is unlike anything you have ever seen before.  It
+looks a lot like an orange, but its skin has patches of many different
+colors.  Peeling it open, you discover that it has a distinct taste that is
+unfamiliar but pleasant.  You wonder what kind of trees these fruits grow
+on.  

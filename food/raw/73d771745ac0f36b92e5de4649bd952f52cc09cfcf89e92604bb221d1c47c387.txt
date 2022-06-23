@@ -1,0 +1,12 @@
+> check eqlookup 73d771745ac0f36b92e5de4649bd952f52cc09cfcf89e92604bb221d1c47c387
+Item 'a yellow banana' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'banana fruit yellow food'.
+This item weighs 0 stones and 4 pebbles, and is valued at 75 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 8 minutes of the 'food' affect, providing +12 disease-skill-dam.
+This food has the traits fruit.
+This is a ripe yellow banana, a nice large one too.  On the ground here
+is a large yellow banana, ripe with color, and probably flavor also.  You
+wonder who could have possibly dropped it here, and you quickly swipe it
+into your bag to save as a snack for later.  Then again, you are a little
+hungry, maybe now would be a good time for a snack.  

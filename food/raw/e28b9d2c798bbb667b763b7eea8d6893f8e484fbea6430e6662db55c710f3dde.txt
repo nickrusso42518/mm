@@ -1,0 +1,12 @@
+> check eqlookup e28b9d2c798bbb667b763b7eea8d6893f8e484fbea6430e6662db55c710f3dde
+Item 'a forest squirrel' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'forest squirrel'.
+This item weighs 0 stones and 29 pebbles, and is valued at 325 gold. {Cat. 2}
+This level 13 item has the attributes: none
+When eaten, this food will provide 7 hours 40 minutes of the 'food' affect, providing +5 PCC.
+This food has the traits raw-meat.
+This piece of meat comes from a large forest squirrel.  Because they are
+so numerous in the wilds near New Rigel, many hunters focus on catching
+them.  Although the animals are rather small, they are quite easy to catch. 
+Thus, many of them can be found in a single day, and because they are rather
+tasty it is easy to sell their meat.  

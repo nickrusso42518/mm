@@ -1,0 +1,17 @@
+> check eqlookup 504b111d94ab5eeae79c6b4ad80509c040d60d2d61fdcdf41ea8e3450fb50019
+Item 'a plate of roast beef and potatoes' is type food, alignment 0, made of food (in (fresh)
+condition),[EQDB]
+has keywords 'plate roast beef potatoes gravy'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +25 parry-magic-weapon
+-activation-damage.
+This food has the traits raw-meat vegetable.
+A generous portion of mashed potatos and thick slices of roast beef
+covered in smooth gravy starts your stomach growling and mouth drooling as
+you catch sight and scent of it.  The meat looks to be tender and juicy,
+slow cooked in spices and vegetables.  The potatos are thick and creamy,
+heavily covered in butter.  The gravy is a deep, rich brown colour, with
+lots of pepper in it for spicing.  This is a meal fit for any walk of life. 
+What a feast the cook has prepared.  Sit down at the table and enjoy your
+meal.  

@@ -1,0 +1,12 @@
+> check eqlookup 3a6da2035efeec19977ee9b30e8bc99ecfd309aff4b80e9b57a82cc423a53468
+Item 'a whole pig' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pig'.
+This item weighs 4 stones and 0 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +20 sp-regen-max.
+This food has the traits raw-meat.
+On a platter here lies a large barbecued pig.  It has been cooked over a
+barbecue for several hours and is ready to be eaten.  The dark brown
+coloring and the smell make your mouth water.  This size of roast could keep
+a large formation of people fed for a day or your self for a week.  It is
+expensive, but you have not eaten in some time.  

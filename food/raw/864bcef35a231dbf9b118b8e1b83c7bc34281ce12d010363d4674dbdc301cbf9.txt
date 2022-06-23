@@ -1,0 +1,14 @@
+> check eqlookup 864bcef35a231dbf9b118b8e1b83c7bc34281ce12d010363d4674dbdc301cbf9
+Item 'an orange mushroom' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'mushroom orange'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 0}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +5 musical-ability.
+This food has the traits fungus.
+If the bright orange tint to the mushroom isn't warning enough, the bizarre,
+twisting spots covering the hood might help, as well as the teeth embedded
+in the top.  Poisonous enough that the victim's teeth drop out instantly,
+these mushrooms are well-known to denizens of the forest, and less so to the
+temporal adventurers who wander in, but not back out.  Handling them is
+perfectly safe, but as for eating them...there are quicker, more pleasant
+deaths available.  Don't do it.  

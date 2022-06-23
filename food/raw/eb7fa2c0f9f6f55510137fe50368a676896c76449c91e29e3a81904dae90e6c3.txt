@@ -1,0 +1,13 @@
+> check eqlookup eb7fa2c0f9f6f55510137fe50368a676896c76449c91e29e3a81904dae90e6c3
+Item 'a plateful of stuffed mushrooms' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'stuffed mushrooms plateful cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +7 hp-regen-prcnt.
+This food has the traits prepared fungus.
+This is a steamy plate of stuffed mushrooms that smells absolutely
+delicious.  Romantically, you always see couples in love feed each other
+these mushrooms to express their passion for one another.  The mushrooms are
+full of meats and other vegetables, providing a healthy meal at the same
+time of providing an exquisite one.  

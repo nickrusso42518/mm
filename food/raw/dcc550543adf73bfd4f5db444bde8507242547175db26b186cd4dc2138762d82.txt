@@ -1,0 +1,13 @@
+> check eqlookup dcc550543adf73bfd4f5db444bde8507242547175db26b186cd4dc2138762d82
+Item 'a raspberry and strawberry tart' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'raspberry strawberry tart'.
+This item weighs 0 stones and 0 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +6 ar-exotic-arms.
+This food has the traits gluten prepared sweets.
+*A raspberry and strawberry tart will last approximately 1,000 more Alyrian minutes.
+A light flaky pastry filled with a rich creme anglaise flavored with a
+touch of kirsch is topped with fresh raspberries and strawberry fans.  White
+chocolate is drizzled over the top of the tart to lend extra richness to the
+flavor.  This is truly a delight to taste and enjoy.  

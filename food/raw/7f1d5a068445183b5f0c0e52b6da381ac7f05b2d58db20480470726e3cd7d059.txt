@@ -1,0 +1,13 @@
+> check eqlookup 7f1d5a068445183b5f0c0e52b6da381ac7f05b2d58db20480470726e3cd7d059
+Item 'a dismembered, decaying arm' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'dismembered arm'.
+This item weighs 0 stones and 35 pebbles, and is valued at 425 gold. {Cat. 2}
+This level 5 item has the attributes: rot-death vanish-death no-save none
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits raw-meat.
+This arm is bloody at the stump and is extremely fetid with rapid decay. 
+You can see teeth marks in the middle from where a ghoul was feasting on it.
+You make an effort not to be sick at the odor rising from the flesh, and
+decide that it might be a good idea to get rid of the arm as soon as
+possible.  However, a small voice in the back of your head thinks, "When in
+Rome..."  And you wonder how nourishing human flesh really is.  

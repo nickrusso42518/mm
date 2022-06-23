@@ -1,0 +1,11 @@
+> check eqlookup ec20e772f6a011a874557f9de58268bbc6f6de69ce6eb4581ec2eee80bcfa9d9
+Item 'a stale crumb of bread' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'crumb bread stale'.
+This item weighs 0 stones and 1 pebbles, and is valued at 900 gold. {Cat. 2}
+This level 16 item has the attributes: will-float
+When eaten, this food will provide 1 hour of the 'food' affect, providing +100 damage-backstab.
+This food has the traits gluten.
+A miniscule piece of bread sets here on the ground rotting.  It looks as
+though it might have been a piece of rye or wheat but has become so hard and
+discolored that it is hard to tell.  The crumb might satiate hunger for a
+second or two but is no meal by any standards, unless of course your an ant. 

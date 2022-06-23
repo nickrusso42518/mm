@@ -1,0 +1,13 @@
+> check eqlookup 786299baa5675468b7f3f32e3ffc75408ddf4c650f489d05c93ef9b44225e1fb
+Item 'a pile of willow leaves' is type food, alignment 50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pile willow leaves raked'.
+This item weighs 0 stones and 20 pebbles, and is valued at 12,330 gold. {Cat. 2}
+This level 186 item has the attributes: identified none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +10 steal-skill-res.
+This food has the traits raw-plant.
+Without a face, this pile of leaves has a taste only a mother reindeer
+could love.  Dead and dried, they're brittle, and snap without much
+provocation.  Grey in color and blue in personality, they have fallen from a
+weeping willow during the annual autumnal purge.  They have been swept into
+a pile for disposal, likely by burning, but with this sudden influx of
+reindeer, this favorite food of theirs could come in handy.  

@@ -1,0 +1,10 @@
+> check eqlookup 28105efdc10fe49f6d7dbf438c7f45ec7448c0dd5676508542ef2654ecf4b885
+Item 'a clove of meadowsweet' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'clove meadowsweet'.
+This item weighs 0 stones and 2 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +10 damage-splash-absolute.
+This food has the traits raw-plant.
+*A clove of meadowsweet will last approximately 15 more Alyrian minutes.
++++ a clove of meadowsweet will, when fed to a mount, double that mount's
+stamina regeneration rate for 10 Alyrian minutes. 

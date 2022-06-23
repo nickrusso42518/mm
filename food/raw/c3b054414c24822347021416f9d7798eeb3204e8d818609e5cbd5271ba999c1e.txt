@@ -1,0 +1,13 @@
+> check eqlookup c3b054414c24822347021416f9d7798eeb3204e8d818609e5cbd5271ba999c1e
+Item 'a cheese and chili cilantro tart' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'cheese cilantor tarts chili'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +10 silver-skill-res.
+This food has the traits gluten vegetable prepared ovo-lacto.
+*A cheese and chili cilantro tart will last approximately 1,000 more Alyrian minutes.
+A flaky shell has been filled with a spicy chicken chili and topped with
+finely shreeded cheddar cheese.  Bits of red and green bell peppers and a
+sprig of cilantro top each tart.  The aroma of the chili is enough to make
+the mouth water and yearn for a taste of this treat.  

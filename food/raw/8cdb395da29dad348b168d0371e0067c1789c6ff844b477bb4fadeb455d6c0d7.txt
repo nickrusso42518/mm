@@ -1,0 +1,20 @@
+> check eqlookup 8cdb395da29dad348b168d0371e0067c1789c6ff844b477bb4fadeb455d6c0d7
+Item 'a tender turnip' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'tender young turnip'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +15 sp-regen.
+This food has the traits tuber.
+This can be combined with the following ingredients to cook 'a pot of winterroot soup'.
+- Item 'a tub of mirepoix'
+- Item 'a hardy edible root'
+- Item 'a tender turnip'
+- Item 'a firm, red beet'
+- Item 'a wonta tuber'
+- Item 'a ripe pumpkin'
+- Item 'a dollop of sour cream'
+This turnip has a white, succulent, bulbous root and appears quite
+tender.  Favored by gnomes, turnips can be quite a delicacy if cooked
+properly.  It's not uncommon to smell a delicious turnip pie or the wafting
+scent of turnip stew coming from a common gnome household, especially in the
+colder winter months.  

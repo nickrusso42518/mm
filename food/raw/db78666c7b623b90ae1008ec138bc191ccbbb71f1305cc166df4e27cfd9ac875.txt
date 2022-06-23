@@ -1,0 +1,21 @@
+> check eqlookup db78666c7b623b90ae1008ec138bc191ccbbb71f1305cc166df4e27cfd9ac875
+Item 'a croissant' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'croissant'.
+This item weighs 0 stones and 4 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +12 slash-melee-dam.
+This food has the traits gluten prepared sweets.
+This can be combined with the following ingredients to cook 'a breakfast omelette'.
+- Item 'a bottle of olive oil'
+- Item 'a large squishy mushroom'
+- Item 'a large spinach leaf'
+- Item 'a chicken egg'
+- Item 'a tiny bundle of cilantro'
+- Item 'a grainy block of feta cheese'
+- Item 'an avocado'
+- Item 'a croissant'
+A fresh baked croissant is here.  The croissant smells wonderful with
+just hint sweetness.  This pastry is one of the most decadent pastries
+available.  The elite of society generally eat this bakery perfection.  It
+takes a long time to make this layered pastry and is common only in the most
+affluent areas of town.  

@@ -1,0 +1,11 @@
+> check eqlookup e2ca73e068954158e7ba00fc716f8f5999719f36e5a3e86003d40a2811e566bf
+Item 'a black mushroom' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'black mushroom'.
+This item weighs 0 stones and 2 pebbles, and is valued at 15,125 gold. {Cat. 0}
+This level 5 item has the attributes: no-steal
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +50 damage-charge.
+This food has the traits fungus.
+Although this black mushroom can be deadly when eaten, it can also help
+to cure some poisons, when in the hands of a skilled healer.  Because they
+can only grow in areas that are cool, dark, and moist, these mushrooms are
+prized by many potion makers.  

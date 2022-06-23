@@ -1,0 +1,21 @@
+> check eqlookup fa8dc063099d9928d6259232cb9833150e5a0bb6cea34ae8a8fc30f7a65ecf73
+Item 'an avocado' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'avocado'.
+This item weighs 0 stones and 6 pebbles, and is valued at 35 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +90 damage-boss-cat6.
+This food has the traits vegetable.
+This can be combined with the following ingredients to cook 'a breakfast omelette'.
+- Item 'a bottle of olive oil'
+- Item 'a large squishy mushroom'
+- Item 'a large spinach leaf'
+- Item 'a chicken egg'
+- Item 'a tiny bundle of cilantro'
+- Item 'a grainy block of feta cheese'
+- Item 'an avocado'
+- Item 'a croissant'
+A small dark green avocado is here.  The avocado is smooth oblong fruit
+that is eaten with just about any thing.  It is used in salads, as
+decoration and in sandwiches.  It is even said that some make a mysterious
+mixture called guacamole that is said to enhance ones senses.  You never
+know when you have been told the truth or an out right lie.  

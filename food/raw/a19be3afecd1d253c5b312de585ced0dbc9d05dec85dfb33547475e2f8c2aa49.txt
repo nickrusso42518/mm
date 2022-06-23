@@ -1,0 +1,11 @@
+> check eqlookup a19be3afecd1d253c5b312de585ced0dbc9d05dec85dfb33547475e2f8c2aa49
+Item 'some dried fruit' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'dried fruit'.
+This item weighs 0 stones and 5 pebbles, and is valued at 50 gold. {Cat. 0}
+This level 10 item has no special attributes.
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +12 mental-melee-dam.
+This food has the traits prepared fruit.
+These bits of dried fruit are pretty unidentifiable now, though at one
+point they might've been pear, apple, or something else.  They still taste
+pretty good, and are easy to store and carry.  They probably wouldn't last
+long in the Beltan heat, though.  

@@ -1,0 +1,13 @@
+> check eqlookup b60ecb11ba7a601c8c61cd322d04754077e70ee531016f6c55a06d36a87f7e80
+Item 'a carrot cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'Carrot Cake'.
+This item weighs 0 stones and 7 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +25 parry-magic-weapon
+-activation-damage.
+This food has the traits gluten vegetable prepared sweets ovo-lacto.
+This golden orange cake is very tasty and moist.  This cake is decked
+with raisins and is coated with a thick frosting of cream cheese.  There is
+a sweet sugary glaze on it that gives you a quick rush when you need it
+most.  The only thing which could make this cake any better is a glass of
+milk.  

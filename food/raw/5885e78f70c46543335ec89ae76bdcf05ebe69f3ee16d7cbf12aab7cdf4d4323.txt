@@ -1,0 +1,12 @@
+> check eqlookup 5885e78f70c46543335ec89ae76bdcf05ebe69f3ee16d7cbf12aab7cdf4d4323
+Item 'a shrimp eggroll' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'shrimp eggroll'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits gluten prepared seafood.
+This delicious appetizer is made from thin egg dough, and fried to
+perfection.  The roll is filled with shrimp and minced vegetables, and the
+smell is making your mouth water.  Unfortunately, you get the feeling that
+you'll just be hungry again in an hour.  Perhaps you should buy some more
+for the road.  

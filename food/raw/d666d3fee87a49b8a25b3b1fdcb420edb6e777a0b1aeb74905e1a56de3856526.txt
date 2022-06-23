@@ -1,0 +1,12 @@
+> check eqlookup d666d3fee87a49b8a25b3b1fdcb420edb6e777a0b1aeb74905e1a56de3856526
+Item 'a mala' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'mala'.
+This item weighs 0 stones and 14 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 2 hours of the 'food' affect, providing +5 running-speed.
+This food has the traits fruit.
+This small fruit is only a couple inches in diameter, but it still looks
+quite tasty.  You take a small bite out of it, and discover that the skin is
+rather sour.  However, the juices inside the plant are sweet, making an
+interesting contrast in taste.  In the middle of the mala is a large pit,
+perhaps if you planted it it would grow into a new tree.  

@@ -1,0 +1,12 @@
+> check eqlookup a71bc2a2ec3060b92962834af0fd2d13b4b2cae9f20c4398c5e89f2c609784d4
+Item 'spare ribs' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'spare ribs'.
+This item weighs 0 stones and 12 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +12 damage.
+This food has the traits raw-meat prepared.
+Your mouth begins to water just looking at these delicious
+barbecue-coated ribs.  They have been prepared with a special recipe,
+slow-roasted to ensure that the flavor isn't lost.  Even though they'll
+probably go straight to your thighs, you'll probably end up eating the ribs
+anyways.  

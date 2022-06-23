@@ -1,0 +1,21 @@
+> check eqlookup f742312a5fa6522dc611ade8bd96807495d0414b0bee56c44fb80ba0ae7ff971
+Item 'a hunk of swiss cheese' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'swiss cheese'.
+This item weighs 0 stones and 1 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +25 leech-conduit-activation
+-damage.
+This food has the traits ovo-lacto.
+This can be combined with the following ingredients to cook 'an everything breakfast bagel'.
+- Item 'a bagel'
+- Item 'a stick of freshly-churned minotaur butter'
+- Item 'a hunk of swiss cheese'
+- Item 'a chicken egg'
+- Item 'a cold glass of milk'
+- Item 'a vorma seed'
+- Item 'some crushed pepper seasoning'
+A large hunk of swiss cheese lies on the ground here.  It is covered with
+dust, and as you brush off the dust you notice that a lot of what you
+thought was dust is actually mold.  The chees smells rancid, but hey, when
+you're hungry, you're hungry.  Well, you think to yourself.  You're not THAT
+hungry.  At least, not yet!  

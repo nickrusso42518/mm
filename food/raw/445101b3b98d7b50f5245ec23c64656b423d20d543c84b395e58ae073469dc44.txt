@@ -1,0 +1,12 @@
+> check eqlookup 445101b3b98d7b50f5245ec23c64656b423d20d543c84b395e58ae073469dc44
+Item 'a saluka fruit' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'saluka fruit'.
+This item weighs 0 stones and 8 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour 5 minutes of the 'food' affect, providing +10 moonlight-skill-res.
+This food has the traits fruit.
+This bumpy little fruit has a tough skin that you are unable to bite
+through.  Cutting it open, you discover that the inside is the same bright
+yellow color as the outside, except for a few small black seeds in the
+middle.  The saluka tastes a bit sour by itself, but makes an excellent
+seasoning for many foods.  

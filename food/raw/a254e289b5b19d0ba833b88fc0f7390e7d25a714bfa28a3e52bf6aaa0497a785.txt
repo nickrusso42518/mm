@@ -1,0 +1,11 @@
+> check eqlookup a254e289b5b19d0ba833b88fc0f7390e7d25a714bfa28a3e52bf6aaa0497a785
+Item 'a dirty carrot' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'food dirty carrot'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +8 spell-accuracy.
+This food has the traits vegetable.
+It looks rather much like a carrot.  It is about a foot long and an inch
+wide at the top, with the main body being an orange color.  Dirt and roots
+cling to the sides of the carrot and out of the top grows the short green
+leaves.  If you wiped the dirt off of the sides you could probably eat it.  

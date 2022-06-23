@@ -1,0 +1,11 @@
+> check eqlookup bb64b90465a5cd9b2b8f2ff725a3b747f5ff4023e57a0542c054b757f46993ce
+Item 'a klanta' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'klanta'.
+This item weighs 0 stones and 11 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour 15 minutes of the 'food' affect, providing +12 slash-skill-dam.
+This food has the traits fruit.
+This bumpy little fruit has a tough skin that you are unable to bite
+through.  Cutting it open, you discover that the inside is also orange,
+althouh it is not as bright as the exterior.  The klanta fruit has many
+seeds, but once they are removed it is a tasty treat.  

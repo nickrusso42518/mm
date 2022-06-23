@@ -1,0 +1,11 @@
+> check eqlookup 0854e339360f563fad9ece73edfeeee48862ce36a4100fb52de58460e4ce8dbc
+Item 'a crown roast' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'crown roast'.
+This item weighs 0 stones and 9 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 11 minutes of the 'food' affect, providing +25 grappling-weapon-activation
+-damage.
+This food has the traits raw-meat prepared.
+This tantalizing hunk of meat makes your mouth water.  Pausing, you think of
+your vow to become a vegetarian (not because you particularly like animals,
+but because you hate plants), and decide that it can wait until tomorrow.  

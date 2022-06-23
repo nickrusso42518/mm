@@ -1,0 +1,15 @@
+> check eqlookup a985fb70a3c681dd4bb39db1557e2890951039e160e81e6ad9cee9d993ae308a
+Item 'a large orange carrot' is type food, alignment 25, made of organic (in (fresh) condition),[EQDB]
+has keywords 'large orange carrot'.
+This item weighs 0 stones and 5 pebbles, and is valued at 200 gold. {Cat. 2}
+This level 66 item has the attributes: none
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +12 slash-melee-dam.
+This food has the traits vegetable.
+*A large orange carrot will last approximately 24,000 more Alyrian minutes.
+Quickly grown with the help of a magical force, this carrot, still
+covered in a thin layer of moist dirt, has recently been dug out of the
+ground.  Several long green leaves protrude from the top of it and cascade
+down the sides.  Its shape is strange, large at one end and thin at the
+other.  Its total length is no more than ten inches but it could still
+provide quite a hearty meal.  This bait would be best suited for a small
+steel trap.  

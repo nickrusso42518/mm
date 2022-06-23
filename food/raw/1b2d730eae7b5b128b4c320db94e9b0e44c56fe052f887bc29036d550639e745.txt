@@ -1,0 +1,12 @@
+> check eqlookup 1b2d730eae7b5b128b4c320db94e9b0e44c56fe052f887bc29036d550639e745
+Item 'a red apple' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'apple'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 0}
+This level 1 item has the attributes: rot-death
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +15 attack-speed.
+This food has the traits fruit.
+This red apple was grown on a tree in an orchard not too far away from
+here.  It looks very delicious and will probably taste very good, should you
+choose to eat it.  Still, before you gobble it down, it might be wise to
+inspect it more carefully since you really don't know where this apple has
+been before it got to your hands.  

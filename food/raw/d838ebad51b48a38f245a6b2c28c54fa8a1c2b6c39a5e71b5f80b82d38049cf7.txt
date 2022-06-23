@@ -1,0 +1,13 @@
+> check eqlookup d838ebad51b48a38f245a6b2c28c54fa8a1c2b6c39a5e71b5f80b82d38049cf7
+Item 'a bottle of soy sauce' is type food, alignment 100, made of food (in (fresh) condition),[EQDB]
+has keywords 'food soy sauce bottle'.
+This item weighs 0 stones and 5 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +25 frost-weapon-activation
+-damage.
+This food has the traits gluten prepared.
+A person would have to be crazy to ingest this stuff by itself, but it 
+would not be so wrong to sprinkle it upon some delicious rice.  It's a 
+dark, fragrant liquid that is meant to be used as seasoning for food.  You 
+suddenly get a craving for rice, and wish that you carried the food with 
+you more often, as any sensible adventurer would do.

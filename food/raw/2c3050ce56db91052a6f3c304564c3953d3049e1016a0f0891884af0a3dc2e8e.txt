@@ -1,0 +1,12 @@
+> check eqlookup 2c3050ce56db91052a6f3c304564c3953d3049e1016a0f0891884af0a3dc2e8e
+Item 'snapper fillets' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'snapper fillets'.
+This item weighs 0 stones and 9 pebbles, and is valued at 90 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 8 minutes of the 'food' affect, providing +4 agility.
+This food has the traits fish prepared.
+The snapper fillets in front of you are making your mouth water.  The
+aroma of seasoning and spices brings out the smell of the snapper meat. 
+These perfectly cooked flaky soft fillets are truly making you hungry.  For
+just a moment you wonder if they are worth the price, but you are hungry and
+they look so good.  

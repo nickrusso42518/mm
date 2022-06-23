@@ -1,0 +1,9 @@
+> check eqlookup 41e2ea86cc575d4467eaf4903cf61f482c8458b3a859163f70e98f9c6d52264d
+Item 'a plate of stuffed mushrooms' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'stuffed mushrooms plate'.
+This item weighs 0 stones and 5 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +3 ar-mitigation.
+This food has the traits prepared fungus.
+The mushrooms are a blend of artichokes, prosciutto, spinach, topped with
+alfredo sauce.  They have been baked until golden on top.  

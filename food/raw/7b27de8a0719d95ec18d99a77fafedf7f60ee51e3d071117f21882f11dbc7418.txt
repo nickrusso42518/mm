@@ -1,0 +1,19 @@
+> check eqlookup 7b27de8a0719d95ec18d99a77fafedf7f60ee51e3d071117f21882f11dbc7418
+Item 'a flanvo bean' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'flanvo bean'.
+This item weighs 0 stones and 18 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 2 hours 20 minutes of the 'food' affect, providing +20 hp-regen-max.
+This food has the traits vegetable.
+This can be combined with the following ingredients to cook 'garden delight salad'.
+- Item 'an avocado'
+- Item 'a heart of romaine lettuce'
+- Item 'an ear of purple corn'
+- Item 'a savo bean'
+- Item 'a flanvo bean'
+- Item 'a loaf of barley bread'
+- Item 'a large carrot'
+This is by far one of the strangest fruits you've seen.  It looks a lot
+like a normal bean, but it is almost a foot in length.  You wonder what kind
+of plant is large enough to produce seeds of this size.  This one alone
+should provide you with adequate sustenance for at least a few hours.  

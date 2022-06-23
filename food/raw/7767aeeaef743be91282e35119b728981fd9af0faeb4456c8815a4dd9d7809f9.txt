@@ -1,0 +1,13 @@
+> check eqlookup 7767aeeaef743be91282e35119b728981fd9af0faeb4456c8815a4dd9d7809f9
+Item 'a slaughtered calf' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'cow calf young'.
+This item weighs 1 stones and 0 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 30 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +12 fire-skill-dam.
+This food has the traits raw-meat.
+Once a fine specimen of bovine, this young cow did not make it past its
+days as a calf.  Someone, likely a giant, has slit its throat and bled it
+for its blood.  Now all that awaits this former calf is to become a meal for
+a giant.  Given the size of the animal and the size of the giants, it's
+entirely possible that a single giant might finish this beast off or perhaps
+make a romantic evening out of it with an associate.  

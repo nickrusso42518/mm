@@ -1,0 +1,12 @@
+> check eqlookup 3042a3d0f9363e691d733e4a882b50eaabfe2e5f4829a452ef7a663e3a50bde9
+Item 'a chocolate pie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'double chocolate pie cat2'.
+This item weighs 0 stones and 13 pebbles, and is valued at 475 gold. {Cat. 2}
+This level 15 item has the attributes: throwable
+When eaten, this food will provide 5 hours 20 minutes of the 'food' affect, providing +90 damage-ice-breath.
+This food has the traits gluten prepared sweets ovo-lacto.
+Mama Lois has outdone herself this time with her double chocolate fudge
+pie.  She has to spike these with something because they are so good you
+feel compelled to purchase several more.  The chocolate is dripping down
+over the sides and down your cheek, and before you realize it, you are
+making pig noises while eating it, ensuring nobody else will want a bite.  

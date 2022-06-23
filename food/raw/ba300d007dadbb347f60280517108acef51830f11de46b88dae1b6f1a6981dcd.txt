@@ -1,0 +1,12 @@
+> check eqlookup ba300d007dadbb347f60280517108acef51830f11de46b88dae1b6f1a6981dcd
+Item 'a baked potato' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'baked potato cat2'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 4 minutes of the 'food' affect, providing +10 summon-skill-res.
+This food has the traits prepared tuber.
+This potato has been well cooked and baked so that its insides are mushy
+and soft.  Wrapped in some sort of light paper so that its heat doesn't burn
+you, it is ready to be carried out the door so you won't have to spend a lot
+of time getting a quick meal.  Be careful though, even with the paper, the
+potato will become extremely hot if held in one hand for too long.  

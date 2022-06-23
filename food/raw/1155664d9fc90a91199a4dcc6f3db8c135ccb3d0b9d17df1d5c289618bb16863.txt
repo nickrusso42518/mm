@@ -1,0 +1,11 @@
+> check eqlookup 1155664d9fc90a91199a4dcc6f3db8c135ccb3d0b9d17df1d5c289618bb16863
+Item 'a vegetable calzone' is type food, alignment 3, made of organic (in (fresh) condition),[EQDB]
+has keywords 'vegetable calzone'.
+This item weighs 0 stones and 10 pebbles, and is valued at 3,250 gold. {Cat. 2}
+This level 95 item has the attributes: none
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +45 dig.
+This food has the traits gluten vegetable prepared ovo-lacto.
+Filled with roasted vegetables and sealed in with a hot crust, this
+calzone smells very good.  Marinara sauce has been poured onto the side of
+the plate, and peals of steam visibly curl out of it, tantalizing the nose
+and tongue.  

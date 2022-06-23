@@ -1,0 +1,11 @@
+> check eqlookup 96278ef45160916e8b9222f70e017a9f3dcb43b9abbe8095747c2264ee70af13
+Item 'a steaming platter of broiled fish' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'platter broiled fish'.
+This item weighs 0 stones and 0 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 30 item has the attributes: none
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +6 ar-bash-arms.
+This food has the traits fish prepared.
+The platter of broiled fish is delicately seasoned, and looks quite
+delicious.  You wonder who the chef is - and if you have interrupted someone
+in their dinner.  

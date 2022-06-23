@@ -1,0 +1,12 @@
+> check eqlookup 74ef19d792a24038b433e1eaae8bbf5ea7cadf9be0fceaab38ff118041511c7f
+Item 'a juicy, ripe orange' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'juicy ripe orange'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 17 minutes of the 'food' affect, providing +10 charm-skill-res.
+This food has the traits fruit.
+This large, ripe orange looks as though it has only recently fallen from an
+orange tree.  You should probably hang on to it if you plan on making any
+long sea voyages in the near future, since it can prevent you from getting
+scurvy.  However you think to yourself that only pirates get scurvy, and eat
+the orange anyway.  

@@ -1,0 +1,13 @@
+> check eqlookup 70a1bba0d12eeca633faed4356ef48121e53584e4c0aff251eb2019e8eb338b0
+Item 'a shish kebab' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'shish kebab cubed meats potatoes cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +12 laser-melee-dam.
+This food has the traits raw-meat vegetable tuber.
+This is a rather strange item but nonetheless looks rather delicious.  It
+is a string of cubed meats, potatoes, and other vegetables on a small wooden
+skewer that drives itself right through the center of these foods.  The
+meats and vegetables are small enough so that they sit on there without
+falling off.  All of the items on the shish kebab are well cooked and ready
+to be eaten.  

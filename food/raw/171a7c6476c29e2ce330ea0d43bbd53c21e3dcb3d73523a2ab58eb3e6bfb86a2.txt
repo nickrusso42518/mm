@@ -1,0 +1,12 @@
+> check eqlookup 171a7c6476c29e2ce330ea0d43bbd53c21e3dcb3d73523a2ab58eb3e6bfb86a2
+Item 'a shadow pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pie'.
+This item weighs 0 stones and 1 pebbles, and is valued at 155 gold. {Cat. 0}
+This level 5 item has the attributes: no-auction none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 water-melee-dam.
+This food has the traits gluten prepared.
+A strange looking object sits here on the table.  It looks like some sort
+of pie, but it is made up entirely of shadows.  You wonder if such an item
+would be edible.  You debate whether or not to try it, but caution overtakes
+hunger, and you decide not to for fear that the shadows would consume you
+after you consume the shadow.  

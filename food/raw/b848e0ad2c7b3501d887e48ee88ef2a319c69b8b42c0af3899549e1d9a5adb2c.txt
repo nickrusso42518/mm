@@ -1,0 +1,11 @@
+> check eqlookup b848e0ad2c7b3501d887e48ee88ef2a319c69b8b42c0af3899549e1d9a5adb2c
+Item 'a cupcake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'cake cupcake cat2'.
+This item weighs 0 stones and 6 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +10 defense-speed.
+This food has the traits gluten prepared sweets ovo-lacto.
+The cupcake is chocolate, the cake is very moist and tasty.  There is a
+dark fudge frosting with just a hint of mint to it thickly covering the
+cake.  This really tastes wonderful.  A few minutes after eating it you
+start to burp and your stomach feels funny.  

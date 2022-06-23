@@ -1,0 +1,12 @@
+> check eqlookup ace335e44687304935e0f6f1cf12b29870e0ff6b0f13e03b8350e2dd3c9dff10
+Item 'a pickled eye' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'eye food pickled'.
+This item weighs 0 stones and 1 pebbles, and is valued at 9,500 gold. {Cat. 2}
+This level 100 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +10 slash-skill-res.
+This food has the traits raw-meat.
+A small eye, pickled in white wine and vinegar, floats in a small glass
+jar just waiting to be devoured.  This taste-tempting treat is the perfect
+way to off of a meal.  Pleasantly sour, it makes lips pucker into kisses,
+although the prospect of kissing a disembodied eyeball is somewhat
+disconcerting.  Nevertheless, they are quite tasty.  

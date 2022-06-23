@@ -1,0 +1,11 @@
+> check eqlookup 6f1d390f3817b621753b297c7f7ecbb65bb9b5b6aef780d6db3981cbff636008
+Item 'a spicy burrito' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'burrito'.
+This item weighs 0 stones and 3 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 moonlight-skill-dam.
+This food has the traits gluten raw-meat vegetable prepared ovo-lacto.
+Wrapped in a flat piece of baked, unleavened bread is a mixture of beef 
+and exotic spices.  The scent makes you salivate as it wafts through the 
+air.  A mixture of chopped, fresh vegetables and sour cream complete this 
+delicious packet.

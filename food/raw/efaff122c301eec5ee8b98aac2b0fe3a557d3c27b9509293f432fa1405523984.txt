@@ -1,0 +1,12 @@
+> check eqlookup efaff122c301eec5ee8b98aac2b0fe3a557d3c27b9509293f432fa1405523984
+Item 'a tuna steak' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'tuna steak'.
+This item weighs 0 stones and 9 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 water-skill-dam.
+This food has the traits fish prepared.
+The tuna steak in front of you is making your mouth water.  It is the
+largest tuna steak you have ever seen, making you wonder about the size of
+the fish.  The aroma of seasoning and spices brings out the smell of the
+steak.  For just a moment you wonder if it is worth the price, but you are
+hungry and they look so good.  

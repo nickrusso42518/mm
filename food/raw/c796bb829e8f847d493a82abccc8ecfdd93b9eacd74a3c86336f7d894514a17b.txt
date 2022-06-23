@@ -1,0 +1,13 @@
+> check eqlookup c796bb829e8f847d493a82abccc8ecfdd93b9eacd74a3c86336f7d894514a17b
+Item 'a hunk of corrupted flesh' is type food, alignment -300, made of meat (in (fresh) condition),[EQDB]
+has keywords 'rotting hunk carcass corrupted flesh species pollutes'.
+This item weighs 0 stones and 13 pebbles, and is valued at 128,800 gold. {Cat. 6}
+This level 241 item has the attributes: nodecay nodecay-vanishes-on-expiry none
+When eaten, this food will provide 1 minute of the 'food' affect, providing +12 energy-melee-dam.
+This food has the traits raw-meat.
+When summoning a shadow golem, has a 10% chance for it to have a dispelling weapon and a reflect-magic shield.
+*Your archon-level must be greater than or equal to 115 to use this item.
++++ a hunk of corrupted flesh has a chance, in combat, if its wielder is
+wearing more items made of 'meat' than any other material, to grant its
+wearer +50 vampiric-weapon-activation-damage for 1 minute, at a rate of 10%
+per combat round. 

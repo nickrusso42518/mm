@@ -1,0 +1,12 @@
+> check eqlookup f8a074728a1822111a5b4582877776cd48a4e02bedca56dac8e8f7c301c5b44f
+Item 'a ration of food' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ration food cat2'.
+This item weighs 0 stones and 6 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +12 saving-rod.
+This food has the traits gluten prepared fruit.
+Some dry wheat crackers are wrapped tightly in a neat little white box,
+meant to serve as nourishment for the day.  As you unwrap the package, you
+find some shrivelled-up strawberries, some unidentifiable red stuff, and a
+cube of an odd dark substance.  While this is definitely not the first thing
+you'd choose to snack on, at least it seems to be edible.  

@@ -1,0 +1,13 @@
+> check eqlookup 200cf047741cb53cd8241948e7fac40bd22ed630a6bbb5e709113e3509f85385
+Item 'a chocolate covered mushroom' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'chocolate covered mushroom fungus cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 290 gold. {Cat. 2}
+This level 85 item has no special attributes.
+When eaten, this food will provide 33 minutes of the 'food' affect, providing +25 dispelling-weapon-activation
+-damage.
+This food has the traits sweets ovo-lacto fungus.
+This large mushroom has been covered in rich milk chocolate.  A small
+swirling pattern has been made into the cap of the mushroom giving it a
+decorative appearance.  The size of this mushroom names it of cavern
+origins, the only such place mushrooms this large are found.  Despite the
+origins it looks and smells quite appetizing.  

@@ -1,0 +1,11 @@
+> check eqlookup 3fa33266aac5c628a62b456743153a5d69685e8431aa088ccf368c30fa37ea91
+Item 'a cheese souffle' is type food, alignment 3, made of organic (in (fresh) condition),[EQDB]
+has keywords 'cheese souffle'.
+This item weighs 0 stones and 4 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 95 item has no special attributes.
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +6 ar-bash-torso.
+This food has the traits prepared ovo-lacto.
+This souffle is a very touchy thing, the slightest vibration able to send
+it cascading in upon itself, ruining the long preparation time for the dish.
+It is very soft and creamy, tasting of airy cheese, a very pleasant taste
+indeed.  

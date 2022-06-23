@@ -1,0 +1,13 @@
+> check eqlookup c297606466507aeb776ffb1f939af41a2d0674d04cbf4c5e469812c75afcc273
+Item 'a monkfish mask' is type food, alignment 40, made of organic (in (fresh) condition),[EQDB]
+has keywords 'monkfish mask fish', equipped over the head.
+This item weighs 0 stones and 3 pebbles, and is valued at 4,980 gold. {Cat. 2}
+This level 119 item has the attributes: will-float no-rent unlockerable
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +12 damage.
+This food has the traits fish.
+*Your race must be something other than minotaur to use this item.
+The face of a large, moustached monkfish has been removed and procured
+for wearing.  Monkfish are frightful, and their only edible parts are their
+livers and tails.  This large-mouthed beast has been severed from its dorsal
+fin, making a large covering for the face and head, its ugly pectoral fins
+bulging from the wearer's cheeks.  

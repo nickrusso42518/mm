@@ -1,0 +1,12 @@
+> check eqlookup b69f4a26c1a703cbbc9dffac253bd7c8b672da69e39723af030be4ba6032a3cd
+Item 'an ear of corn' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'corn cob'.
+This item weighs 0 stones and 5 pebbles, and is valued at 30 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 7 minutes of the 'food' affect, providing +12 acid-skill-dam.
+This food has the traits vegetable.
+An ear of ripe corn is here.  This ear of corn has a deep green husk and
+appears ready to be eaten.  Pulling back the husk just a bit you see bright
+yellow cornels.  You look around to see if you can see any others but only
+find this one.  You wonder how you should prepare this ear of corn or if you
+should just eat it raw.  

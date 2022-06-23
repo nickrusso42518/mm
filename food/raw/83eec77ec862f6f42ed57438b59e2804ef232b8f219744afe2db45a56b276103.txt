@@ -1,0 +1,11 @@
+> check eqlookup 83eec77ec862f6f42ed57438b59e2804ef232b8f219744afe2db45a56b276103
+Item 'a small brown tuber' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'small brown tuber potato'.
+This item weighs 0 stones and 6 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: buried none
+When eaten, this food will provide 1 hour of the 'food' affect, providing +75 damage-boss-cat5.
+This food has the traits tuber.
+It is a brown tuber approximately five inches long and three inches in
+diameter.  A dark brown in color, this tuber resembles a small potato.  Dirt
+clings to the sides but could easily be brushed off to make this potato into
+a fine meal.  

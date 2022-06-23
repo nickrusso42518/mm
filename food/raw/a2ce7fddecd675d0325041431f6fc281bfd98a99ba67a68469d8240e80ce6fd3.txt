@@ -1,0 +1,10 @@
+> check eqlookup a2ce7fddecd675d0325041431f6fc281bfd98a99ba67a68469d8240e80ce6fd3
+Item 'a large loaf of bread' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'large loaf bread steam crust'.
+This item weighs 0 stones and 3 pebbles, and is valued at 75 gold. {Cat. 2}
+This level 3 item has no special attributes.
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +15 damage-boss-cat1.
+This food has the traits gluten prepared.
+Not many people in Cavhfail can bake bread.  Few people eat bread around
+here, yet there is demand for it by visitors and foreigners.  This golden
+brown loaf smells freshly baked.  Air bubbles proudly decorate the top.  

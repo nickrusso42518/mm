@@ -1,0 +1,12 @@
+> check eqlookup f6db0cfe3076e5ca7586377470ab18dde5848a76b7bda0fcc10ad33fa35f26ac
+Item 'stalks of fresh wheat' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'wheat stalk'.
+This item weighs 0 stones and 6 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +12 light-skill-dam.
+This food has the traits gluten.
+You see some dried stems sway gently with the wind.  They are
+golden-brown in color and are just waiting to be harvested.  While they do
+not look particularly delicious they are nutritious and will keep you going
+for a good while.  Maybe if you have the time, you can grind them, process
+them into flour and bake some tasty bread.  

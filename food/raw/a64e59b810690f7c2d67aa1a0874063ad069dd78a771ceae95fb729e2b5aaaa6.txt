@@ -1,0 +1,12 @@
+> check eqlookup a64e59b810690f7c2d67aa1a0874063ad069dd78a771ceae95fb729e2b5aaaa6
+Item 'a fresh steak' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'steak cat2'.
+This item weighs 0 stones and 10 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +10 energy-skill-res.
+This food has the traits raw-meat prepared.
+A fresh hot juicy steak sears at your eyes and makes your mouth water as
+you look at it.  It is bloody, bashed, and ready to eat.  The smell of this
+fine Beltane meat wafts into your nose and triggers an onslaught of liquid
+from your saliva glands.  You feel spittle begin to dribble from the sides
+of your eager mouth.  

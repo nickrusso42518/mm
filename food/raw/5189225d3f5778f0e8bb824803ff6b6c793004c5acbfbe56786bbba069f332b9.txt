@@ -1,0 +1,12 @@
+> check eqlookup 5189225d3f5778f0e8bb824803ff6b6c793004c5acbfbe56786bbba069f332b9
+Item 'a plate of linguini' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'linguini plate cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +4 prof-prcnt.
+This food has the traits gluten prepared ovo-lacto.
+This plate of pasta looks and smells absolutely delicious.  Upon seeing
+it, your stomach begins to grumble and tell you that it would like you very
+much to gobble this linguini down.  Whoever cooked the linguini did a superb
+job with adding the correct amount of spices and oils.  Grab a napkin and
+sit down to enjoy this scrumptious meal!  

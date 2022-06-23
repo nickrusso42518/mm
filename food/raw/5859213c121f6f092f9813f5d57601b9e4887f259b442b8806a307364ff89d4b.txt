@@ -1,0 +1,11 @@
+> check eqlookup 5859213c121f6f092f9813f5d57601b9e4887f259b442b8806a307364ff89d4b
+Item 'a yellow banana' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'banana fruit yellow food'.
+This item weighs 0 stones and 4 pebbles, and is valued at 2,930 gold. {Cat. 2}
+This level 88 item has the attributes: none
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +6 ar-bash-tail.
+This food has the traits fruit.
+This ripe yellow banana is sort of squishy, at the height of its culinary
+life.  Its peel is practically falling off, just begging to be stripped off,
+thrown out, and the rest of it eaten.  Not only is it tasty, it's quite good
+for the body, and a dietary favorite of certain primates!  

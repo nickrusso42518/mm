@@ -1,0 +1,13 @@
+> check eqlookup b8e3e700fb4e51d319e2acd236c3f89af90046c3ffbca887a87d4a04f2508ad6
+Item 'a plate of salami' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'ceramic plate salami smoked spiced meat cat2'.
+This item weighs 0 stones and 7 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +6 ar-exotic-head.
+This food has the traits raw-meat prepared.
+The marbled appearance of the salami is due to the meat mixture of what must
+be venison and goat meat stuffed into an edible casing and hung to cure. 
+During the curing process something extra was added to the casing to impart
+more flavor to the meat.  Additional spices have been added to the meat
+before it was sold which gives it a slightly sharp scent, but not in the
+least unpleasant.  

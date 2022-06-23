@@ -1,0 +1,9 @@
+> check eqlookup e378e7117ef9d1b2472e2972693f6a9a4bb21f6fb6fa9fa5b3a2f483c42ba762
+Item 'a mountain carrot' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'mountain carrot stem'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +12 iron-skill-dam.
+This food has the traits vegetable.
+*A mountain carrot will last approximately 15 more Alyrian minutes.
+A mountain carrot's stem is visible here.

@@ -1,0 +1,12 @@
+> check eqlookup 95fbc9cba716bd84edc126f8745ead8ac8f2e6a3fd71f02ce55cf1b6dcd14211
+Item 'some onion rings' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'onion rings'.
+This item weighs 0 stones and 1 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 4 minutes of the 'food' affect, providing +12 slash-melee-dam.
+This food has the traits prepared tuber.
+You silently give thanks to the heavenly being that created onion rings. 
+Dipped in a special batter mixture and fried, they are among the most
+delicious appetizers in the world.  Although others may complain about your
+breath for a little while, you decide that the onion rings are definitely
+worth it.  

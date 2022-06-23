@@ -1,0 +1,12 @@
+> check eqlookup 3e2ca4c31511daba7e9e2e062782ba255e590073ed6d16c8cf27506ae38cf9ac
+Item 'steamed pudding' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'steamed pudding'.
+This item weighs 0 stones and 4 pebbles, and is valued at 75 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +12 earth-skill-dam.
+This food has the traits prepared sweets.
+A plate of steamed pudding has been heated just enough to form a crusty
+layer on the top.  You have not seen any thing this good in a long time. 
+The smell is wonderful, you can almost smell how sweet it will be to eat. 
+After weeks traveling the roads this is truly and awesome sight.  You just
+hope that it tastes as good as it smells.  

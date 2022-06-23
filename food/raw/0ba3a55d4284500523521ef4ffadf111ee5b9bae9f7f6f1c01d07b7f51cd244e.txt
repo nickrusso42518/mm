@@ -1,0 +1,13 @@
+> check eqlookup 0ba3a55d4284500523521ef4ffadf111ee5b9bae9f7f6f1c01d07b7f51cd244e
+Item 'a bowl of cereal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bowl cereal'.
+This item weighs 0 stones and 10 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 20 item has the attributes: identified
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 air-skill-dam.
+This food has the traits gluten prepared ovo-lacto.
+Inside this glazed red ceramic bowl, an island of flaky corn ascends from
+an ocean of fresh milk.  The milk froths around the sides of the bowl, as
+flakes on the shores of the island disintegrate.  Each flake of corn has
+been individually pressed in a complicated process, but on a morning like
+this one, better things are to be thought of than food manufacturing
+processes.  

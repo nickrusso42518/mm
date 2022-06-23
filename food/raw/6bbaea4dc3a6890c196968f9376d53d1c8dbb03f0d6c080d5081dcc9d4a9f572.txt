@@ -1,0 +1,10 @@
+> check eqlookup 6bbaea4dc3a6890c196968f9376d53d1c8dbb03f0d6c080d5081dcc9d4a9f572
+Item 'roast rack of lamb meal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'roast rack lamb meal cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +10 conduit-prcnt.
+This food has the traits raw-meat prepared.
+This wonderful dish is a roast rack of lamb with zucchinis and tomatoes. 
+The succulent juices are contained within the ceramic dish.  A wonderful
+scent of rosemary rises from the dish to tempt the senses.  

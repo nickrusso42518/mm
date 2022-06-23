@@ -1,0 +1,12 @@
+> check eqlookup 12cd1efde15631c7b53c2c2e8ae3a6e5e021830d0193b6067a5c77f74190a085
+Item 'a loaf of French bread' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'loaf french bread food'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +30 damage-boss-cat2.
+This food has the traits gluten prepared.
+It is a still warm loaf of freshly baked French bread that is as long as
+your arm and about as big around.  Its warmth feels good in your hands and
+its aroma makes your mouth water in anticipation.  While the crust has been
+baked hard, you should be able to cut through it easily enough, or, if you
+have to, break a piece off.  

@@ -1,0 +1,11 @@
+> check eqlookup 3cd8c49f51d4d2e4f0e3d1d9e48803c2e38230f5e3bc783194dff246789c45f0
+Item 'fried fish' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'fried fish'.
+This item weighs 0 stones and 5 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 9 minutes of the 'food' affect, providing +50 damage-charge.
+This food has the traits fish prepared.
+The specialty of most cooks in Tellerium is the preparation of all kinds of
+fish.  However, you have a sneaking suspicion that you aren't the first
+person that this restaurant has tried to serve this meal to.  Although the
+fish doesn't look rotten yet, it certainly wasn't freshly cooked.  

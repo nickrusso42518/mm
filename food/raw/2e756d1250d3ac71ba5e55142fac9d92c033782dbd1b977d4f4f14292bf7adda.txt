@@ -1,0 +1,9 @@
+> check eqlookup 2e756d1250d3ac71ba5e55142fac9d92c033782dbd1b977d4f4f14292bf7adda
+Item 'a juicy, ripe lemon' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ripe lemon cat2 juicy fivepointzero'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide now of the 'food' affect, providing +12 pierce-skill-dam.
+This food has the traits fruit.
+This large, ripe lemon looks as though it has only recently fallen from a
+lemon tree.  

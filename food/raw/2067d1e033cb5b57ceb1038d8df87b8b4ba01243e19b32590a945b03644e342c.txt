@@ -1,0 +1,13 @@
+> check eqlookup 2067d1e033cb5b57ceb1038d8df87b8b4ba01243e19b32590a945b03644e342c
+Item 'a steamed lobster' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'steamed lobster'.
+This item weighs 0 stones and 10 pebbles, and is valued at 350 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 16 minutes of the 'food' affect, providing +8 spell-accuracy.
+This food has the traits fish prepared.
+Here is a steamy, orangeish red lobster.  It appears to be well cooked
+and in good condition, and seems to be appropriate for a nice evening meal. 
+You can't help but imagine the poor helpless creature before it was lowered
+into a simmering pot to be cooked...  But you forget the image anyway,
+tuning in to your hunger and attempt to stop your drooling before you buy
+the meal.  

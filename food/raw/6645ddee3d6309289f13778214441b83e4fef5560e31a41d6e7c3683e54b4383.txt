@@ -1,0 +1,21 @@
+> check eqlookup 6645ddee3d6309289f13778214441b83e4fef5560e31a41d6e7c3683e54b4383
+Item 'a chicken egg' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'white chicken egg'.
+This item weighs 0 stones and 3 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: vanish-on-expiry
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +6 ar-pierce-legs.
+This food has the traits ovo-lacto.
+This can be combined with the following ingredients to cook 'a breakfast omelette'.
+- Item 'a bottle of olive oil'
+- Item 'a large squishy mushroom'
+- Item 'a large spinach leaf'
+- Item 'a chicken egg'
+- Item 'a tiny bundle of cilantro'
+- Item 'a grainy block of feta cheese'
+- Item 'an avocado'
+- Item 'a croissant'
+Freshly laid, this egg looks perfect for cooking.  The shell is bright
+white and seems thin and fragile.  Usually used by the inn for baking and
+breakfast, these eggs are very well known as one of the most delicious foods
+here.  Due to their delicate shells and tasty yolks, creatures such as foxes
+and mongoose often attempt to break into the chicken coop to steal them.  

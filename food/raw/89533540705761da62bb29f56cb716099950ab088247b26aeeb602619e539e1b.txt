@@ -1,0 +1,12 @@
+> check eqlookup 89533540705761da62bb29f56cb716099950ab088247b26aeeb602619e539e1b
+Item 'a lemonade berry' is type food, alignment 5, made of organic (in (fresh) condition),[EQDB]
+has keywords 'lemonade berry bunch'.
+This item weighs 0 stones and 2 pebbles, and is valued at 2,251 gold. {Cat. 2}
+This level 65 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +10 air-skill-res.
+This food has the traits fruit.
+These lemonade berries, while small and seemingly insignificant, are a
+great source of energy.  Although they taste a bit green, they're sweet and
+tangy, and give you a certain renewed energy.  They're clumped into bunches
+of about a dozen or so, and small enough that you could pop several of these
+bunches into your mouth at once, for extra power.  

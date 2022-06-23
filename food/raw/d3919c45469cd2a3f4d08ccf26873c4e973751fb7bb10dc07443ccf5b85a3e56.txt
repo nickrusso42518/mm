@@ -1,0 +1,12 @@
+> check eqlookup d3919c45469cd2a3f4d08ccf26873c4e973751fb7bb10dc07443ccf5b85a3e56
+Item 'a prime rib' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'prime rib'.
+This item weighs 0 stones and 5 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 sunlight-skill-dam.
+This food has the traits raw-meat prepared.
+Your mouth waters at the sight of this juicy slab of prime rib.  It is
+well done, just the way you like it.  The smell of the prime rib is truly
+one of the greatest smells there is.  You suddenly wish you had some eating
+utensils, and a bib to wear over your shirt, since eating the steak could be
+a very messy process.  

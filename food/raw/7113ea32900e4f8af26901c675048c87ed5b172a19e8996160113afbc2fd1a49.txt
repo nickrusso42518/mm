@@ -1,0 +1,12 @@
+> check eqlookup 7113ea32900e4f8af26901c675048c87ed5b172a19e8996160113afbc2fd1a49
+Item 'a pecan pie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pecan pie cat2'.
+This item weighs 0 stones and 15 pebbles, and is valued at 475 gold. {Cat. 2}
+This level 15 item has the attributes: throwable
+When eaten, this food will provide 6 hours 40 minutes of the 'food' affect, providing +10 moonlight-skill-res.
+This food has the traits gluten prepared sweets nuts.
+Mama Lois' pecan pie smells divine.  Her pies are the most filling in all
+the land.  You care nothing for your arteries, cholesterol level, or fat
+intake once you sink your teeth into one of her delicious pies.  This one is
+wonderfully gooey and super sweet, it is just what you needed to cure that
+sweet tooth that has been bothering you recently.  

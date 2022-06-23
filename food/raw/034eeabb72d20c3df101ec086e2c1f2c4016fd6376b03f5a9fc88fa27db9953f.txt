@@ -1,0 +1,12 @@
+> check eqlookup 034eeabb72d20c3df101ec086e2c1f2c4016fd6376b03f5a9fc88fa27db9953f
+Item 'a nasty scab' is type food, alignment -1, made of flesh (in (somewhat spoiled) condition),[EQDB]
+has keywords 'scab blood clot'.
+This item weighs 0 stones and 1 pebbles, and is valued at 3,000 gold. {Cat. 2}
+This level 90 item has the attributes: vanish-death none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 energy-melee-dam.
+This food has the traits raw-meat.
+This little flake of clotted blood lies on the ground.  Apparently its
+owner no longer need this to stop the bleeding of whatever wound they once
+had.  Fortunately the person who this nasty shard of skin once belonged to
+decided to drop it rather that eat it.  It probably deserves to be buried
+but some horrible urge deep within makes you want to pick it up.  

@@ -1,0 +1,13 @@
+> check eqlookup 84e0a1a799e224f8dd494e64489cf1b5b6b80bd3ede0d800327633b41516b19e
+Item 'a minotaur heart' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'minotaur heart'.
+This item weighs 0 stones and 2 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +12 laser-melee-dam.
+This food has the traits raw-meat.
+This heart has been torn from the chest of an angry minotaur and is covered
+with his blood.  Some cultures believe that to eat an enemy's heart is to
+claim their power for oneself.  Are you feeling hungry?  You look at the
+bloody heart, and hope that it tastes slightly better than it smells.  It is
+still warm to the touch, so you hope whatever killed this beast isn't
+lurking around here still.  

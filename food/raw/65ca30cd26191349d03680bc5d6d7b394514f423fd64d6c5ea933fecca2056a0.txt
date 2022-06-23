@@ -1,0 +1,12 @@
+> check eqlookup 65ca30cd26191349d03680bc5d6d7b394514f423fd64d6c5ea933fecca2056a0
+Item 'the mangled tongue of a marauding orc' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'mangled tongue marauding orc thanksgiving 2015'.
+This item weighs 0 stones and 3 pebbles, and is valued at 16,530 gold. {Cat. 2}
+This level 200 item has the attributes: vanish-death none
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +12 mental-melee-dam.
+This food has the traits raw-meat.
+This tongue has been recently torn out of an orc's mouth.  It is still
+bloody, but it's not clear whether that was from the orc's last meal or from
+the orc itself.  This can be taken by an Adventurer repelling the orcs to
+Gilthy the Giant in the Blue Velvet Inn in New Rigel for a reward.  

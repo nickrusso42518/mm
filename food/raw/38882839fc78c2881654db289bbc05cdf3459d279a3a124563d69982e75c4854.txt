@@ -1,0 +1,12 @@
+> check eqlookup 38882839fc78c2881654db289bbc05cdf3459d279a3a124563d69982e75c4854
+Item 'a blueberry danish' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'blueberry danish food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +6 ar-exotic-wings.
+This food has the traits gluten prepared fruit sweets.
+A pastry lays on a white cloth here, filled with a blue looking jelly. 
+The dough looks to have been made with a butter folding technique, looking
+really flaky.  The blue jelly is thick and sweet, tasting of fresh
+blueberries.  You take a look around quickly and make sure no one can see
+you.  Then you take the pastry and devour it, sedating your sweet tooth.  

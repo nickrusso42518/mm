@@ -1,0 +1,12 @@
+> check eqlookup 1d25474afb022e2a3d036c99ed26d97e7f329fc763f2cf301bb7668564385d07
+Item 'an oatmeal cookie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'oatmeal cookie'.
+This item weighs 0 stones and 3 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +60 damage-boss-cat4.
+This food has the traits gluten prepared sweets ovo-lacto.
+An large and lumpy oatmeal cookie lays here on the counter.  It is golden
+brown, moist, and very chewy.  The smell of the freshly baked cookie wafts
+towards you, causing your stomach to rumble.  Fresh grains from the wheat
+fields outside of Rune have been processed to make the special flour used
+make this cookie.  

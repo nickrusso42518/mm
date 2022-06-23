@@ -1,0 +1,15 @@
+> check eqlookup 74a5fe78bb992fd94ef07458cfa1db9fd3e42a1a353af8758d6c51b64c0c7d65
+Item 'a crisp head of lettuce' is type food, alignment 50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'crisp head lettuce'.
+This item weighs 0 stones and 20 pebbles, and is valued at 1,000 gold. {Cat. 2}
+This level 186 item has the attributes: identified none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 energy-skill-dam.
+This food has the traits vegetable.
+*A crisp head of lettuce will last approximately 24,000 more Alyrian minutes.
+Layers of large lettuce leaves wrap around each other to create this
+crisp head.  Freshly cut from the roots, it still has small patches of dirt
+on the leaves.  The foliage, still growing, is snow-white at the bottom and
+gradually turns green towards the top.  Large drops of dew have begun to
+form at the edge of the leaves and collect in a small pool of water at the
+center of the head.  This bait would be best suited for a large admantite
+trap.  

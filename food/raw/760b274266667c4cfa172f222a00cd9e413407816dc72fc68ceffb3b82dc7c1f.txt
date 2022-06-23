@@ -1,0 +1,12 @@
+> check eqlookup 760b274266667c4cfa172f222a00cd9e413407816dc72fc68ceffb3b82dc7c1f
+Item 'some purple corn' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'purple corn'.
+This item weighs 0 stones and 5 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +90 damage-fire-breath.
+This food has the traits vegetable.
+This ear of corn looks normal at first, since it has a green sheath
+surrounding it.  However, as you look inside you are amazed to find that its
+kernels are purple instead of yellow.  You pull one off, and cannot find
+anything wrong except its unusual color.  You wonder what kind of soil is
+needed to produce such a strange plant.  

@@ -1,0 +1,11 @@
+> check eqlookup fd27af21250dacd40ac8a870cb3b7647849cc93bbaa3d9c365e80c3f4b302dee
+Item 'a steamed bat' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'bat steamed animal carcass cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 30 gold. {Cat. 2}
+This level 20 item has no special attributes.
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +12 acid-skill-dam.
+This food has the traits raw-meat prepared.
+Blackened wings and fried abdomen of bat isn't exactly a rare treat in
+Vir but it's food.  The tough meat is a bit like some types of jerky and if
+not tasty it's filling.  Some factions in Vir view eating bat as blasphemy
+but maybe even they would eat this if they were starving.  

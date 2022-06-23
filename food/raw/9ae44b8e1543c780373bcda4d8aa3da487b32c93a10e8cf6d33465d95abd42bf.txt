@@ -1,0 +1,12 @@
+> check eqlookup 9ae44b8e1543c780373bcda4d8aa3da487b32c93a10e8cf6d33465d95abd42bf
+Item 'a breadstick' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'breadstick bread stick food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 7 minutes of the 'food' affect, providing +10 iron-skill-res.
+This food has the traits gluten prepared.
+A yummy breadstick, covered with sesame seeds, is here.  This bread stick
+has that smell that can only come from fresh baked bread.  The crust is a
+light brown and just a little bit hard.  The inside is steamy warm and
+moist.  The crust has been lightly coated with just a touch of olive oil. 
+It tastes like pure heaven.

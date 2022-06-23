@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>MM Foods</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style type="text/css">li {margin: 4px 0;}</style>
+</head>
+<body>
+  <h1>Materia Magica Food Reference</h1>
+  <ol>
+{% for food in data %}
+{% set food_text = food["food_text"] %}
+{% set food_url = food["food_url"] %}
+{% set uuid = food["uuid"] %}
+
+    <li>
+      {{ food_text }} /
+      <a href=raw/{{ uuid }}.txt>raw text</a> /
+      <a href={{ food_url }}>annwn.info</a>
+    </li>
+{% endfor %}
+  </ol>
+</body>

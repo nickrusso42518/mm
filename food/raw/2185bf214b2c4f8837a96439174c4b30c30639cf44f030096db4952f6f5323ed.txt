@@ -1,0 +1,11 @@
+> check eqlookup 2185bf214b2c4f8837a96439174c4b30c30639cf44f030096db4952f6f5323ed
+Item 'a giant plate of pasta primavera' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'giant plate pasta primavera'.
+This item weighs 0 stones and 10 pebbles, and is valued at 450 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 conduit-prcnt.
+This food has the traits gluten vegetable prepared ovo-lacto.
+The pasta primavera is by far one of the favorites here within the
+village of Teolaven.  The pasta is a creamy cheese sauce with various
+vegetables such as carrots, squash and asparagus spears.  The pasta is
+steaming and appears to have just been prepared.  

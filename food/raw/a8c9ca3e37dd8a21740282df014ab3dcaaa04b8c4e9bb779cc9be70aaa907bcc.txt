@@ -1,0 +1,12 @@
+> check eqlookup a8c9ca3e37dd8a21740282df014ab3dcaaa04b8c4e9bb779cc9be70aaa907bcc
+Item 'a plate of lasagna' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'plate lasagna cat2'.
+This item weighs 0 stones and 4 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 silver-skill-res.
+This food has the traits gluten vegetable prepared ovo-lacto.
+Lasagna is a fine dish that mixes noodles, cheese, and beef together to
+make a glazed cake of delicious eatery.  It is served in slices of that
+cake, once the pie has been properly baked.  This piece of lasagna has been
+perfectly made with the correct amount of spices and herbs as its toppings. 
+You would really like to take a big bite into this delicious food.  

@@ -1,0 +1,11 @@
+> check eqlookup 35aac3dd6e771c7dd84c05a365de6e30665cec3f2da8d7e6c018da6677c00343
+Item 'some dried apricot' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'dried apricot fruit'.
+This item weighs 0 stones and 1 pebbles, and is valued at 200 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-bash-torso.
+This food has the traits prepared fruit.
+These bits of dried fruit were at one time a ripe, juicy apricot.  Now
+they are wrinkled, dried, and have the appearance of orange raisins.  They
+still taste rather good, though.  They might even be healthy.  They're very
+orange, that's for sure.  

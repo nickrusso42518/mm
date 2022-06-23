@@ -1,0 +1,13 @@
+> check eqlookup 00ced0b4279bc4f633ea421a5edbd76ca901275d1c41ce6d896fe631a32a8e94
+Item 'some edible seaweed' is type food, alignment 100, made of organic (in (fresh) condition),[EQDB]
+has keywords 'edible seaweed weed'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 10 item has the attributes: will-float
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +25 dispelling-weapon-activation
+-damage.
+This food has the traits vegetable.
+A large bunch of seaweed is floating here.  It is long and dark green in
+color.  It stinks as some of it is beginning to decay.  You can see little
+fish darting in and out of it hoping to grab a quick meal from the algae and
+shrimp that cling to it.  You decide against getting too close, as you fear
+getting entangled within.  

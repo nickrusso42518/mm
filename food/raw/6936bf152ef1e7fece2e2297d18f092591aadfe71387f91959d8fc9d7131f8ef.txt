@@ -1,0 +1,14 @@
+> check eqlookup 6936bf152ef1e7fece2e2297d18f092591aadfe71387f91959d8fc9d7131f8ef
+Item 'a partially-eaten tuber' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'large brown tuber sweet potato'.
+This item weighs 0 stones and 4 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 1 hour 20 minutes of the 'food' affect, providing +12 water-skill-dam.
+This food has the traits tuber.
+This tuber was probably a foot long when it was pulled from the ground. 
+Now it is about eight inches long and four inches across.  The end of this
+tuber is missing, probably the result of a close encounter with one of the
+creatures that dwell in this area.  The tuber is brown skinned but the meat
+looks to be an orange color.  A little bit of dirt clings to the sides of
+the sweet potato.  If you cut off the partially-eaten end, you could
+probably make a fine meal out of this potato.  

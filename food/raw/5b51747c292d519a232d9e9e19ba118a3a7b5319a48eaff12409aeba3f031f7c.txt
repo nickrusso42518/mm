@@ -1,0 +1,12 @@
+> check eqlookup 5b51747c292d519a232d9e9e19ba118a3a7b5319a48eaff12409aeba3f031f7c
+Item 'fried seagull' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'fried seagull bird'.
+This item weighs 0 stones and 0 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +50 damage-grapple.
+This food has the traits poultry prepared.
+Always willing to try new things, you thought it might be a good idea to
+sample the fried seagull.  Now that it's sitting here, you begin to have
+second thoughts.  While it looks like most of the bird's feathers have been
+removed, the legs and head are still attached to the body.  At least, that's
+what you think they are.  With a meal this crispy, it's hard to tell.  

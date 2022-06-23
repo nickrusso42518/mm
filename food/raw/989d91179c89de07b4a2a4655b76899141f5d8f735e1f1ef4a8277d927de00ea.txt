@@ -1,0 +1,15 @@
+> check eqlookup 989d91179c89de07b4a2a4655b76899141f5d8f735e1f1ef4a8277d927de00ea
+Item 'a hunk of jarlsberg' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'hunk cheese food jarlsberg'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +10 fire-skill-res.
+This food has the traits ovo-lacto.
+This can be combined with the following ingredients to cook 'an arranged cheese plate'.
+- Item 'a hunk of jarlsberg'
+- Item 'a hunk of swiss cheese'
+It is a large triangular hunk of delicious smelling cheese.  The hunk
+looks to have been sliced out of an even larger wheel of cheese.  Together
+with some good company, a loaf of bread, and a bottle of good wine, this
+hunk of cheese would deliciously complete a good meal.  Now to find some
+good company, a loaf of bread, and a bottle of good wine.  

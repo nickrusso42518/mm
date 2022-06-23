@@ -1,0 +1,8 @@
+> check eqlookup a315e76c1477373f814ffa4a4be8b3243336acde52b8a73e8f88ec5e2583a285
+Item 'some black powder' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'powder black'.
+This item weighs 0 stones and 1 pebbles, and is valued at 255 gold. {Cat. 2}
+This level 9 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +100 damage-backstab.
+This food has the traits raw-plant.
+Some strong-smelling black powder has been carelessly scattered here.

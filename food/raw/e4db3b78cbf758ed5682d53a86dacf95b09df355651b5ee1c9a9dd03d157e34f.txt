@@ -1,0 +1,12 @@
+> check eqlookup e4db3b78cbf758ed5682d53a86dacf95b09df355651b5ee1c9a9dd03d157e34f
+Item 'a pound of cooked jumbo shrimp' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'bunch tiny curled jump shrimp pound '.
+This item weighs 0 stones and 5 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 20 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +12 negative-melee-dam.
+This food has the traits prepared seafood.
+Pink bloated shrimp ooze the garlic and pepper marinade they were cooked
+in.  They appear to have been skinned, having exoskeletons on only their
+tails.  Some magnificent cook must have made these delicacies.  Popular as
+food where shrimp live, and popular where they're rare, too, hot, cooked
+shrimp are popular all over!  

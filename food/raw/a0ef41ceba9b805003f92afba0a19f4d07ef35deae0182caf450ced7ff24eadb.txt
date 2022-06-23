@@ -1,0 +1,12 @@
+> check eqlookup a0ef41ceba9b805003f92afba0a19f4d07ef35deae0182caf450ced7ff24eadb
+Item 'a pile of refined salt' is type food, alignment 0, made of salt (in (fresh) condition),[EQDB]
+has keywords 'pile refined salt'.
+This item weighs 0 stones and 2 pebbles, and is valued at 200 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 8 minutes of the 'food' affect, providing +12 saving-rod.
+This food has the traits prepared.
+Clear, pure salt is the final product of Colyon's salt mining business. 
+It is rough and rather, err, salty.  It sells almost as well as the fish
+that it cures and dries, and better than the dried fruit, even if it isn't
+as tasty by itself.  It can be used in food, and some people even use it as
+a magical reagent.  Salt's a pretty useful thing, you know.  

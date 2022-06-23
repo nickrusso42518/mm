@@ -1,0 +1,12 @@
+> check eqlookup 3d513d3f1728b592fae344f4ad5869451b1c6a51a1cba29480b1f642a35a8ec6
+Item 'a mushroom' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'mushroom'.
+This 10-slot item weighs 0 stones and 1 pebbles, and is valued at 175 gold. {Cat. 2}
+This level 7 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 poison-skill-res.
+This food has the traits fungus.
+At the base of a tree you find this gray mushroom.  The fungus is well
+known by the villagers, and it is rumored to be a powerful aphrodisiac. 
+During the spring planting and fall harvest seasons, young single ladies
+give the mushrooms to young men, hoping that the men will ask them to the
+local festivals.  

@@ -1,0 +1,11 @@
+> check eqlookup 85378170317d4a9e791e8a9cee87ba81d2b53be48fdd85be349ab9c250f10f67
+Item 'a wicker basketful of Wroth chicken' is type food, alignment 0, made of meat (in (fresh)
+condition),[EQDB]
+has keywords 'wicker basketful wroth chicken fried wings brim fivepointzero'.
+This item weighs 0 stones and 35 pebbles, and is valued at 28,830 gold. {Cat. 6}
+This level 241 item has the attributes: none
+When eaten, this food will provide 5 hours 50 minutes of the 'food' affect, providing +8 accuracy.
+This food has the traits poultry gluten raw-meat prepared.
+Although they are breaded and deep-fried in a big cauldron of boiling lard,
+the chicken inside is not otherwise cooked- orcs prefer the natural flavor,
+and are naturally immune to salmonella.  It is so close to being appetizing.

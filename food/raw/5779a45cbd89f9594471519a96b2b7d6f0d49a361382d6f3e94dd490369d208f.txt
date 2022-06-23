@@ -1,0 +1,11 @@
+> check eqlookup 5779a45cbd89f9594471519a96b2b7d6f0d49a361382d6f3e94dd490369d208f
+Item 'an ink sac' is type food, alignment 0, made of organic (in (slightly fresh) condition),[EQDB]
+has keywords 'inksac squid sac'.
+This item weighs 0 stones and 1 pebbles, and is valued at 280 gold. {Cat. 0}
+This level 10 item has the attributes: none
+When eaten, this food will provide 1 minute of the 'food' affect, providing +12 damage.
+This food has the traits seafood.
+*An ink sac will last approximately 35 more Alyrian minutes.
+This somewhat transparent, slimey black tube contains a nasty black ink
+that stains clothing and skin.  A putrid odor eminates from the sac,
+apperently having recently been removed from a squid.  

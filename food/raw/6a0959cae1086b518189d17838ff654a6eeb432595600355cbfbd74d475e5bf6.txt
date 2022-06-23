@@ -1,0 +1,12 @@
+> check eqlookup 6a0959cae1086b518189d17838ff654a6eeb432595600355cbfbd74d475e5bf6
+Item 'an apple pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pie apple'.
+This item weighs 0 stones and 5 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +10 fire-skill-res.
+This food has the traits gluten prepared fruit sweets.
+This freshly baked apple pie is producing a mouth-watering aroma.  From 
+the smell, the apples must have been recently harvested and expertly 
+prepared.  The crust is baked a flaky golden brown, making the pie even 
+more enticing.  You hope that the pie has cooled enough, as you cannot 
+wait to try it.

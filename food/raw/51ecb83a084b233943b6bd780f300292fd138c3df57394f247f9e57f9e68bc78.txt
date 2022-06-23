@@ -1,0 +1,10 @@
+> check eqlookup 51ecb83a084b233943b6bd780f300292fd138c3df57394f247f9e57f9e68bc78
+Item 'a pumpkin pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pumpkin pie'.
+This item weighs 0 stones and 5 pebbles, and is valued at 6,250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +10 sunlight-skill-res.
+This food has the traits gluten prepared fruit ovo-lacto.
+This baked pumpkin pie looks finger licking good.  It's nicely browned
+pastry cover hides the delisciously creamy innards of creamed pumpkin.  In
+the top, an "T" and "R" have been embeded.  

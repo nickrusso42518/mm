@@ -1,0 +1,11 @@
+> check eqlookup 19bcf896f9f78b9d47838bcf48a4342552edf12a7921ce73b34a05967c0702c4
+Item 'a blueberry pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'blueberry pie cat2'.
+This item weighs 0 stones and 14 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 5 hours 50 minutes of the 'food' affect, providing +20 sp-regen-max.
+This food has the traits gluten prepared fruit sweets.
+Mama Lois' blueberry pies are the sweetest pies you have ever eaten.  She
+packs them so full of blueberries your teeth stay blue for a week.  Her pies
+fill you up all day, and also make you rather plump, but they are quite
+addicting.  

@@ -1,0 +1,11 @@
+> check eqlookup 1fe07c6477d40287377714ee8a666c8a13c7d90e459b432e69f62650e1281b5b
+Item 'dracon rations' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'dracon food rations cat2'.
+This item weighs 0 stones and 4 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 30 item has no special attributes.
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +50 weight-modifier.
+This food has the traits raw-meat.
+This packet of rations contains small amounts of dried beef and salted
+pork.  The dracons often despise eating anything other than meat and scoff
+at being offered such things as fruit or grain.  It is a fair sized amount
+of food and will probably keep you filled for quite a while.  

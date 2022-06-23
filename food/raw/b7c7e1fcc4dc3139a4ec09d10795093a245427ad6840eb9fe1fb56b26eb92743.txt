@@ -1,0 +1,11 @@
+> check eqlookup b7c7e1fcc4dc3139a4ec09d10795093a245427ad6840eb9fe1fb56b26eb92743
+Item 'a slice of cured ham' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'cured ham slice'.
+This item weighs 0 stones and 6 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 8 minutes of the 'food' affect, providing +6 ar-pierce-wings.
+This food has the traits raw-meat prepared.
+This thick slab of meat is making your mouth water.  You feel guilty that
+some innocent little porker gave its life just to feed you, but then you
+think, "I didn't fight my way to the top of the food chain to become a
+vegetarian!"  This makes you feel much less guilty than before.

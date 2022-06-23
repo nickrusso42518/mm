@@ -1,0 +1,12 @@
+> check eqlookup fb5c014c7891d9eec6a49722a1a7034fafcd53b019e31bedc8f78981ba47f9a1
+Item 'a rotting fistful of brains' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'cross section brains cranial liquid rotting fistful'.
+This item weighs 0 stones and 3 pebbles, and is valued at 1,000 gold. {Cat. 2}
+This level 40 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +12 acid-skill-dam.
+This food has the traits raw-meat.
+When casting memory drain, increases memories drained by 1.00.
+Although most culinary experts agree that brains are a highly-prized
+delicacy, either they're lying, or this is a terrible-looking example.  It
+oozes slightly, and is very gelatinous, shuddering and quivering at your
+touch.  It really does look putrid, but who knows, they may just be right.  

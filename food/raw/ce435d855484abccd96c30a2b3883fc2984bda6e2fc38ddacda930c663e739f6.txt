@@ -1,0 +1,10 @@
+> check eqlookup ce435d855484abccd96c30a2b3883fc2984bda6e2fc38ddacda930c663e739f6
+Item 'a plate of assorted fruit' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'food fruit assorted'.
+This item weighs 0 stones and 3 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +15 sound-skill-dam.
+This food has the traits prepared fruit.
+The platter contains all sorts of fresh fruits.  Among the things you see
+on it are strawberries, watermelon, peaches, pears, grapes, kiwi, mango and
+several other types of fruit.  

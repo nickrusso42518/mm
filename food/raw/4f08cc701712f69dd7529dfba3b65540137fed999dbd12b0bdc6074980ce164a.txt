@@ -1,0 +1,12 @@
+> check eqlookup 4f08cc701712f69dd7529dfba3b65540137fed999dbd12b0bdc6074980ce164a
+Item 'a thin crisp of wheat' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'crisp wheat cracker'.
+This item weighs 0 stones and 1 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 earth-skill-res.
+This food has the traits gluten prepared.
+A square, wheat cracker has been left here.  It's edges are rough, and it
+looks fairly healthy.  It is still in good condition, and looks safe to eat.
+It has no distinguishable armoa, and you assume that it will taste just as
+blandly as it looks and smells.  You nibble on it and find out that you were
+indeed, correct.  

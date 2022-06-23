@@ -1,0 +1,14 @@
+> check eqlookup 92ecef9d6cc1a5033dcbbe31191b8795ecf63a6c363e119f43e8c8300acebe68
+Item 'a strawberry dipped in chocolate' is type food, alignment 0, made of organic (in (fresh)
+condition),[EQDB]
+has keywords 'strawberry dipped chocolate'.
+This item weighs 0 stones and 3 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +6 ar-pierce-head.
+This food has the traits prepared fruit sweets ovo-lacto.
+*A strawberry dipped in chocolate will last approximately 1,000 more Alyrian minutes.
+A ripe red strawberry has been dipped into a luscious dark chocolate
+sauce.  The sweet flavor of the juicy strawberry mingles with the bitter
+dark chocolate upon the tongue for a taste treat that could be ccnsidered
+decadently sinful.  Each taste is better than the last and the enjoyer of
+this tempting treat is often left desiring more.  

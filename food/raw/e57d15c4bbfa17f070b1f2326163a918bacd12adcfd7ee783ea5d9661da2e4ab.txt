@@ -1,0 +1,13 @@
+> check eqlookup e57d15c4bbfa17f070b1f2326163a918bacd12adcfd7ee783ea5d9661da2e4ab
+Item 'a portion of rotting food' is type food, alignment 15, made of organic (in (rotting) condition),[EQDB]
+has keywords 'portion pile food'.
+This item weighs 0 stones and 5 pebbles, and is valued at 10 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 poison-melee-dam.
+This food has the traits gluten raw-meat vegetable prepared.
+This clump of rotting food contains all sorts of elements.  There's part
+of an ear of corn barely recognizable due to its brown color, a rancid bit
+of pork that would gag any normal person on sight, and a moldy bread product
+of some kind.  Beyond that, it's just gross, smelly mush that's slightly
+organic to the tough.  It would be inadvisable to eat in its present form,
+but maybe some of it could be salvaged.  

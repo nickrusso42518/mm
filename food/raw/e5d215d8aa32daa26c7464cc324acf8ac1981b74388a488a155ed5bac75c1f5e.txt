@@ -1,0 +1,11 @@
+> check eqlookup e5d215d8aa32daa26c7464cc324acf8ac1981b74388a488a155ed5bac75c1f5e
+Item 'a slice of cheesecake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'cheesecake cat2'.
+This item weighs 0 stones and 6 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 2 hours 30 minutes of the 'food' affect, providing +3 healed-by-others
+-prcnt.
+This food has the traits gluten prepared sweets ovo-lacto.
+Every year Mama Lois wins an award for her cheesecake at the local bake
+off.  After one taste you realize why she wins, and has won for as long as
+she can remember.  What makes it extra special, is that it is fat free.  

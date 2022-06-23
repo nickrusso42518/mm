@@ -1,0 +1,12 @@
+> check eqlookup 2147cd47c1a8336d423c0991a1c78acf66a36a068efef5f32b56d593e41f1b78
+Item 'a ripe kiwi' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'kiwi fruit'.
+This item weighs 0 stones and 3 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +60 damage-boss-cat4.
+This food has the traits fruit.
+A ripe kiwi fruit lies here on the ground.  This brown fruit has a
+slightly furry outside and a tasty green inside.  It is considered by many
+people to be one of the most nutritious and filling meals that exists, and
+it is just one piece of fruit.  You decided to keep it for a later meal, but
+then again you are hungry.  

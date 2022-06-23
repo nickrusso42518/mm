@@ -1,0 +1,12 @@
+> check eqlookup bb8a8bbeba7e6995b9c98e1d598d40aeed3921456893bcc522fd4e112b1c859f
+Item 'an imperfect turnip' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'bruised turnip imperfect'.
+This item weighs 0 stones and 5 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +12 pierce-melee-dam.
+This food has the traits tuber.
+This turnip is rather sickly looking.  It has soft, dark patches all over
+it where it has been dropped.  The purple leaves are feeble and wilted. 
+While not in the best shape and with a battered look, it is still edible. 
+However, you don't look forward to eating it raw, and decide that it may be
+a good idea to find somewhere to cook the turnip first.  

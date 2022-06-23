@@ -1,0 +1,12 @@
+> check eqlookup c1b5cc8753809331c303621c21a3e20ada18aa252ef1d2007c4fb451b70f287e
+Item 'a small block of Colove cheese' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'small block Colove jungle cheese'.
+This item weighs 0 stones and 1 pebbles, and is valued at 575 gold. {Cat. 0}
+This level 23 item has no special attributes.
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +120 damage-boss-cat7.
+This food has the traits prepared ovo-lacto.
+Made from a rare fungus in the Colove Jungle, this cheese has been aged
+and packaged, only to be sold to you, here in Dorathon.  It has made a
+journey across the world to your stomach.  A fine cottonlike bark encases
+the large cube which sits before you.  The cheese itself appears greenish,
+with small flakes of white.  

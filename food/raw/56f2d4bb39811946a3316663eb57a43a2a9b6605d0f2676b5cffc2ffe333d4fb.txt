@@ -1,0 +1,12 @@
+> check eqlookup 56f2d4bb39811946a3316663eb57a43a2a9b6605d0f2676b5cffc2ffe333d4fb
+Item 'a bowl of seaweed soup' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'seaweed soup'.
+This item weighs 0 stones and 13 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 2 hours of the 'food' affect, providing +50 battle-rage-activation-damage.
+This food has the traits vegetable.
+Specially grown seaweed boiled for several minutes creates this wonderful
+dish.  The soup warms the body all the way down, fighting off the chill that
+comes from staying underwater so long.  The flavour is a bit spicy, but
+still wonderful for an all natural soup.  How they keep it warm in all this
+water is beyond you, perhaps there is a bit of magic in it after all.  

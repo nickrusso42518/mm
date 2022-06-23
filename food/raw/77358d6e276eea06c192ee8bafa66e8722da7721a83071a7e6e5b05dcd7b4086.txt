@@ -1,0 +1,12 @@
+> check eqlookup 77358d6e276eea06c192ee8bafa66e8722da7721a83071a7e6e5b05dcd7b4086
+Item 'a ripe orange' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ripe orange'.
+This item weighs 0 stones and 2 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 air-melee-dam.
+This food has the traits fruit.
+This large, ripe orange looks as though it has only recently fallen from
+an orange tree.  You should probably hang on to it if you plan on making any
+long sea voyages in the near future, since it can help prevent you from
+getting scurvy.  However you think to yourself "only pirates get scurvy" and
+eat the orange now anyway.  

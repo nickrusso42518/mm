@@ -1,0 +1,12 @@
+> check eqlookup 7fa3e8ed55a68b878d4513a8c2ee4964dff6670f8bb0451712f102a7d53ebaaa
+Item 'a pair of eyeballs' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'pair eyeballs membranes'.
+This item weighs 0 stones and 1 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 20 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +4 strength.
+This food has the traits raw-meat.
+These two small eyeballs come from some creature with advanced sight. 
+They look sort of human, but a deep crimson cloud fills their background, as
+though it were some sick, insane beast.  Optic nerves, which have been
+knotted together hang off the back of each eye.  The membranes on the eyes
+are dried out, and crunchy.  These fun foods are great for fey children!  

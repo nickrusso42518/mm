@@ -1,0 +1,14 @@
+> check eqlookup 76ae31796e8a44f644769b003b1db6ccc7aed6103a28b731fd5f999130c98df1
+Item 'some reindeer moss' is type food, alignment 50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'strange multicolored colored plane reindeer moss'.
+This item weighs 0 stones and 9 pebbles, and is valued at 305 gold. {Cat. 2}
+This level 11 item has the attributes: identified none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +8 ar-wings.
+This food has the traits raw-plant.
+This is one of the strangest plants you've ever seen, given the fact it
+doesn't look like any kind of plant at all.  It grows in a circular
+snowflake pattern, yet it isn't green at all, but it is a mix of many
+colors.  It has no visible roots or stems, and doesn't breathe.  A small
+patch of moisture is visible on it, possibly from dew, mil or otherwise, but
+more likely reindeer's saliva.  It is, after all, one of their favorite
+foods.  

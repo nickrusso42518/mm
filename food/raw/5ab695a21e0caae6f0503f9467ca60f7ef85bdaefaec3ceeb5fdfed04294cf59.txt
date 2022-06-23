@@ -1,0 +1,14 @@
+> check eqlookup 5ab695a21e0caae6f0503f9467ca60f7ef85bdaefaec3ceeb5fdfed04294cf59
+Item 'a Fundator Quietus salad' is type food, alignment 300, made of organic (in (fresh) condition),[EQDB]
+has keywords 'fundator quietus salad'.
+This item weighs 0 stones and 5 pebbles, and is valued at 4,000 gold. {Cat. 2}
+This level 110 item has no special attributes.
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +10 slash-skill-res.
+This food has the traits vegetable prepared.
+Numerous kinds of lettuce and greenery make this salad, humorously named
+after a politician hailing from the Palace of Diocletian.  Its dressing in
+particular distinguishes itself from other greenery, a slightly salty
+concoction that makes the lettuce and other vegetables particularly tangy. 
+Originally created by one of the commoners of the far-off palace, it was
+named to honor of its original benefactors, and has been known thusly ever
+since.  

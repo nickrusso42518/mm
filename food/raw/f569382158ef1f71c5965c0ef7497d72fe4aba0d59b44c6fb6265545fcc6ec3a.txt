@@ -1,0 +1,12 @@
+> check eqlookup f569382158ef1f71c5965c0ef7497d72fe4aba0d59b44c6fb6265545fcc6ec3a
+Item 'some bacon and eggs' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bacon eggs scrambled'.
+This item weighs 0 stones and 2 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 3 hours 20 minutes of the 'food' affect, providing +10 damage-splash-prcnt.
+This food has the traits raw-meat prepared ovo-lacto.
+On an oversized ceramic plate several crispy strips of bacon lie
+wallowing in their own grease.  The scent of hickory smoke rises off the
+meat.  Beside the luscious bacon is a mass of viscous scrambled eggs.  Steam
+billows above the plate indicating these delicacies are fresh from the stove
+and ready for eating.  Perhaps coffee would go well with them!  

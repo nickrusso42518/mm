@@ -1,0 +1,12 @@
+> check eqlookup 3a949025683314ac8352d545e00c4ecddf308fbaed2e742354479302bb99daab
+Item 'a mug of clam chowder' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'clam chowder mug'.
+This item weighs 0 stones and 8 pebbles, and is valued at 100 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 9 minutes of the 'food' affect, providing +12 energy-skill-dam.
+This food has the traits gluten prepared seafood.
+A hot, steaming bowl of clam chowder is here ready for you to devour. 
+The smell of cooked clams with bits of baked potato and small bits of
+vegetables are making you mouth water.  This huge bowl of chowder looks more
+than one person could possibly eat.  Not knowing when you will next get a
+chance to eat, you decided to buy the soup.  

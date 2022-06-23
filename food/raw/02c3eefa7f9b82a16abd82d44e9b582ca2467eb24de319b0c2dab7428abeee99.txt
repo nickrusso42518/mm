@@ -1,0 +1,12 @@
+> check eqlookup 02c3eefa7f9b82a16abd82d44e9b582ca2467eb24de319b0c2dab7428abeee99
+Item 'a spicy shrimp stuffed ravioli' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'shrimp ravioli'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +7 damage-to-evil-prcnt.
+This food has the traits gluten prepared ovo-lacto seafood.
+*A spicy shrimp stuffed ravioli will last approximately 1,000 more Alyrian minutes.
+Nestled in a pastry made of spinach is a delightful melange of shrimp
+spiced with exotic hot peppers and tempered with the cool richness of
+cheese.  The pasty is golden brown from being deep-fried.  A carved pick
+holding a small shrimp skewers the pastry.  

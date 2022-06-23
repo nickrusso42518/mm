@@ -1,0 +1,11 @@
+> check eqlookup 36fdc9cf37f2123dc8eddbbf801ae7fcc9b57793a617e51eae6037aaf88a1b2b
+Item 'a turkey's eye' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'eye turkey turkeyeyequest global'.
+This item weighs 0 stones and 0 pebbles, and is valued at 405 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +12 summon-skill-dam.
+This food has the traits poultry.
+*A turkey's eye will last approximately 86,400 more Alyrian minutes.
+This turkey eye looks good enough to eat.  Some say that it is a
+treasured delicacy, in fact the preferred diet of the seasoned turkey
+hunter.

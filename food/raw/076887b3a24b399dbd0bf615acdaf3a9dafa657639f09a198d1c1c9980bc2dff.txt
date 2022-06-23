@@ -1,0 +1,10 @@
+> check eqlookup 076887b3a24b399dbd0bf615acdaf3a9dafa657639f09a198d1c1c9980bc2dff
+Item 'a goblin ear' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'goblin ear'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: vanish-death
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +20 hp-regen-max.
+This food has the traits raw-meat.
+This ear has recently been torn from a goblin.  No doubt he will be looking
+for it if he is still alive.  It looks as if it were very recently severed,
+as the ear is still warm!  You hope the goblin doesn't come after you.  

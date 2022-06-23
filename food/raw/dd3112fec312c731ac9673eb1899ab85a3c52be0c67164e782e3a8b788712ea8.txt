@@ -1,0 +1,10 @@
+> check eqlookup dd3112fec312c731ac9673eb1899ab85a3c52be0c67164e782e3a8b788712ea8
+Item 'a leg of deer' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'leg deer'.
+This item weighs 0 stones and 12 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has the attributes: vis-death always-equipment-index
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +6 ar-exotic-head.
+This food has the traits raw-meat.
+Fresh off the spit, this is one of the few foods both orc and human can
+agree on.  It is browned perfectly, and even without any seasonings would
+make a fine meal for a hungry adventurer or soldier.  

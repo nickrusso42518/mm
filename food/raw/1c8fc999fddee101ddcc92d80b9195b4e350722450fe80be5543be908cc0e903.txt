@@ -1,0 +1,14 @@
+> check eqlookup 1c8fc999fddee101ddcc92d80b9195b4e350722450fe80be5543be908cc0e903
+Item 'a crisp lettuce leaf' is type food, alignment 25, made of organic (in (fresh) condition),[EQDB]
+has keywords 'crisp lettuce leaf'.
+This item weighs 0 stones and 3 pebbles, and is valued at 150 gold. {Cat. 2}
+This level 16 item has the attributes: identified none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +6 ar-bash-wings.
+This food has the traits vegetable.
+*A crisp lettuce leaf will last approximately 24,000 more Alyrian minutes.
+Freshly broken from a head of lettuce, this bright green leaf is still
+fresh and crispy.  The leaf is quite large in size; in fact it's almost as
+big as a ogre's hand.  Several drops of dew have condensed along the sides
+of the leaf and slowly roll towards the bottom of it.  Tiny green veins
+weave their way throughout the leaf creating intricate patterns.  This bait
+would be best suited for a tiny copper trap.  

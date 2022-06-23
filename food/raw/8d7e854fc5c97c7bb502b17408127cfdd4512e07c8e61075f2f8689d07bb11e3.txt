@@ -1,0 +1,11 @@
+> check eqlookup 8d7e854fc5c97c7bb502b17408127cfdd4512e07c8e61075f2f8689d07bb11e3
+Item 'a loaf of bread' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'loaf bread food'.
+This item weighs 0 stones and 4 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 2 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +3 ar-mitigation.
+This food has the traits gluten prepared.
+The bread is hot from the oven, with a crispy brown crust.  It smells
+wonderfully and tastes even better than it smells.  It has been made with
+flour from several different grains, as this seems to enhance the flavor
+considerably.  

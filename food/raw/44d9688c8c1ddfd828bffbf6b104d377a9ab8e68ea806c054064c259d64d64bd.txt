@@ -1,0 +1,12 @@
+> check eqlookup 44d9688c8c1ddfd828bffbf6b104d377a9ab8e68ea806c054064c259d64d64bd
+Item 'a snake stew' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'snake stew'.
+This item weighs 0 stones and 14 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 5 hours 50 minutes of the 'food' affect, providing +10 iron-skill-res.
+This food has the traits raw-meat prepared.
+This large bowl of liquid sloshes ominously as you pick it up.  The
+contents are a sticky yellow mess, and it is difficult to lift some out with
+your spoon.  You can see large chunks of meat floating in the bowl, and you
+wonder if they really are snake meat at all.  Perhaps it would be a good
+idea to sample something else instead.  

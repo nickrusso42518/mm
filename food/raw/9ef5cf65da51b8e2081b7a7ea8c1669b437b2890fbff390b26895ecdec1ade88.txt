@@ -1,0 +1,12 @@
+> check eqlookup 9ef5cf65da51b8e2081b7a7ea8c1669b437b2890fbff390b26895ecdec1ade88
+Item 'an assorted meat salami' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'assorted meat salami cat2'.
+This item weighs 0 stones and 7 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 60 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 drowning-skill-dam.
+This food has the traits raw-meat prepared.
+Several varieties of meat have been combined to form this cold cut
+salami.  From the smell of it you'd say that it's probably best not to ask
+what exactly is combined.  After a hard day's work this could easily supply
+one with a full belly either on a sandwich or just by itself.  The wrapping
+around it would also suggest that it keeps very well.  

@@ -1,0 +1,10 @@
+> check eqlookup f1d2fc0ae489a0dd25bbd5502c16be4a58ba79df468720d26f91d9bc7fe2527b
+Item 'a dusty lizard egg' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'lizard egg'.
+This item weighs 0 stones and 2 pebbles, and is valued at 65 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +75 damage-bash.
+This food has the traits ovo-lacto.
+This egg is quite dusty and looks to be abandoned.  It also looks like it
+might be tasty.  You aren't sure what sort of lizard might emerge from it,
+but you don't think it will survive long enough for you to find out.  

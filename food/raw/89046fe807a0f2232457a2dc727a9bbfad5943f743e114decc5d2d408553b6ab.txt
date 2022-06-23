@@ -1,0 +1,8 @@
+> check eqlookup 89046fe807a0f2232457a2dc727a9bbfad5943f743e114decc5d2d408553b6ab
+Item 'a wax-red apple' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'wax red apple'.
+This item weighs 0 stones and 6 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 summon-skill-res.
+This food has the traits prepared fruit sweets.
+Why would you want to eat an apple made out of wax?  

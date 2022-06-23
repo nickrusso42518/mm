@@ -1,0 +1,13 @@
+> check eqlookup 77737f275412e89d96f255ec04dd44ad4bccef5a42e700d51ac4028740d4638f
+Item 'a bowl of beef stew' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'stew beef bowl'.
+This item weighs 0 stones and 3 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +25 aqueous-weapon-activation
+-damage.
+This food has the traits raw-meat prepared.
+A nice hot steaming bowl of thick beef stew is here.  This stew has thick
+pieces of beef, potatoes, celery and onions.  It is served in a large
+ceramic bowl with colorfully painted flowers.  The smell of beef and
+vegetables is making you hungry.  Some french bread would be the perfect
+complement to this thick stew.  

@@ -1,0 +1,13 @@
+> check eqlookup 0451d359945fa0d0bfb7793b4bbf717cd4110845bdb7739943d16c307cb198fe
+Item 'a green toadstool' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'toadstool green'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 7 minutes of the 'food' affect, providing +25 vorpal-weapon-activation
+-damage.
+This food has the traits fungus.
+Upon closer inspection of the surrounding area you notice a dead animal
+carcass near the green toadstool.  It is likely that his death is directly
+related to the small bite that has been taken out of this fungus.  The
+toadstool is covered with disgusting slime and dirt, but apart from not
+being very appetizing it looks eatable and you sure are starving.  

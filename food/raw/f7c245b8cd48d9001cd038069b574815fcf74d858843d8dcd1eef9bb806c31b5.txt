@@ -1,0 +1,12 @@
+> check eqlookup f7c245b8cd48d9001cd038069b574815fcf74d858843d8dcd1eef9bb806c31b5
+Item 'a clump of edible moss' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'edible moss'.
+This item weighs 0 stones and 1 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-slash-head.
+This food has the traits fungus.
+This green moss is known to be edible, although it is also known to taste
+horrible, usually growing only in cool, damp dungeons.  You take an
+experimental nibble from one corner and are immediately revolted by the
+texture, smell and taste.  Still, food is food and it couldn't hurt to keep
+it handy just in case.  

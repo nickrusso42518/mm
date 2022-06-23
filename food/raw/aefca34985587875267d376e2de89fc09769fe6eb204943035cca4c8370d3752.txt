@@ -1,0 +1,13 @@
+> check eqlookup aefca34985587875267d376e2de89fc09769fe6eb204943035cca4c8370d3752
+Item 'a huge serving of moose chops' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'food moose chops'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +60 damage-boss-cat4.
+This food has the traits raw-meat prepared.
+This is a large plate of moose chops that has been well roasted by a
+master chef.  It appears to be minimally seasoned, but you are sure that
+even so, it should prove quite savory.  Its aroma curls into your nose most
+demandingly, driving your stomach to cry out with and audible growl. 
+Perhaps it would be wise to heed your instincts and consume this wonderful
+dish.  

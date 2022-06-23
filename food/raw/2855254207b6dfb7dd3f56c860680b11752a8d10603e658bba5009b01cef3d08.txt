@@ -1,0 +1,14 @@
+> check eqlookup 2855254207b6dfb7dd3f56c860680b11752a8d10603e658bba5009b01cef3d08
+Item 'a bloody chicken carcass' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'bloody chicken corpse carcass'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 0}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +15 sp-regen.
+This food has the traits poultry.
+Oh!  How repulsing, you hold in your hands a freshly decapitated chicken
+carcass, it is completely splattered in its own blood.  Quite a few of its
+feathers lies scattered about on the floor, suggesting that as a part of the
+ritual for which it was slaughtered, they were torn off and thrown about. 
+It appears that another part of the ritual was to rip out the chicken's
+entrails, but you can't find any remnants of entrails so maybe they were
+devoured.  

@@ -1,0 +1,12 @@
+> check eqlookup 29d2d1dc9d2b008e07343e9f39ec3f1a5f368bc048de020b27e8b94d0b6b5f2f
+Item 'a plate of entrails' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'plate entrails'.
+This item weighs 0 stones and 5 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 lightning-skill-dam.
+This food has the traits raw-meat.
+This large tray of food bears the official emblem of the Unseelie Court,
+and is probably supposed to be delivered by one of the servants.  You've
+seen them rushing up and down the castle halls, carrying plates from the
+kitchen to their destinations.  You feel sorry for whoever lost this tray,
+since they now face the distinct possibility of becoming a meal themselves. 

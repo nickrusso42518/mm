@@ -1,0 +1,8 @@
+> check eqlookup b2634d8a70735e3130c0493ef8c5ed2d80888f707d671438ee2b600608892cee
+Item 'a pint of rocky road' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pint rocky road ice cream cat2'.
+This item weighs 0 stones and 12 pebbles, and is valued at 28,800 gold. {Cat. 2}
+This level 241 item has no special attributes.
+When eaten, this food will provide 3 hours of the 'food' affect, providing +10 slash-skill-res.
+This food has the traits prepared sweets ovo-lacto.
+Ice cream is yummy.

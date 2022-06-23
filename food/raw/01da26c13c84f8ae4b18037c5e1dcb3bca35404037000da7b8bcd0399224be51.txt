@@ -1,0 +1,12 @@
+> check eqlookup 01da26c13c84f8ae4b18037c5e1dcb3bca35404037000da7b8bcd0399224be51
+Item 'a mutton pot pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'mutton pot pie'.
+This item weighs 0 stones and 7 pebbles, and is valued at 90 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +1 range.
+This food has the traits fish gluten prepared.
+You find in your possession the second finest meal in the land, a steamy
+mutton pot pie.  Your mouth waters at the smell of cooked mutton and baked
+vegetables mixed in secret recipe gravy, all covered up with the flakiest
+crust you've ever seen.  It is one of the few perfect meals you can have
+after an honest days work.  You gobble it down and run to purchase another. 

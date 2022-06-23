@@ -1,0 +1,12 @@
+> check eqlookup 03a2091ddf1d0cfc5fba864bba71278cb0bc5049940824353ee57b192f59c02c
+Item 'a chunk of slake beast meat' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'slake beast meat'.
+This item weighs 0 stones and 35 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 10 hours of the 'food' affect, providing +12 air-skill-dam.
+This food has the traits raw-meat.
+This huge slab of meat has been sliced from the flank of the dangerous
+but nourishing slake beast.  These animals are found in many of the forests
+near New Rigel, and hunting them is quite a large industry.  Although they
+are difficult to catch, the beasts are so large that a single one can
+produce over a hundred pounds of meat.

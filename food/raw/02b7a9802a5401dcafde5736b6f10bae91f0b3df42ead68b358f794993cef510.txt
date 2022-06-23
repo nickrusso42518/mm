@@ -1,0 +1,12 @@
+> check eqlookup 02b7a9802a5401dcafde5736b6f10bae91f0b3df42ead68b358f794993cef510
+Item 'some yellowish berries' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'berry berries'.
+This item weighs 0 stones and 4 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +3 damage-prcnt.
+This food has the traits fruit.
+This forest berry grows wild along the paths, it is quite common, and the
+yellow hue and pure white inner flesh is easy to spot as you walk.  The
+berries are quite tasty, combining a yeasty, bread like flavor and that of
+cinnamon.  It is often used as an ingredient in some of the finest ales and
+liquors brewed in Alyria.  

@@ -1,0 +1,11 @@
+> check eqlookup 0e8c5d189b317e3d8473a3bd030bc6c3b13521c6e3b8a8de37b8e98901797cf2
+Item 'a strawberry sherbet' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'strawberry sherbet cat2'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +100 hp.
+This food has the traits prepared sweets.
+This creamy frozen confection has bits of diced strawberries embraced by
+the luscious pink ice.  The dish has been chilled to give a frosty surface
+to the outside.  A soft dollop of freshly whipped cream and a sliced
+strawberry complete the dish.  

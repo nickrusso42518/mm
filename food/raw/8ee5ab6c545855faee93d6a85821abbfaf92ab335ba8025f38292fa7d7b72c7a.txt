@@ -1,0 +1,12 @@
+> check eqlookup 8ee5ab6c545855faee93d6a85821abbfaf92ab335ba8025f38292fa7d7b72c7a
+Item 'a haunch of mutton' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'haunch mutton'.
+This item weighs 0 stones and 5 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 16 minutes of the 'food' affect, providing +3 crit-chance.
+This food has the traits raw-meat.
+A thick piece of mutton rests on a plate for your taking.  Steam rises up
+from the recently cooked piece of meat.  Juices drip down the sides,
+moistening the tender flesh.  What a fine specimen of meat this truly is. 
+The skin has a slightly charred looked, letting you know it is thoroughly
+cooked.  

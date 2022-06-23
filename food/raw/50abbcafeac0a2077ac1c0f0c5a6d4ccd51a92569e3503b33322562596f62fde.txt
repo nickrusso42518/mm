@@ -1,0 +1,12 @@
+> check eqlookup 50abbcafeac0a2077ac1c0f0c5a6d4ccd51a92569e3503b33322562596f62fde
+Item 'an edible root' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'root edible'.
+This item weighs 0 stones and 1 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 necromantic-melee-dam.
+This food has the traits tuber.
+This dry root is from a jabbar plant, you remember it as being both tasty
+and nutritious, and not at all poisonous.  You suddenly realize how hungry
+you are, your teeth start to water and as you bite down into the tasty root
+and start eating it, you imagine that you also have some of those yellow
+glowing slugs that taste so well when eaten together with the Jabbar root.  

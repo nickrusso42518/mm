@@ -1,0 +1,15 @@
+> check eqlookup d3d72619d7a67f1cc0f4c692ae1d0ff86a26db8fd5ad8120fbf1cf1da48fb226
+Item 'a ripe lemon' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ripe lemon'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 minute of the 'food' affect, providing +12 acid-melee-dam.
+This food has the traits fruit.
+This can be combined with the following ingredients to cook 'olive tapenade'.
+- Item 'a few black olives'
+- Item 'a bottle of olive oil'
+- Item 'a ripe lemon'
+- Item 'a clove of elephant garlic'
+- Item 'a tiny bundle of cilantro'
+This large, ripe lemon looks as though it has only recently fallen from a
+lemon tree.  

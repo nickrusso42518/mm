@@ -1,0 +1,12 @@
+> check eqlookup 1807a9db659ee6a6f68d1f62df90cca95f41449c511ceef87fc2b6c5709a40de
+Item 'a silverthorn plant' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'silverthorn plant'.
+This item weighs 0 stones and 2 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +90 damage-gas-breath.
+This food has the traits raw-plant.
+Silverthorn is a rare plant, as it can only grow in places where there has
+been significant death or decay.  The leaves look edible, although you would
+have to avoid the thorns, since they are coated in a deadly venom.  If
+processed properly, the silverthorn plant can be used in many potions and
+medicines.  

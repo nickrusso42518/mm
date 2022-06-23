@@ -1,0 +1,11 @@
+> check eqlookup 51d4e8c154fad0d6dad8cd57b0c88e91d65470609407b7c0f003b171431adbe1
+Item 'a slug platter' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'slug platter dish cat2'.
+This item weighs 0 stones and 5 pebbles, and is valued at 650 gold. {Cat. 2}
+This level 35 item has no special attributes.
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +3 healed-by-others-prcnt.
+This food has the traits raw-meat prepared.
+Dozens of small slugs are garnished with a small leafy vegetable.  This
+delicacy is apparently served in the traditional means in Vir, raw.  It's
+said that with a little bit of salt they taste better.  While it may not be
+the most practical food it will easily fill you up.  

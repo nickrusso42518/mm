@@ -1,0 +1,13 @@
+> check eqlookup f7f73304f80c3bd0a5b0fc65e8eca9d292c77e4e581f79288a25a373776915d1
+Item 'a slice of blueberry pie' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'blueberry tart pie crust'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: nomail no-auction no-mimic vanish-death no-save no-rent vanish-if
+-dropped unlockerable
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 sunlight-melee-dam.
+This food has the traits gluten prepared fruit sweets.
+*A slice of blueberry pie will last approximately 180 more Alyrian minutes.
+Luscious blueberries combined with sweetened blueberry jam and a touch of
+cinnamon have been poured into a topless tart-like pie crust.  Garnished
+with sprigs of fresh mint and a heaping spoonful of ice cream, it's a
+perfect end to a delicious meal.  

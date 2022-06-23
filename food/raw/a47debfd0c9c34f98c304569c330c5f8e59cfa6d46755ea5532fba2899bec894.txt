@@ -1,0 +1,12 @@
+> check eqlookup a47debfd0c9c34f98c304569c330c5f8e59cfa6d46755ea5532fba2899bec894
+Item 'a string of pork sausage' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pork sausage'.
+This item weighs 0 stones and 10 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 energy-melee-dam.
+This food has the traits raw-meat.
+Resting here is a long string of meaty pork sausage.  This string of
+sausages appears to have been cooked for just the right amount of time and
+is coated in spices.  A waft of its scent winds its way into your nostrils,
+tantalizing your stomach and making it rumble.  Perhaps you can spare a few
+coins to buy a small yet filling meal such as this?  

@@ -1,0 +1,13 @@
+> check eqlookup d021c1f0c282f9b2db90b98edf909c4c19b0686fb041789e23f97bd6a5e62ec0
+Item 'a ginger-bread man' is type food, alignment 50, made of food (in (fresh) condition),[EQDB]
+has keywords 'ginger bread man'.
+This item weighs 0 stones and 5 pebbles, and is valued at 380 gold. {Cat. 2}
+This level 14 item has the attributes: identified none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 charm-skill-dam.
+This food has the traits gluten prepared sweets ovo-lacto.
+*A ginger-bread man will last approximately 22,400 more Alyrian minutes.
+Although created imperfectly, this small cookie resembles a man with his
+arms and legs splayed out.  Three small candies have been placed on its head
+to create a face and several dots of icing trail down its body for buttons. 
+Still rather warm, it has just been removed from an oven and a strong aroma
+of ginger nut rises from it.  

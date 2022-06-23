@@ -1,0 +1,13 @@
+> check eqlookup eca5ad6d9909d3e575ad9ae95afc4a71ea8d54dd02d353622f850cdce6aa3c21
+Item 'some longstem hay' is type food, alignment 25, made of organic (in (fresh) condition),[EQDB]
+has keywords 'longstem hay small clump'.
+This item weighs 0 stones and 3 pebbles, and is valued at 430 gold. {Cat. 2}
+This level 16 item has the attributes: identified none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +6 ar-pierce-wings.
+This food has the traits raw-plant.
+Hay...  Does not taste good.  While it is, technically, edible, this
+would not be anyone's first choice of a dietary requirement.  It is very
+bland, with a hint of sour unpleasantness, and an aftertaste that causes
+violent shudders.  The stems are long and tough, and rather difficult to
+bite through.  However, eaten whole, they trigger a gag reflex, and in any
+case, this does not make a pleasant meal.  

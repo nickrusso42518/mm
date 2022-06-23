@@ -1,0 +1,13 @@
+> check eqlookup b09d98a3089dc8461d162c1812460ab188879afa244e294a4d98c6bb01abf301
+Item 'some purple berries' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'edible berries'.
+This item weighs 0 stones and 2 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 cold-skill-dam.
+This food has the traits fruit.
+These small purple berries both look and smell very strange, you are able
+to identify them as lannyam berries, and a type you know not to be
+poisonous.  You consider that very lucky because you are starving and these
+berries, although they are not very appetizing or tasty, just have to do for
+a meal.  Especially since you have not been able to find anything else to
+eat, and because you dont know when you will be able to find any other food.

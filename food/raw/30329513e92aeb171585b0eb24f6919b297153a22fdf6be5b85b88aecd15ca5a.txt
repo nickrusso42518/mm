@@ -1,0 +1,9 @@
+> check eqlookup 30329513e92aeb171585b0eb24f6919b297153a22fdf6be5b85b88aecd15ca5a
+Item 'a portion of onion rings' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'portion onion rings'.
+This item weighs 0 stones and 1 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 iron-skill-res.
+This food has the traits prepared tuber.
+These onion rings are a specialty in Flam's Steak House, and are well 
+known for their unique flavor as a result of a combination of rare spices.

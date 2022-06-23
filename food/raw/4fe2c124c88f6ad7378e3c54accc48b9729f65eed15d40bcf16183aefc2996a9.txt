@@ -1,0 +1,12 @@
+> check eqlookup 4fe2c124c88f6ad7378e3c54accc48b9729f65eed15d40bcf16183aefc2996a9
+Item 'a chocolate heart' is type food, alignment 0, made of gold (in (fresh) condition),[EQDB]
+has keywords 'chocolate heart bar'.
+This item weighs 0 stones and 4 pebbles, and is valued at 20,405 gold. {Cat. 2}
+This level 15 item has the attributes: no-auction no-container no-bury unbreakable magic-resistant no-save no
+-rent unlockerable
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +12 drowning-melee-dam.
+This food has the traits prepared sweets ovo-lacto.
+The small chocalate heart is decorated with tiny red colored chocolate
+sprinkles.  It looks delicious and the aromatic smell coming from it makes
+you want to eat it right away.  Oh boy what will be inside it, always a
+surprise with these marvelous candies.  Only way to find out is to eat it!  

@@ -1,0 +1,14 @@
+> check eqlookup 4b083fb4b59fb1d5ce5c5539d16de65c253b9bfecb1bafb2d569f08782c6317d
+Item 'a speckled brown egg' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'brown speckled egg'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +200 align.
+This food has the traits ovo-lacto.
+*A speckled brown egg will last approximately 600 more Alyrian minutes.
+Bantam eggs are generally smaller and slightly speckled unlike the larger
+of their species.  This speckled-brown egg is still slightly warm to the
+touch and has a small amount of feces still clinging to the calcium rich
+shell.  As the shell has a slight yellow color to it, it is doubtful that
+this egg will actually hatch into anything alive, it may be good for a feed
+though.  

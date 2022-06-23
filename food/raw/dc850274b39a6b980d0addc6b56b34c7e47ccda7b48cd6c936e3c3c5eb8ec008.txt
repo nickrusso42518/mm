@@ -1,0 +1,12 @@
+> check eqlookup dc850274b39a6b980d0addc6b56b34c7e47ccda7b48cd6c936e3c3c5eb8ec008
+Item 'a piece of fungus' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'piece fungus'.
+This item weighs 0 stones and 1 pebbles, and is valued at 20,250 gold. {Cat. 0}
+This level 10 item has no special attributes.
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +10 stamina-regen-prcnt.
+This food has the traits fungus.
+A small piece of fungus lays here on the floor, pulsating with a soft
+ambient glow.  It seems to move from you as you near it, but at the same
+time it is almost begging to be eaten.  You shake your head, wondering what
+could cause such strange thoughts.  You've heard of magical traps that can
+cloud people's minds, perhaps this is one of them.  

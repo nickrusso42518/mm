@@ -1,0 +1,12 @@
+> check eqlookup 3d689d78b30eeff43e9e2a10c9a775aa4e3579853bf3694448e6e1baaab77fbb
+Item 'a white chocolate chip cookie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'chocolate chip cookie white'.
+This item weighs 0 stones and 3 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +15 sound-skill-dam.
+This food has the traits gluten prepared sweets ovo-lacto.
+This gigantic chocolate chip cookie has enormous chunks of chocolate
+scattered through it.  The cookie has been freshly baked, and therefore it
+is moist, chewy, and warm.  The smell is unmistakable and reminds you of
+your mothers home cooking.  The only thing that could possibly make this
+treat better is a tall, cold glass of fresh milk.  

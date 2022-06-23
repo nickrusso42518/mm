@@ -1,0 +1,13 @@
+> check eqlookup d7736af7ae3dc75c46f94b4f12eac8a2fd677615c2ece4ab413b9eeb5389a04b
+Item 'a handful of dried peas' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'peas handful dried pile'.
+This item weighs 0 stones and 1 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +175 stamina.
+This food has the traits vegetable.
+Peas are one of the basic crops of the Sepharian farmers.  Peas vines both
+grow well in the rocky soil and can be planted in the same fields as corn. 
+There they climb the corn stalks, making for double the harvest from
+valuable farmland.  Additionally, peas can be dried and store well for
+years, as these have been.  If one were hungry, one might pick these up and
+type 'EAT PEAS' or 'EAT DRIED' to consume them.  

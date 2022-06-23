@@ -1,0 +1,12 @@
+> check eqlookup 0617a00f5dc14606c96126a5e365ad993689fa2f1bc70151306b12d56c416425
+Item 'a rotting slab of beef' is type food, alignment -300, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'rotting slab beef'.
+This item weighs 0 stones and 40 pebbles, and is valued at 125 gold. {Cat. 0}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-exotic-torso.
+This food has the traits raw-meat.
+The stench from this huge slab of unidentifiable meat nearly knocks you
+to your knees.  Covered with fat slimy maggots, it's incredible that someone
+hasn't disposed of it already.  Scanning the room quickly, you truly hope
+there is better meat that is used for feeding guests.  However, there
+doesn't seem to be anything better here.  

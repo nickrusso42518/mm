@@ -1,0 +1,14 @@
+> check eqlookup 7d0c143777331425488ef454c66be80612ce8ad70ad79a27f4701dad7427563b
+Item 'a lotus flower' is type food, alignment 50, made of organic (in (fresh) condition),[EQDB]
+has keywords 'lotus flower tempting bloom'.
+This item weighs 0 stones and 1 pebbles, and is valued at 180 gold. {Cat. 2}
+This level 6 item has the attributes: none
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +6 ar-bash-tail.
+This food has the traits raw-plant.
+The petals of this attractive, waxy flower are pale yellow at the flower's
+center, fading to a skyblue at their tips.  Somewhere from the back of your
+mind, you drag up lines from an ancient epic: 
+   "They started at once, and went about among the Lotus-Eaters,
+    who did them no hurt, but gave them to eat of the lotus, which was
+    so delicious that those who ate of it left off caring about home."
+Perhaps you might want to skip this particular snack.

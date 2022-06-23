@@ -1,0 +1,12 @@
+> check eqlookup 73e2804913937c1c5d822c9d643efc5675e3d14964f999bc9150efb6232fd622
+Item 'a cinnamon roll' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'cinnamon roll food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 9 minutes of the 'food' affect, providing +12 bash-skill-dam.
+This food has the traits gluten prepared sweets.
+Steam rises off the cinnamon bun, creating a heavenly scent of sweetness.
+Icing drips thickly over the pastry, making it extremely sticky.  You lick
+your fingers clean of the frosting, tasting how good the cinnamon bun is. 
+You know you can't resist your sweet tooth for much longer.  What's a little
+snack if no one sees it?  

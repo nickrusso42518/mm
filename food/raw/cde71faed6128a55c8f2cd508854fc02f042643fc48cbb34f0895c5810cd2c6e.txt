@@ -1,0 +1,20 @@
+> check eqlookup cde71faed6128a55c8f2cd508854fc02f042643fc48cbb34f0895c5810cd2c6e
+Item 'a hardy edible root' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'root edible'.
+This item weighs 0 stones and 1 pebbles, and is valued at 405 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +3 healed-by-others-prcnt.
+This food has the traits tuber.
+This can be combined with the following ingredients to cook 'a pot of winterroot soup'.
+- Item 'a tub of mirepoix'
+- Item 'a hardy edible root'
+- Item 'a tender turnip'
+- Item 'a firm, red beet'
+- Item 'a wonta tuber'
+- Item 'a ripe pumpkin'
+- Item 'a dollop of sour cream'
+A large, beige root has been unearthed here.  It is still covered with
+soil, but otherwise looks clean.  Unlike most of the other food that you
+have seen down here, this looks edible, and is not rotting, or decaying in
+any way.  It looks like it would be good roasted over your campfire.  Your
+mouth begins to water as you think of having this for dinner tonight.  

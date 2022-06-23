@@ -1,0 +1,13 @@
+> check eqlookup 20249cb876f63291ae329cd60cc112154e6d3b41f968e7f888941ceedef32329
+Item 'a root' is type food, alignment 40, made of organic (in (fresh) condition),[EQDB]
+has keywords 'dynamic root huck slices piece stick stalk tuber stem leaf'.
+This item weighs 0 stones and 3 pebbles, and is valued at 1,125 gold. {Cat. 2}
+This level 45 item has the attributes: no-identify rot-death hidden no-save will-float no-rent tweak
+unlockerable
+When eaten, this food will provide 1 minute of the 'food' affect, providing +15 sp-regen.
+This food has the traits tuber.
+It is a miracle that you can identify what this mess of organic stuff is.
+Obviously ignored because it is useless, or the byproducts of a process,
+this random piece of root is garbage.  Maybe this stuff would make a good
+soup.  Maybe it is useless.  Likely the latter.  No one seems to notice this
+small, dirty stalk lying around, so why don't you take it?  

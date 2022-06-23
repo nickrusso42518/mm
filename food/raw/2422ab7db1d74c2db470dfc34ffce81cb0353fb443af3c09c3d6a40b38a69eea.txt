@@ -1,0 +1,12 @@
+> check eqlookup 2422ab7db1d74c2db470dfc34ffce81cb0353fb443af3c09c3d6a40b38a69eea
+Item 'a rogue cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'rogue cake'.
+This item weighs 0 stones and 22 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 6 hours of the 'food' affect, providing +10 pierce-skill-res.
+This food has the traits gluten prepared sweets.
+This large cake has been decorated with lots of sweet and sugary
+frosting, and just looking at it makes your mouth water.  A popular tale
+says that cakes such as this one were first baked by a young thief living in
+New Rigel, and they became so popular that he was able to open up his own
+store and make an honest living.  

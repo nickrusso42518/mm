@@ -1,0 +1,11 @@
+> check eqlookup a8dc02238c9ad47d1cf526b351a617f61a23513f7bdd54215e2b00015f562ddb
+Item 'Sith's special' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sith special ice cream cat2'.
+This item weighs 0 stones and 5 pebbles, and is valued at 700 gold. {Cat. 2}
+This level 75 item has the attributes: identified
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +12 summon-melee-dam.
+This food has the traits gluten prepared fruit sweets ovo-lacto nuts.
+Every topping imaginable graces this masterpiece in ice cream sundaes. 
+Peanuts, almonds, sprinkles, bananas, cookie crumbs, and whipped cream are
+just the start of the ingredients.  If you have a sweet tooth this is the
+ultimate in treats for you.  Just looking at this masterpiece is fattening. 

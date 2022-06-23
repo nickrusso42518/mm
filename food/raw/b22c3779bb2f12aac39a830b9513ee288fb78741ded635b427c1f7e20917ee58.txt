@@ -1,0 +1,12 @@
+> check eqlookup b22c3779bb2f12aac39a830b9513ee288fb78741ded635b427c1f7e20917ee58
+Item 'a carrot' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'carrot'.
+This item weighs 0 stones and 11 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: buried
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +10 lightbeam-skill-res.
+This food has the traits vegetable.
+A long crisp carrot is here ready to be eaten.  This bright orange carrot
+still covered with a small amount of dirt and appears to be just pulled from
+the ground.  It still has deep green leaves on its top.  You stop to
+consider how you should eat this vegetable.  You could eat it raw, boil it
+or chop it up and snack on the carrot at a later time.  

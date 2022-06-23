@@ -1,0 +1,11 @@
+> check eqlookup fd60f4ba1c5a90483c681606b330d1709328c4c6bcda7e99b077a99d9645727c
+Item 'a rum cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'rum cake'.
+This item weighs 0 stones and 2 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide 9 minutes of the 'food' affect, providing +25 flaming-weapon-activation
+-damage.
+This food has the traits gluten prepared sweets.
+This circular cake is slightly yellow in color and very moist.  It reeks of
+rum, and is topped with a mixture of chopped nuts and sugar.  A confection
+for mature adventurers, to be sure.  

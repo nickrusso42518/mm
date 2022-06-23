@@ -1,0 +1,10 @@
+> check eqlookup 4d738294e692316b114b742d32991e30d38f66317485ee885e0e3d7c9dabc6f4
+Item 'a boiled potato' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'large brown boiled steaming potato'.
+This item weighs 0 stones and 5 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 moonlight-skill-dam.
+This food has the traits prepared tuber.
+This potato has been poiled until it has been soft, although nobody went to
+the effort of peeling out its eyes, so small green growths shoot out of its
+oblong side, slowly wilting as the softness of the heat soaks through.  

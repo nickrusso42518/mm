@@ -1,0 +1,13 @@
+> check eqlookup 12534af846ef17fa2dceec888f7f909b833ebaaad8d8efc159b35b338d2838e0
+Item 'a snout' is type food, alignment 0, made of flesh (in (somewhat spoiled) condition),[EQDB]
+has keywords 'snout pig', equipped over the head.
+This item weighs 0 stones and 5 pebbles, and is valued at 1,500 gold. {Cat. 2}
+This level 60 item has no special attributes.
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +175 stamina.
+This food has the traits raw-meat.
+This is the disgusting snout of an aurumvorax.  The beast's snout is just
+as horrible as its body, and you feel your stomach lurch as your hand
+touches some gooey slime still oozing out of the nostrils of the hideous
+thing.  It is pale in color from all the blood draining out of it when it
+was severed from the body and if you are hungry, you could probably try and
+eat it.  What's the worst that could happen?  

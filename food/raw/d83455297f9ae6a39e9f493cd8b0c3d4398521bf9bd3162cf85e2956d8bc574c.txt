@@ -1,0 +1,12 @@
+> check eqlookup d83455297f9ae6a39e9f493cd8b0c3d4398521bf9bd3162cf85e2956d8bc574c
+Item 'a lollipop' is type food, alignment 200, made of organic (in (fresh) condition),[EQDB]
+has keywords 'lollipop food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 13,500 gold. {Cat. 2}
+This level 190 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 necromantic-skill-dam.
+This food has the traits sweets.
+This imperfect red sphere of candy is riddled with knicks and dents.  It
+is slightly misshapen and has a small paper pole stick out the bottom.  The
+paper is where the person who is eating this candy holds it, so as not to
+get sticky with juices.  The area where the pole intersects the candy is
+slightly stained red.  

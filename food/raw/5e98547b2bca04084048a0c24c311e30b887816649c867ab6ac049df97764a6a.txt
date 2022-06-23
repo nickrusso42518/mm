@@ -1,0 +1,11 @@
+> check eqlookup 5e98547b2bca04084048a0c24c311e30b887816649c867ab6ac049df97764a6a
+Item 'yellowish berries' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'berry berries'.
+This 10-slot item weighs 0 stones and 0 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +90 damage-lightning-breath.
+This food has the traits fruit.
+This forest berry grows wild along the paths, it is quite common, and the
+yellow hue and pure white inner flesh is easy to spot as you walk.  The
+berries are quite tasty, combining a bread flavor and that of cinnamon.  It
+is often used as an ingredient of the Feather's Ale.  

@@ -1,0 +1,22 @@
+> check eqlookup ddc8960dc170b866c1cba7610290370c87d2d985d82bfd69c47ae1904bdd9bc7
+Item 'a large carrot' is type food, alignment 100, made of organic (in (fresh) condition),[EQDB]
+has keywords 'long orange vegetable green knob carrot large'.
+This item weighs 0 stones and 2 pebbles, and is valued at 5,000 gold. {Cat. 2}
+This level 125 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 energy-skill-dam.
+This food has the traits vegetable.
+This can be combined with the following ingredients to cook 'a tub of mirepoix'.
+- Item 'a small salt crystal'
+- Item 'a bottle of olive oil'
+- Item 'a gunpowder peppercorn'
+- Item 'a cup of water'
+- Item 'a raw brown potato'
+- Item 'a fresh, raw onion'
+- Item 'a stick of freshly-churned minotaur butter'
+- Item 'a large carrot'
+This vegetable is a fresh carrot.  Its massive gradual conic body is two
+feet long and the green leaves protruding from its top are many inches long.
+It is a bright, almost unnatural, orange.  Though naturally dirty, the
+carrot seems to have been cleaned off in preparation for consumption by the
+horses.  Though they are safe for the horses to eat, maybe the carrots are
+unsafe for human use.  

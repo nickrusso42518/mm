@@ -1,0 +1,12 @@
+> check eqlookup 2765e3d23542a110cce6724f7143cd9cda30b06fac99453c2ea788e8cb88b93c
+Item 'a strawberry tart' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'strawberry tart'.
+This item weighs 0 stones and 3 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-slash-legs.
+This food has the traits prepared fruit sweets.
+This tasty treat seems to be freshly baked, as it is still warm.  The
+flaky crust is covered with a sweet, gooey icing, and the delicious filling
+is dripping slightly from one side.  You had better eat this tart before it
+gets cold, or before someone else gets ahold of it!  It isn't likely to last
+very long around here.  

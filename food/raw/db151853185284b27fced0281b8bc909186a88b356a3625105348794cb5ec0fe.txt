@@ -1,0 +1,12 @@
+> check eqlookup db151853185284b27fced0281b8bc909186a88b356a3625105348794cb5ec0fe
+Item 'a hunk of ground beef' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'ground beef'.
+This item weighs 0 stones and 10 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +15 sp-regen.
+This food has the traits raw-meat.
+Resting on the table here is a hunk of red ground beef, uncooked,
+obviously waiting for someone to pick it up and use it in a nice meal.  The
+texture of the meat looks very promising and the idea of it on the side of
+your dinner plate makes your mouth water.  You start thinking of a meal with
+mashed potatoes, green beans and a good red cabernet.  

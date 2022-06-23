@@ -1,0 +1,12 @@
+> check eqlookup 6e52b7253e76950d6e2df7ffa2ca2b9a6d7e7dd688b575387d57fa74c14cd66a
+Item 'some green tea ice cream' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'green tea icecream'.
+This item weighs 0 stones and 5 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +4 strength.
+This food has the traits prepared sweets ovo-lacto.
+This yummy dessert treat was made by freezing cream and mixing it with
+special ingredients and flavorings.  The result is ice cream, one of the
+most popular and delicious snacks around.  However, it is kind of difficult
+to keep it from melting, and when taken out of the cold it doesn't tend to
+last very long.  

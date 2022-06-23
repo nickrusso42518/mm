@@ -1,0 +1,13 @@
+> check eqlookup 8e32f9612682a22f0685a0ca399adadaa0102ca6c981f7f3b5738bd0e7a9191f
+Item 'a loaf of bread' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'loaf bread food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 13 minutes of the 'food' affect, providing +12 bash-skill-dam.
+This food has the traits gluten prepared.
+A dark brown crust coats the entire surface of this loaf of bread.  It is
+rather hard and hollow sounding when you knock upon it, but it is highly
+filling nonetheless.  The bread makers in the world aren't praised enough
+for their work in making these.  It takes a skilled hand to knead and know
+when it is ready for baking.  You tear off a chunk of bread and chew on it,
+noting its savoury flavours.  

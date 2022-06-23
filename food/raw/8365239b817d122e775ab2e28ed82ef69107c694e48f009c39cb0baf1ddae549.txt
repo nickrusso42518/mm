@@ -1,0 +1,13 @@
+> check eqlookup 8365239b817d122e775ab2e28ed82ef69107c694e48f009c39cb0baf1ddae549
+Item 'a few bits of flesh' is type food, alignment -350, made of flesh (in (somewhat spoiled)
+condition),[EQDB]
+has keywords 'pile flesh bits'.
+This item weighs 0 stones and 15 pebbles, and is valued at 1,425 gold. {Cat. 2}
+This level 45 item has the attributes: rot-death
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +25 shocking-weapon-activation
+-damage.
+This food has the traits raw-meat.
+Being eaten and exposed to the sun has left these various body parts smelly
+and unidentifiable.  They are bloody, have frequent bite marks, and there is
+as much rotted green as blood red.  A few tears mark where claws shredded
+the meat for consumption.  A few bubbles of pus complete the disgust.  

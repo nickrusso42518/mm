@@ -1,0 +1,12 @@
+> check eqlookup 8b9f8428cf8367217fe5c77bd78219e808d6c33080114b857c5302bb0d50e5ef
+Item 'some frosted batwings' is type food, alignment -30, made of organic (in (fresh) condition),[EQDB]
+has keywords 'treat batwings frosted'.
+This item weighs 0 stones and 2 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 30 item has the attributes: rot-death throwable
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +90 damage-acid-breath.
+This food has the traits raw-meat prepared sweets.
+*Some frosted batwings will last approximately 500 more Alyrian minutes.
+A favorite treat for ogres but yet the recipe seems to remain a mystery
+to most.  They are indeed the wings from a bat, stretched out and candied
+with some sort of sugary topping.  They are firm and crunchy but somewhat
+sticky to the touch so eating them becomes quite messy.  

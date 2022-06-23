@@ -1,0 +1,11 @@
+> check eqlookup fa0614936ec1a5adf11e749223393a5534ad9f39a82d77eadc563cf920095247
+Item 'a chocolate chip brownie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'chocolate brownie sweet chip cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 80 gold. {Cat. 2}
+This level 30 item has the attributes: identified
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +30 search.
+This food has the traits gluten prepared sweets.
+Cut into the shape of a dancing dracon, this brownie is made of a dark
+chocolate and is scattered with some strange nuts.  Sweets are rarely
+consumed in the underground by the local denizens but many tourists find
+them quite tasty.  

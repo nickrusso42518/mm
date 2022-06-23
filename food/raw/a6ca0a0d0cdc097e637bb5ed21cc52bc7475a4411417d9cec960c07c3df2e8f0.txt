@@ -1,0 +1,13 @@
+> check eqlookup a6ca0a0d0cdc097e637bb5ed21cc52bc7475a4411417d9cec960c07c3df2e8f0
+Item 'the foul carcass of a fish' is type food, alignment -100, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'carcass foul fish remains foul-smelling'.
+This item weighs 0 stones and 1 pebbles, and is valued at 100,375 gold. {Cat. 0}
+This level 15 item has the attributes: nodecay buried none
+When eaten, this food will provide 3 minutes of the 'food' affect, providing +12 sunlight-melee-dam.
+This food has the traits fish.
+The high stench of dead fish invades the once fresh air around you.  This
+little mound of meat looks as though it has been kicked and stepped on a few
+times.  Maggots wiggle while feasting on the flesh around the egg sacks of
+future maggots.  The sight turns your stomach while the smells lift your
+stomach, and an acid smell burns in your nose as the contents of your
+stomach hover posed to reject your last meal.  

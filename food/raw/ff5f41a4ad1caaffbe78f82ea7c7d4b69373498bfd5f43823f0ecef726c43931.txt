@@ -1,0 +1,12 @@
+> check eqlookup ff5f41a4ad1caaffbe78f82ea7c7d4b69373498bfd5f43823f0ecef726c43931
+Item 'a juicy beef flank' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'beef flank'.
+This item weighs 0 stones and 16 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +12 energy-melee-dam.
+This food has the traits raw-meat.
+Here is a thick, juicy beef flank steak, just waiting for you to devour
+it.  It is deep red and has a nice marbled texture.  You catch a slight
+glimpse of the cow bone, thick, red meat hanging off of it, obviously to
+give someone a very good meal.  You ponder if any one would miss such an
+excellent piece of meat.  

@@ -1,0 +1,12 @@
+> check eqlookup 40691a4e36ddd4386274a13e3d58d13f186605bb5e34d9bc773c1b81ec6ccb7c
+Item 'some red grapes' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'grapes fruit red'.
+This item weighs 0 stones and 3 pebbles, and is valued at 100 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 bash-skill-dam.
+This food has the traits fruit.
+A bunch of red grapes glistens with here in the sunlight.  They are deep
+red in color and are still attached to a deep green stem.  You remember
+having seen these kinds of grapes before, then remember that you saw these
+once in a winery.  These grapes are used to create some of the best wine
+available in Rune.  

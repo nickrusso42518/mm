@@ -1,0 +1,13 @@
+> check eqlookup 805f875b5b8c861054941b5a9f14dfe5b51d290ca3ff0e6ae304525c57f3aa9b
+Item 'a baguette' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'loaf baguette bread food'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +25 sharp-weapon-activation
+-damage.
+This food has the traits gluten prepared.
+It is a still-warm freshly-baked baguette that is as long as your arm and
+about as big around.  It smells enticingly good, and its aroma makes your
+mouth water in anticipation.  While the crust has been baked hard, you
+should be able to cut through it easily enough, or, if you have to, break a
+piece off.  

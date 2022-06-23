@@ -1,0 +1,12 @@
+> check eqlookup 9dfc15b3aa5f3c51c5c3d6afbe0f122dbeff5837f6670645235a25f32da32f0b
+Item 'a raw salted herring' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'salted herring raw cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +5 accuracy.
+This food has the traits fish.
+This piece of herring has been well preserved, considering the amount of
+salt that is in it.  Herring is not very common to the northern part of the
+world, so in order to keep it fresh, the salt must be added to prevent
+bacteria from eating the fish.  Even with its salty taste, the herring can
+provide a good meal, especially for those in a real hurry.  

@@ -1,0 +1,12 @@
+> check eqlookup 7614a308c6c9507cc7addc9c6a4f252717393a26f6ea34a594610f77006f128b
+Item 'several juicy clams' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'juicy clams food'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +12 poison-melee-dam.
+This food has the traits seafood.
+There are several delicious looking clams here.  They have been cooked in
+a light red marinara sauce with just a light touch of spices.  The clams
+have been served with boiled onions and cauliflower as a side dish.  However
+you have to wonder about the expense of buying such a meal, but it looks
+quite good.  

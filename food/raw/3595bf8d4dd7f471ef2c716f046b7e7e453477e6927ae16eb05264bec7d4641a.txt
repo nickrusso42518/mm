@@ -1,0 +1,11 @@
+> check eqlookup 3595bf8d4dd7f471ef2c716f046b7e7e453477e6927ae16eb05264bec7d4641a
+Item 'a kobold sandwich' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'kobold sandwich cat2'.
+This item weighs 0 stones and 8 pebbles, and is valued at 1,000 gold. {Cat. 2}
+This level 80 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +12 acid-skill-dam.
+This food has the traits raw-meat prepared.
+Two slices of darkly crusted bread cover a terrible smelling mixture. 
+What appears to be a stringy dark meat has been combined with a congealed
+dark red sauce.  Several cuts of this meat look almost like fingers and
+ears.  This deli sandwich probably does not taste like chicken.  

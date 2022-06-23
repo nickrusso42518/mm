@@ -1,0 +1,11 @@
+> check eqlookup 8bcae6dbf8d1001904383178149178b79fa1aa1c6d67c9e2a6a4d51dd1252b16
+Item 'a small serving of brains' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'archon brain food'.
+This item weighs 0 stones and 3 pebbles, and is valued at 7,000 gold. {Cat. 2}
+This level 40 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +12 cold-skill-dam.
+This food has the traits raw-meat.
+Although most culinary experts agree that brains are a highly-prized
+delicacy, either they're lying, or this is a terrible-looking example.  It
+oozes slightly, and is very gelatinous, shuddering and quivering at your
+touch.  It really does look putrid, but who knows, they may just be right.  

@@ -1,0 +1,12 @@
+> check eqlookup 7cda9deeb4a75749730c433f1adf6d4aebf28c2ba58ebd55669d0abadba8770c
+Item 'a hardroll' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'hardroll roll bread'.
+This item weighs 0 stones and 5 pebbles, and is valued at 5 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +50 damage-grapple.
+This food has the traits gluten.
+A crusty hardroll is the preferred bread for travelers and soldiers
+alike.  They keep for long periods and are always moist and fresh in the
+center and are therefore perfectly suited for the traveling life.  While
+they are not the most delicious kind of bread, they are still quite tasty in
+their own right.  

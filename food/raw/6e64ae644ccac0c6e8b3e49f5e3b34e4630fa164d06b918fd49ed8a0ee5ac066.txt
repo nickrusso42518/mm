@@ -1,0 +1,12 @@
+> check eqlookup 6e64ae644ccac0c6e8b3e49f5e3b34e4630fa164d06b918fd49ed8a0ee5ac066
+Item 'an eslanto plant' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'eslanto plant'.
+This item weighs 0 stones and 6 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 1 hour 50 minutes of the 'food' affect, providing +20 sp-regen-max.
+This food has the traits vegetable.
+This large plant is composed of many large green leaves.  While some of
+them are so pale that they look white, other leaves have vivid coloring. 
+You break off the tip of a leaf and taste it, but decide that the eslanto is
+rather bland.  It definitely needs some kind of dressing to be a proper
+meal.  

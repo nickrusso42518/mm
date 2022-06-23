@@ -1,0 +1,13 @@
+> check eqlookup 007b1c3c2e52a3567a7f6449bb21490fbbd354f2c8c98ea28e2949f8010d5ff7
+Item 'a batch of chocolate chip cookies' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'batch chocolate chip cookies'.
+This item weighs 0 stones and 1 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +50 battle-rage-activation
+-damage.
+This food has the traits gluten prepared sweets.
+A plate is filled with large chocolate chip cookies.  Large chocolate
+chips dot all over the cookies, tempting your sweet tooth.  You get a soft
+scent of the recently made cookies and decide that just one won't hurt. 
+They are soft to chew and the chocolate melts easily in your mouth.  May as
+well finish off the rest of them as there is no sense in just eating one.  

@@ -1,0 +1,11 @@
+> check eqlookup eaaa8f54ad8249c77827ba4952d6e40d8e268c428b7e4d550ce433afe1ea7323
+Item 'a moldy piece of bread' is type food, alignment -250, made of food (in (fresh) condition),[EQDB]
+has keywords 'bread mold food'.
+This item weighs 0 stones and 2 pebbles, and is valued at 750 gold. {Cat. 2}
+This level 30 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +12 drowning-skill-dam.
+This food has the traits gluten prepared.
+Grey with flecks of greenish-yellow mold, this bread is far from fresh. 
+Obviously discarded by its past owner, likely because it isn't meat.  As
+disgusting as it looks, its probably a better choice than the rotting
+contents of Ted's Pit.  

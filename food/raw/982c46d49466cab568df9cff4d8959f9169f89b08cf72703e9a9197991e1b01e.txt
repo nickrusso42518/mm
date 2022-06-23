@@ -1,0 +1,12 @@
+> check eqlookup 982c46d49466cab568df9cff4d8959f9169f89b08cf72703e9a9197991e1b01e
+Item 'some spicy beef jerky' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'beef jerky'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +100 damage-backstab.
+This food has the traits raw-meat prepared.
+This jerky has obviously been made quite recently.  Salted and treated
+with special herbs, the beef is smoked so it will keep better.  This process
+also makes it quite chewey and tasty.  This jerky is reasonably priced, and
+should provide sustinence on a long journey.  Jerky is compact, but high in
+nutrition for those extra long trips.  

@@ -1,0 +1,11 @@
+> check eqlookup d4e9deb6759126751eb2ba16704c2d4cb476b031c48391076f321c60a70efbc8
+Item 'a delicious pot roast' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pot roast'.
+This item weighs 0 stones and 2 pebbles, and is valued at 405 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +7 damage-to-good-prcnt.
+This food has the traits raw-meat prepared.
+A wonderful combination of broth, wine, roast, carrots, potatoes and
+other secret ingredients combine to produce a wonderful smelling and tasting
+plate of pot roast.  One taste of this dish and you will be coming back for
+more.  

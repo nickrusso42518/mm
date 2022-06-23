@@ -1,0 +1,10 @@
+> check eqlookup cb0e1e94cb806be1cb6be6ab6a16915eb287b26c5c20dcc907ab9065169c7ca6
+Item 'some broccoli sprouts' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'broccoli verdant cluster sprouts'.
+This item weighs 0 stones and 0 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 pierce-skill-dam.
+This food has the traits vegetable.
+Everyone knows that broccoli is good for you!  Mothers across the breadth of
+Sepharia have been telling their children for generations untold 'Eat your
+broccoli!' To do so, one would have to type 'EAT BROCCOLI'.

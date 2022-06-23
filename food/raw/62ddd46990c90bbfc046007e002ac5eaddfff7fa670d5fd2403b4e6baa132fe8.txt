@@ -1,0 +1,13 @@
+> check eqlookup 62ddd46990c90bbfc046007e002ac5eaddfff7fa670d5fd2403b4e6baa132fe8
+Item 'a bucket of wheat and oats' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bucket wheat oats'.
+This item weighs 0 stones and 10 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 fire-skill-dam.
+This food has the traits gluten.
+You've seen the stableboys wandering around Agrippa's castle carrying
+these buckets to and fro, and now that you get a closer look you can tell
+that they contain food for horses.  This bucket must have been meant for
+Swiftmoon, since it is filled to the top with high-quality grains.  Nibbling
+on the oats, you figure that it would be possible to consume them all and
+hide the empty bucket before anyone notices.  

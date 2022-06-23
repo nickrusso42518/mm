@@ -1,0 +1,21 @@
+> check eqlookup 4e0e1cf89c39d8f1c68f993f587424d2517d857cff702d3f1405e67dfad4d2e9
+Item 'a bowl of rice' is type food, alignment 100, made of food (in (fresh) condition),[EQDB]
+has keywords 'bowl rice white food'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 disease-skill-dam.
+This food has the traits prepared.
+This can be combined with the following ingredients to cook 'a crunchy tostada'.
+- Item 'a savo bean'
+- Item 'an avocado'
+- Item 'a bowl of rice'
+- Item 'a bag of corn tortillas'
+- Item 'a dollop of sour cream'
+- Item 'a few black olives'
+- Item 'a fresh, raw onion'
+- Item 'a fresh, juicy red tomato'
+- Item 'a tiny bundle of cilantro'
+Before you sits a steaming, hot bowl of rice.  This makes the perfect
+food for an adventurer on the go.  It stays fresh, is nutritious, and tastes
+good too.  Rice is the main staple for many adventurers.  You only wish that
+you had some soy sauce to liven it up a bit.  

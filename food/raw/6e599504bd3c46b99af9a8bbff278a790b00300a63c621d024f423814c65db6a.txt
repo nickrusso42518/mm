@@ -1,0 +1,13 @@
+> check eqlookup 6e599504bd3c46b99af9a8bbff278a790b00300a63c621d024f423814c65db6a
+Item 'a peach' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'peach'.
+This item weighs 0 stones and 4 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +50 battle-rage-activation
+-damage.
+This food has the traits fruit.
+On the ground here is a scrumptious peach.  Examining it a little closer,
+you see fine little fuzzy hairs surrounding the fruit, making it soft to the
+touch.  The outside is very smooth and bright orange colored, showing it is
+very ripe.  This peach would serve as a good snack for a journey but why
+would you want to wait?  

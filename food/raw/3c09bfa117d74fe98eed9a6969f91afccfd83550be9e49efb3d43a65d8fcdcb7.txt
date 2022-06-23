@@ -1,0 +1,9 @@
+> check eqlookup 3c09bfa117d74fe98eed9a6969f91afccfd83550be9e49efb3d43a65d8fcdcb7
+Item 'a platter of vegetables' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'vegetable platter food salad'.
+This item weighs 0 stones and 1 pebbles, and is valued at 500 gold. {Cat. 2}
+This level 20 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +12 earth-skill-dam.
+This food has the traits vegetable prepared fungus tuber.
+This is a good size bowl of mixed vegetables, sure to fill you up.  A
+tangy dressing has been poured over it, accenting the wonderful aroma.  

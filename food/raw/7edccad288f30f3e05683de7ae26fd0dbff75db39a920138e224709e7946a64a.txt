@@ -1,0 +1,12 @@
+> check eqlookup 7edccad288f30f3e05683de7ae26fd0dbff75db39a920138e224709e7946a64a
+Item 'a turkey liver' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'turkey liver global'.
+This item weighs 0 stones and 5 pebbles, and is valued at 405 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +30 combat-inconspicuousness.
+This food has the traits poultry.
+*A turkey liver will last approximately 86,400 more Alyrian minutes.
+You see a steaming, tasty turkey liver.  While few have a taste for
+turkey livers, it can be a light snack for the hungry adventurer.  Also
+another item that may get you a reward if turned in to the Turkey Hunter in
+Rune.  

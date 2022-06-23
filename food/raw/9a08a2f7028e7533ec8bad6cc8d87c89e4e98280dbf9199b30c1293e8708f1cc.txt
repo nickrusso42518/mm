@@ -1,0 +1,12 @@
+> check eqlookup 9a08a2f7028e7533ec8bad6cc8d87c89e4e98280dbf9199b30c1293e8708f1cc
+Item 'a sprinkled snail' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sprinkled snail cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 85 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 slash-skill-res.
+This food has the traits raw-meat prepared sweets.
+An undergrond breed of snail has been topped with dozens of multicolored
+sprinkles.  The combination seems odd but for those with a sweet tooth it
+could be very tasty.  The numerous candies coating the snail almost disguise
+the fact that it is a snail.  It may be wise to get something to wash this
+down with though in case it tastes worse than it appears.  

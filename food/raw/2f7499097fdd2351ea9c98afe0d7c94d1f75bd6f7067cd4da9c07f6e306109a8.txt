@@ -1,0 +1,12 @@
+> check eqlookup 2f7499097fdd2351ea9c98afe0d7c94d1f75bd6f7067cd4da9c07f6e306109a8
+Item 'a duck confit meal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'duck confit meal cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 1 hour 10 minutes of the 'food' affect, providing +12 holy-melee-dam.
+This food has the traits poultry prepared.
+This wonderful dish is duck confit served with Borlotti beans, braised
+bacon, and carrots.  The duck has been preserved in the congealed fat that
+has since melted to create a sauce mixing with the smoky flavor of the bacon
+and the vegetables.  The richness of the dish can be seen in its
+presentation as well as the scents rising from the platter.  

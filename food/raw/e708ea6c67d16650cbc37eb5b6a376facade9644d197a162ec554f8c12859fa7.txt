@@ -1,0 +1,14 @@
+> check eqlookup e708ea6c67d16650cbc37eb5b6a376facade9644d197a162ec554f8c12859fa7
+Item 'a waybread' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'waybread food'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +25 aqueous-weapon-activation
+-damage.
+This food has the traits gluten prepared.
+Without even looking, you can tell that this bread is common waybread 
+by its texture and smell.  It is flat and round, and bears only a 
+slight resemblance to common bread at all.  The crust is hard and dark, 
+while the center is dense and soft.  However, it smells good and looks 
+like it could fill you up when you get hungry.  Better eat it soon 
+before it gets any harder and you break a tooth while eating it.

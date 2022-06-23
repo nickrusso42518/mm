@@ -1,0 +1,13 @@
+> check eqlookup 7787b72d6ea3c780b691b584ab085a5a756bcc43b69fdedaa851f292d0fbcc85
+Item 'a big pot pie' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'potpie pot pie'.
+This item weighs 0 stones and 2 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +25 parry-magic-weapon
+-activation-damage.
+This food has the traits poultry gluten raw-meat vegetable prepared.
+You find in your possession the finest meal in the land, a steamy pot
+pie.  Your mouth waters at the smell of baked vegetables mixed with
+different meats in secret recipe gravy all covered up with the flakiest
+crust you've ever seen.  It is the perfect meal after an honest days work. 
+You gobble it down and run to purchase another.  

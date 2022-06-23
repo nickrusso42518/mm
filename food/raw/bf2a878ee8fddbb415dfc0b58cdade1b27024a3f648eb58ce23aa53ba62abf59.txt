@@ -1,0 +1,13 @@
+> check eqlookup bf2a878ee8fddbb415dfc0b58cdade1b27024a3f648eb58ce23aa53ba62abf59
+Item 'a southern fried rat' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'rat southern fried food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 saving-rod.
+This food has the traits raw-meat prepared.
+If southern fried rat tastes as bad as it smells it's no surprise that
+nobody ever orders one from the barkeep.  The only way this could happen
+would be if someone were to eat one for a dare or if they were too drunk to
+care.  They would probably regret it in the morning when the fur starts to
+make it's way through the body.  Dare or not the thought of eating a rat
+makes your stomach turn a little.  

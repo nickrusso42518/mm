@@ -1,0 +1,14 @@
+> check eqlookup e086b5a57f4b5d4bbda7188bf1c13c867f3db59c32a7c0e0f3370fcafe3e3928
+Item 'some squished grapes' is type food, alignment 235, made of organic (in (fresh) condition),[EQDB]
+has keywords 'squished grapes bundle'.
+This item weighs 0 stones and 16 pebbles, and is valued at 100 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +9 saving-spell.
+This food has the traits fruit.
+These grapes are in pretty bad shape.  Their juices have been extracted
+by the vintner to create the next perfect wine.  The sweetness that is
+Alyria's natural candy has been sucked from them by the hammering of bare
+feet, leaving a cold, bitter skin behind.  While their sacrifice is
+appreciated by those who enjoy the wine, it is a sacrifice all the same. 
+They do have their vengeance, though, apparent in the bloody, unwashable
+stains of guilt they leave on the feet of their killers.  

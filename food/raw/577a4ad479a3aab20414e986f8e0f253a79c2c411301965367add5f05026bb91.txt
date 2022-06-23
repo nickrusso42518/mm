@@ -1,0 +1,11 @@
+> check eqlookup 577a4ad479a3aab20414e986f8e0f253a79c2c411301965367add5f05026bb91
+Item 'a rotten fish carcass' is type food, alignment 0, made of flesh (in (rotting) condition),[EQDB]
+has keywords 'fish carcass'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1,250 gold. {Cat. 0}
+This level 30 item has the attributes: will-float none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +3 ar-mitigation.
+This food has the traits fish.
+A foul smelling lump of fish entrails is most of all that remains lying
+here.  From the smell it would seem like the fish has been lying here for
+days but it looks like it is fairly fresh.  The scales are relatively clean
+but the fish itself appears to be mutilated.  

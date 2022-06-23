@@ -1,0 +1,15 @@
+> check eqlookup 542c42b5adb0999e7fca5cb3c6be833f050460295976e8203c2ac1b84d76e0a2
+Item 'a piece of blowfish' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sushi mutant blowfish fish'.
+This item weighs 0 stones and 1 pebbles, and is valued at 3,750 gold. {Cat. 2}
+This level 95 item has the attributes: will-float
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 slash-skill-dam.
+This food has the traits fish.
+*A piece of blowfish will last approximately 10,800 more Alyrian minutes.
+Blowfish is a delicacy, harvested from the toxic creatures in the Proving
+Grounds.  As such, it is very, very rare, and in such limited quantities as
+to be almost impossible to obtain.  However, the culinary staff at Eanoss
+Azelmar specialize in exactly such comissions, and this pink piece of meat
+lays on a small china plate, waiting to be tasted.  However, it should not
+be eaten outside of the presence of a shaman, due to the high rate of
+accidental poisioning upon consumption..  

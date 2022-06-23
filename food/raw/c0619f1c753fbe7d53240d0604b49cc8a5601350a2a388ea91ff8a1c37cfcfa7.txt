@@ -1,0 +1,12 @@
+> check eqlookup c0619f1c753fbe7d53240d0604b49cc8a5601350a2a388ea91ff8a1c37cfcfa7
+Item 'scallops' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'scallops'.
+This item weighs 0 stones and 6 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +3 ar-mitigation.
+This food has the traits seafood.
+Having been just taken off the grill these scallops are steaming, giving
+off a pleasant and delectable aroma.  The scallops are not only making you
+hungry they are also making you thirsty.  You decided that you are to hungry
+not to buy such a wonderful food.  As you enjoy the food before you start to
+wonder if they have a decent brew here.  

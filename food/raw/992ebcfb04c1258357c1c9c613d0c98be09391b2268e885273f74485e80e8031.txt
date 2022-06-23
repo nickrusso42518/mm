@@ -1,0 +1,11 @@
+> check eqlookup 992ebcfb04c1258357c1c9c613d0c98be09391b2268e885273f74485e80e8031
+Item 'a sprinkle covered cake' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sprinkle covered cake ice cream cat2'.
+This item weighs 0 stones and 6 pebbles, and is valued at 1,500 gold. {Cat. 2}
+This level 75 item has the attributes: identified
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +25 sharp-weapon-activation
+-damage.
+This food has the traits gluten prepared sweets.
+Covered in multi-colored sprinkles, this cake is light and fluffy.  For
+the adventurer with a sweet tooth this would make the perfect treat.  The
+icing is milk chocolate and a large 'V' has been iced into the top in red.  

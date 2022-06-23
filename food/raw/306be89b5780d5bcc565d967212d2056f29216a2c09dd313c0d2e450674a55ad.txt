@@ -1,0 +1,13 @@
+> check eqlookup 306be89b5780d5bcc565d967212d2056f29216a2c09dd313c0d2e450674a55ad
+Item 'a frosted cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'frosted cake cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 1,500 gold. {Cat. 2}
+This level 85 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-exotic-arms.
+This food has the traits gluten prepared sweets.
+Rich white chocolate icing is smothered across this layered cake.  Each
+layer is a slightly different color and has a strange texture to it unlike
+most cakes.  The cake itself is quite large and could easily fill most
+stomachs, but it is too rich for most to eat in one sitting.  The smells of
+brown sugar and something like vanilla drift from the cake enticing you to
+take a bite.  

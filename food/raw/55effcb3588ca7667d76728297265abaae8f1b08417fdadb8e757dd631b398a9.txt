@@ -1,0 +1,10 @@
+> check eqlookup 55effcb3588ca7667d76728297265abaae8f1b08417fdadb8e757dd631b398a9
+Item 'a plate of flapjacks' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'stack flapjacks plate'.
+This item weighs 0 stones and 3 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +6 ar-exotic-torso.
+This food has the traits gluten prepared.
+A towering stack of flapjacks balances on the plate, dripping with syrup
+and nice pat of butter on top.  A lovely golden brown, they are fluffy and
+delicious, almost melting in your mouth with each heavenly bite.  

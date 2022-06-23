@@ -1,0 +1,11 @@
+> check eqlookup 0d36c05c473bf698f622c295f5b5ec22baca74131ef69e3babf569e19b6fb026
+Item 'a packet of wheat crackers' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'brown wheat crackers packet'.
+This item weighs 0 stones and 2 pebbles, and is valued at 400 gold. {Cat. 2}
+This level 4 item has the attributes: rot-death
+When eaten, this food will provide now of the 'food' affect, providing +10 necromantic-skill-res.
+This food has the traits gluten prepared.
+These finely baked brown crackers are made from the finest wheat
+available in Alyria, obviously imported from the beautiful Runic fields. 
+These small baked squares have crinkled sides and small perforations at even
+intervals throughout.

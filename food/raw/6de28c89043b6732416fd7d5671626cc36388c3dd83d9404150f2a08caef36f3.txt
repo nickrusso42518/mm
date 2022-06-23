@@ -1,0 +1,9 @@
+> check eqlookup 6de28c89043b6732416fd7d5671626cc36388c3dd83d9404150f2a08caef36f3
+Item 'a piece of edible cactus' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'piece edible cactus'.
+This item weighs 0 stones and 3 pebbles, and is valued at 50 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 16 minutes of the 'food' affect, providing +25 stamina-regen.
+This food has the traits raw-plant.
+This is a non-prickly piece of a delicious type of cactus that is often used
+in delicacies by desert tribesmen.  

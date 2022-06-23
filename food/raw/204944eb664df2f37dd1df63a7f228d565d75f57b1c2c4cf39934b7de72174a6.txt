@@ -1,0 +1,8 @@
+> check eqlookup 204944eb664df2f37dd1df63a7f228d565d75f57b1c2c4cf39934b7de72174a6
+Item 'a dead frog' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'frog dead'.
+This item weighs 0 stones and 10 pebbles, and is valued at 225 gold. {Cat. 2}
+This level 5 item has the attributes: throwable
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +7 damage-to-evil-prcnt.
+This food has the traits raw-meat.
+This corpse of a dead frog is covered in slime.  

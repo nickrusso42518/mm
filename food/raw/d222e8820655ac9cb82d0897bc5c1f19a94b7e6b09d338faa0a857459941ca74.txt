@@ -1,0 +1,8 @@
+> check eqlookup d222e8820655ac9cb82d0897bc5c1f19a94b7e6b09d338faa0a857459941ca74
+Item 'some small yellow kernels' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'corn yellow'.
+This item weighs 0 stones and 1 pebbles, and is valued at 255 gold. {Cat. 2}
+This level 9 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +25 frost-weapon-activation-damage.
+This food has the traits raw-plant.
+Some small yellow kernels have been accidentally left here.

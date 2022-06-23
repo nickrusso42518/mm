@@ -1,0 +1,10 @@
+> check eqlookup 973c69ddd8d1bc4c2cd34f81eab2339ad4f6fc72c011715e0dc7e6eb3f4ff59c
+Item 'a strawberry salad and sorbet' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'strawberry salad sorbet cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +100 spellcasting-priority.
+This food has the traits prepared fruit sweets.
+This wonderful dish is strawberry sorbet with a nice strawberry salad. 
+It is filled with all kinds of strawberries and lettuce for the fruit and
+vegetable lover.  

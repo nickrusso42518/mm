@@ -1,0 +1,11 @@
+> check eqlookup 24690fa1212d8588753a7ee0b3e2b103fdafd534571d402f673d84b33661bbba
+Item 'a platter of biscuits' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'biscuits platter golden'.
+This item weighs 0 stones and 3 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 10 item has no special attributes.
+When eaten, this food will provide 13 minutes of the 'food' affect, providing +10 necromantic-skill-res.
+This food has the traits gluten prepared.
+Fluffy, light and delicious, these biscuits were made by an expert hand. 
+Although served with butter and several kinds of jelly and jam, some fill
+the biscuits with thick slices of ham instead.  The buttery, golden-brown
+delights are piled high on a platter, waiting for someone to enjoy.  

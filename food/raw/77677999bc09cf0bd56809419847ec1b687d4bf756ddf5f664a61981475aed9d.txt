@@ -1,0 +1,12 @@
+> check eqlookup 77677999bc09cf0bd56809419847ec1b687d4bf756ddf5f664a61981475aed9d
+Item 'a rotting pile of food' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pile rotting food'.
+This item weighs 0 stones and 4 pebbles, and is valued at 28,530 gold. {Cat. 6}
+This level 240 item has the attributes: none
+When eaten, this food will provide 1 hour 20 minutes of the 'food' affect, providing +10 air-skill-res.
+This food has the traits prepared raw-plant fruit ovo-lacto fungus.
+This rotting pile of food is nearly worthless.  Its individual bits are
+aged and oxydized, quickly turning into a formless, toxic growth of mold. 
+It would be unwise to eat this, but if one has no other choice, it is
+probably better than starvation.  In it, you can identify cheese, some type
+of orange fruit, and perhaps some edible weed, but little else in this mess.

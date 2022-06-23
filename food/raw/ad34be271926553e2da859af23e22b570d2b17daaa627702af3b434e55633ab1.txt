@@ -1,0 +1,11 @@
+> check eqlookup ad34be271926553e2da859af23e22b570d2b17daaa627702af3b434e55633ab1
+Item 'some stone crab claws' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'pile stone crab claws'.
+This item weighs 0 stones and 2 pebbles, and is valued at 450 gold. {Cat. 2}
+This level 18 item has no special attributes.
+When eaten, this food will provide 1 hour 37 minutes of the 'food' affect, providing +8 ar-arms.
+This food has the traits seafood.
+A pile of succulent, fresh pink crab claws is stuck together, the sharp
+bits of the fingers connected.  They have been cooked but are now cold, and
+covered in a thick buttery sauce.  These claws are characteristic of north
+east Sepharia.  

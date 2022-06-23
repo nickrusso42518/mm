@@ -1,0 +1,11 @@
+> check eqlookup 4069c473e2d6c3b758ed7bc5055cc31ca09a3deed25c3a4dc4739516df519b4f
+Item 'a bloodied arm' is type food, alignment -200, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'bloodied detached arm'.
+This item weighs 0 stones and 5 pebbles, and is valued at 100 gold. {Cat. 2}
+This level 4 item has the attributes: none
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +10 lightbeam-skill-res.
+This food has the traits raw-meat.
+Someone's arm has literally been ripped out of the socket and detached,
+and served for food.  Though outsiders see this as absurd, feys eat arms and
+legs as normal meals.  How filling, a nice bloody arm.  Perhaps you should
+adjust to their innocent culture and consume such fine foods.  

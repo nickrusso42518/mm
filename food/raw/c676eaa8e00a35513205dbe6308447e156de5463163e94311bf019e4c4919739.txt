@@ -1,0 +1,12 @@
+> check eqlookup c676eaa8e00a35513205dbe6308447e156de5463163e94311bf019e4c4919739
+Item 'a honey cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'honey cake'.
+This item weighs 0 stones and 1 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 4 minutes of the 'food' affect, providing +15 attack-speed.
+This food has the traits gluten prepared sweets.
+It is a piping hot honey cake buttered and ready to eat.  Honey is glazed
+thickly over the entire bun.  Specks of cinnamon can be seen sprinkled all
+over the top of the pastry.  You feel your mouth watering profusely looking
+at this delicious pastry.  The sweetly-bitter pleasure of having a sweet
+tooth.  

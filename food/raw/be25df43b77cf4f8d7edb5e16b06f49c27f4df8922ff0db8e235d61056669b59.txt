@@ -1,0 +1,12 @@
+> check eqlookup be25df43b77cf4f8d7edb5e16b06f49c27f4df8922ff0db8e235d61056669b59
+Item 'an edible root' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'root edible'.
+This item weighs 0 stones and 5 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has the attributes: buried
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +6 ar-exotic-head.
+This food has the traits raw-plant.
+This dry root is from a jabbar plant, you remember it as being both tasty
+and nutritious, and not at all poisonous.  You suddenly realize how hungry
+you are, your mouth starts to water and as you bite down into the tasty root
+and start eating it, you imagine that you also have some of those yellow
+glowing slugs that taste so well when eaten together with the Jabbar root.  

@@ -1,0 +1,12 @@
+> check eqlookup 368c36f344ce2556dadacf2335139456dc7479c149a5b51a251ac30c9e228632
+Item 'glazed ham' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'glazed ham'.
+This item weighs 0 stones and 10 pebbles, and is valued at 280 gold. {Cat. 2}
+This level 10 item has the attributes: no-auction no-donate vanish-death nochange no-save vanish-if-dropped
+none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +25 sharp-weapon-activation
+-damage.
+This food has the traits raw-meat prepared.
+*Glazed ham will last approximately 10,800 more Alyrian minutes.
+A glazed ham sits here steaming.  This ham is glazed in honey and brown
+sugar, it's the sweetest ham you can find, and good too!  

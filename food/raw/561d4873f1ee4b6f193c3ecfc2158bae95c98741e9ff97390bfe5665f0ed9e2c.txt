@@ -1,0 +1,12 @@
+> check eqlookup 561d4873f1ee4b6f193c3ecfc2158bae95c98741e9ff97390bfe5665f0ed9e2c
+Item 'a thin wafer' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'cracker wafer'.
+This item weighs 0 stones and 0 pebbles, and is valued at 100,055 gold. {Cat. 2}
+This level 1 item has the attributes: blessed nodecay none
+When eaten, this food will provide now of the 'food' affect, providing +25 leech-conduit-activation-damage.
+This food has the traits gluten.
+The thin wafer looks not even the least bit appealing to the eye or even
+to the taste bud.  When soaked in the fermented juice of the Lord's
+vineyards, the wafer seems to increase in size.  Just as the wafer increases
+in size, the love of those who commit themselves to the act of handfasting
+will also grow, 

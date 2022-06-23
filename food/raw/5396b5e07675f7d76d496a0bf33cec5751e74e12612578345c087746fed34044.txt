@@ -1,0 +1,11 @@
+> check eqlookup 5396b5e07675f7d76d496a0bf33cec5751e74e12612578345c087746fed34044
+Item 'an eel pie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'eel pie cat2'.
+This item weighs 0 stones and 7 pebbles, and is valued at 70 gold. {Cat. 2}
+This level 20 item has no special attributes.
+When eaten, this food will provide 1 hour 7 minutes of the 'food' affect, providing +4 luck.
+This food has the traits gluten prepared seafood.
+A delicate flaky brown pastry tops this pie filled with eels steamed
+within.  A delicate brown sauce bubbles from the holes pierced withing the
+crust to allow the steam to escape while baking.  The scent is one of a fine
+wine base mixed with the earthy scent of the eels.  

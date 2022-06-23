@@ -1,0 +1,11 @@
+> check eqlookup ddc498929baddba8b78d26fd0bf05739d53ab1dff094f92210588182a94b1f2a
+Item 'some blackberries' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'blackberries'.
+This item weighs 0 stones and 1 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +3 crit-chance.
+This food has the traits fruit.
+The berries closely resemble raspberries, except they are black instead
+of red.  A drop of morning dew glistens on one berry, and they are all ripe
+and ready to eat.  Your stomach growls with hunger, and you lick your lips
+as you think of consuming the juicy, flavorful fruit.  

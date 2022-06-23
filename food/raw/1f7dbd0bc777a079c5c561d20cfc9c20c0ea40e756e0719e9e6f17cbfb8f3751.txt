@@ -1,0 +1,12 @@
+> check eqlookup 1f7dbd0bc777a079c5c561d20cfc9c20c0ea40e756e0719e9e6f17cbfb8f3751
+Item 'an avocado roll' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'avocado roll sushi food'.
+This item weighs 0 stones and 0 pebbles, and is valued at 6,025 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 1 hour 40 minutes of the 'food' affect, providing +12 mental-skill-dam.
+This food has the traits vegetable.
+This luscious avocado roll looks like it would be a tasty treat indeed!  
+Nestled into the bed of rice are several slices of succulent avocado, 
+along with several tasty morsels of pickled ginger.  Just add a dab of 
+wasabi to spice it up, or drizzle a little soy sauce over it for a change 
+of pace.

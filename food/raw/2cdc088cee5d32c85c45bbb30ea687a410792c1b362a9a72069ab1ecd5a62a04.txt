@@ -1,0 +1,12 @@
+> check eqlookup 2cdc088cee5d32c85c45bbb30ea687a410792c1b362a9a72069ab1ecd5a62a04
+Item 'a musselshell' is type food, alignment 0, made of bone (in (fresh) condition),[EQDB]
+has keywords 'black mussel shell musselshell'.
+This item weighs 0 stones and 2 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +3 damage-prcnt.
+This food has the traits seafood.
+This black shell contains a widely known seafood.  Some larger races
+eschew the hucking process and eat the creature with its shell.  One of the
+best liked mollusks, the mussel is sold en masse by seafarers, and by poor
+children on the streets.  Long and rounded, it looks like another rock, but
+smells like the ocean.  

@@ -1,0 +1,11 @@
+> check eqlookup 8c1ae351e95abf8529d9dbac4a90f5be083753087c62109c7552cec3d3ec60a7
+Item 'a fruit plate' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'food fruit plate'.
+This item weighs 0 stones and 3 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 12 minutes of the 'food' affect, providing +12 earth-skill-dam.
+This food has the traits prepared fruit.
+The platter contains all sorts of fresh fruit.  Among the things you see on
+it are strawberries, watermelon, peaches, pears, grapes, kiwi, mango and
+several other types of fruit.  It is tempting just to guzzle down the entire
+platter before the fruit spoils.  

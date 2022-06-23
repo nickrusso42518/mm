@@ -1,0 +1,12 @@
+> check eqlookup ac37aeaabc69da1d035104c7192f85fa0f5f84a9f3f6b43cc60eccc98c10fe85
+Item 'a fresh baguette' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'baguette fresh'.
+This item weighs 0 stones and 3 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 wood-skill-dam.
+This food has the traits gluten prepared.
+A long baguette is here, fresh from the oven.  The smell of this fresh
+bread is almost addictive.  This bread is thin and long and appears to have
+been made from to pieces of dough twisted together.  The outside is light
+brown in color, and the inside is soft and moist.  The baker that made this
+is a true artist.  

@@ -1,0 +1,14 @@
+> check eqlookup 0dbdb25f1a70a014c7f17b80f7d9e59e96bbac9f902477d33231af7af3d72edc
+Item 'a chocolate brownie' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'chocolate brownie freshly baked'.
+This item weighs 0 stones and 3 pebbles, and is valued at 780 gold. {Cat. 2}
+This level 30 item has the attributes: identified none
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +7 orienteering.
+This food has the traits prepared sweets ovo-lacto.
+*A chocolate brownie will last approximately 60 more Alyrian minutes.
+Composed of chocolate, butter and sugar, this brownie is topped with
+cashews.  It smells like perfect, and tastes even better.  Brownies are a
+rare treat in Alyria, for some reason although easy to bake and universally
+loved, most people arbitrarily prefer to prepare their salty monkeybrains,
+and sweetened cuckoo.  People have weird taste, but this brownie sure
+doesn't.  

@@ -1,0 +1,12 @@
+> check eqlookup d0aa77cff79989d673b8ff6ef4eb95300dd5304c423810f24ba4cee7495e23c4
+Item 'a dish of frog intestines' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'dish frog intestines'.
+This item weighs 0 stones and 7 pebbles, and is valued at 250 gold. {Cat. 0}
+This level 10 item has no special attributes.
+When eaten, this food will provide 3 hours 20 minutes of the 'food' affect, providing +10 stamina-regen-prcnt.
+This food has the traits raw-meat prepared.
+The large plate is filled with the entrails from a number of dead frogs. 
+It looks as though they have been undercooked, if they have been cooked at
+all.  An awful smell arises from the dish, and you wonder how long ago the
+cook prepared these intestines.  It would probably be best to order
+something else instead.  

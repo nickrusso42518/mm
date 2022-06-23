@@ -1,0 +1,10 @@
+> check eqlookup b56622f242367381c2116c05830778e2fc917a6cc549719b0e009696a3fc0c8c
+Item 'a rotten mushroom' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'rotten mushroom'.
+This item weighs 0 stones and 1 pebbles, and is valued at 180 gold. {Cat. 0}
+This level 6 item has no special attributes.
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +6 ar-bash-tail.
+This food has the traits fungus.
+This is a small mushroom that has passed the edible stage and has become
+rotten and soggy.  Small worms dart in and out of the stem, either eating or
+reproducing, you can't be certain.  

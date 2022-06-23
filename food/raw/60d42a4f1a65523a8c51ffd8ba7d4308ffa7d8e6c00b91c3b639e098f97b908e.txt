@@ -1,0 +1,11 @@
+> check eqlookup 60d42a4f1a65523a8c51ffd8ba7d4308ffa7d8e6c00b91c3b639e098f97b908e
+Item 'a sour sucker' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'sour sucker cat2'.
+This item weighs 0 stones and 4 pebbles, and is valued at 250 gold. {Cat. 2}
+This level 85 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +10 conduit-prcnt.
+This food has the traits prepared sweets.
+Translucent blue in color, this sucker gives off the faint smell of some
+type of exotic berry.  The narrow stick used to hold it has been bent in
+several places but is still straight for the most part.  This sweet candy
+will sustain a person for a short while but it's just a snack after all.  

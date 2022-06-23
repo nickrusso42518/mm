@@ -1,0 +1,15 @@
+> check eqlookup 05556992affae34f0f286054db46c36db9f9bc90d045c6d05887eaafc3e2a35b
+Item 'the stomach of Igglwilvy the dragon' is type food, alignment -550, made of meat (in (fresh)
+condition),[EQDB]
+has keywords 'stomach igglwilvy', equipped on the body.
+This item weighs 0 stones and 12 pebbles, and is valued at 28,800 gold. {Cat. 6}
+This level 241 item has the attributes: vis-death always-equipment-index none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +20 fistfighting.
+This food has the traits raw-meat.
+A little known fact is that the stomach bile of dragons, even after death,
+is intensely poisonous.  Indeed, some dragons even draw some of their
+poisonous breath from their bile.  Igglwilvy, the pet dragon of the orc
+chieftain Graalg, has apparently come to an unpleasant end, because his
+particular stomach is here.  It is a dark brown, and makes squishy sounds as
+the bile within mixes.  Eventually, the toxins may naturally expire, but
+until then this is a dangerous artifact.  

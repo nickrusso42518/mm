@@ -1,0 +1,12 @@
+> check eqlookup ce867c5fda0dadc938bb03f69732d3f2e15ba17ecfdfd0d75a6bfc52715a9441
+Item 'a plum' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'plum'.
+This item weighs 0 stones and 4 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 8 minutes of the 'food' affect, providing +15 sound-skill-dam.
+This food has the traits fruit.
+A ripened plum is here ready for one to eat.  This small round purple
+fruit is one of the sweetest of fruits.  It has a deep purple color and is
+smooth shiny skin.  This fruit makes an awesome snack or even a good a small
+meal.  This fruit is sometimes left out in the sun for an extended period of
+time to make prunes.  

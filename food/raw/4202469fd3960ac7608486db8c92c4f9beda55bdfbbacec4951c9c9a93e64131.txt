@@ -1,0 +1,12 @@
+> check eqlookup 4202469fd3960ac7608486db8c92c4f9beda55bdfbbacec4951c9c9a93e64131
+Item 'a pizza base' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pizza base food'.
+This item weighs 0 stones and 15 pebbles, and is valued at 4,030 gold. {Cat. 2}
+This level 110 item has the attributes: identified none
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +10 earth-skill-res.
+This food has the traits gluten prepared.
+*A pizza base will last approximately 500 more Alyrian minutes.
+This thin pizza base has been made from a mixture of water, eggs and milk
+then spun using a special technique to get its round shape.  Usually these
+bases are covered in a thick tomato paste, cheese and a multitude of other
+toppings then cooked for 15minutes to get a succulent food.  

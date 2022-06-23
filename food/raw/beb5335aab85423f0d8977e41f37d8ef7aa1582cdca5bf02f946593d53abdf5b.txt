@@ -1,0 +1,12 @@
+> check eqlookup beb5335aab85423f0d8977e41f37d8ef7aa1582cdca5bf02f946593d53abdf5b
+Item 'a wild rabbit' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'wild rabbit'.
+This item weighs 0 stones and 45 pebbles, and is valued at 600 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 12 hours of the 'food' affect, providing +4 courage.
+This food has the traits raw-meat.
+This piece of meat comes from a large wild rabbit.  Because they are so
+numerous in the forests near New Rigel, many hunters focus on catching them.
+Although the bunnies are rather small, they are quite dim-witted, and will
+assume that you do not notice them unless you look directly at them.  Thus,
+they are extremely easy to capture.  

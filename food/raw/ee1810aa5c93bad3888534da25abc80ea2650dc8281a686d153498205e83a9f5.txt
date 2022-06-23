@@ -1,0 +1,11 @@
+> check eqlookup ee1810aa5c93bad3888534da25abc80ea2650dc8281a686d153498205e83a9f5
+Item 'a roast veal shank meal' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'veal shank meal cat2'.
+This item weighs 0 stones and 2 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 1 hour of the 'food' affect, providing +10 conduit-prcnt.
+This food has the traits raw-meat prepared.
+This meal has a roast veal shank served with a creamy dish of rice.  The
+shank has been quickly seared to make a browned crispy surface, then roasted
+until the meat is tender.  The onions that were roasted with it are
+caramelized to a golden brown bringing out the sweetness.  

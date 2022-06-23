@@ -1,0 +1,12 @@
+> check eqlookup 70d91b2d4425b8777068d600553f8178dbf553b41a03c9fbc968dd615822f69a
+Item 'a human heart' is type food, alignment -750, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'human heart'.
+This item weighs 0 stones and 10 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +20 sp-regen-max.
+This food has the traits raw-meat.
+This grisly organ was obviously meant to be some fey's dinner.  You
+shudder to think how the cooks of the Unseelie Castle acquire the food that
+is served here, and begin to wonder if it's such a good idea to be here
+after all.  While the heart is rather disturbing, it does remind you that
+it's been a while since you've eaten last...  

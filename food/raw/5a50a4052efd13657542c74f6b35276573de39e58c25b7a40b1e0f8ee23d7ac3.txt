@@ -1,0 +1,13 @@
+> check eqlookup 5a50a4052efd13657542c74f6b35276573de39e58c25b7a40b1e0f8ee23d7ac3
+Item 'a small piece of boiled rat meat' is type food, alignment 0, made of meat (in (somewhat fresh)
+condition),[EQDB]
+has keywords 'small piece rat meat boiled'.
+This item weighs 0 stones and 1 pebbles, and is valued at 505 gold. {Cat. 2}
+This level 15 item has the attributes: throwable none
+When eaten, this food will provide 20 minutes of the 'food' affect, providing +6 ar-bash-head.
+This food has the traits raw-meat prepared.
+This is Kraz's specialty - boiled rat.  With little else to work with, he
+does what he can with whatever he can find, rats being the easiest thing for
+him to catch.  Often the rat is thrown whole into the pot, where it boils
+until it falls apart, adding 'flavor' to the stew - which leads one what
+part of the rat this piece is.  

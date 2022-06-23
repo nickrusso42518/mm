@@ -1,0 +1,8 @@
+> check eqlookup 2c6fad02b60c82ea0c867cbf1ef61161985b123149e2748b6f548458f509f40b
+Item 'a plump pomegranate' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'juicy plump pomegranate name complex tropical bouquet fivepointzero'.
+This item weighs 0 stones and 8 pebbles, and is valued at 28,830 gold. {Cat. 1}
+This level 241 item has the attributes: bind-on-take highlander
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +12 mental-melee-dam.
+This food has the traits raw-plant fruit.
+It smells bitter and sweet and juicy and astringent, all at once.

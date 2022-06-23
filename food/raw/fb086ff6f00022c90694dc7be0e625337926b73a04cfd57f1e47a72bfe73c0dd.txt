@@ -1,0 +1,13 @@
+> check eqlookup fb086ff6f00022c90694dc7be0e625337926b73a04cfd57f1e47a72bfe73c0dd
+Item 'a mini cheesecake' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'mini cheesecake'.
+This item weighs 0 stones and 1 pebbles, and is valued at 1 gold. {Cat. 2}
+This level 15 item has the attributes: no-container no-rent unlockerable
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +6 ar-pierce-torso.
+This food has the traits gluten prepared sweets ovo-lacto.
+*A mini cheesecake will last approximately 1,000 more Alyrian minutes.
+Thick and rich, the filling of this cheesecake sits upon a a light crust
+of crushed almond cookies.  A light hint of vanilla flavors the filling. 
+Slices of fresh strawberries, peaches, mangoes, and kiwi are arranged on
+top.  A glaze of apricot preserves is brushed over the fruit to give it a
+glossy finish.  

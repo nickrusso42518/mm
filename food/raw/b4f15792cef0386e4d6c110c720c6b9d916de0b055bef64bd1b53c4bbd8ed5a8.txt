@@ -1,0 +1,12 @@
+> check eqlookup b4f15792cef0386e4d6c110c720c6b9d916de0b055bef64bd1b53c4bbd8ed5a8
+Item 'a leg of musk ox' is type food, alignment 0, made of meat (in (fresh) condition),[EQDB]
+has keywords 'leg musk ox meat'.
+This item weighs 0 stones and 2 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +90 damage-fire-breath.
+This food has the traits raw-meat.
+This large haunch of meat would be a mere snack for a giant.  Cooked and
+cured for storage, it looks like it would make a very nice meal for you!  As
+you hold the leg by the bone, you feel as if you could wield this leg of
+meat as a club because it is so heavy.  Your mouth begins to water in
+anticipation of devouring this succulent food.  

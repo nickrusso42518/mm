@@ -1,0 +1,11 @@
+> check eqlookup 3fab58e1b9756d81b189be5da8509146a4f40706dc937e5d966a618d8b14616a
+Item 'a turkey claw' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'turkey claw global'.
+This item weighs 0 stones and 0 pebbles, and is valued at 55 gold. {Cat. 2}
+This level 1 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +1 range.
+This food has the traits poultry.
+*A turkey claw will last approximately 86,400 more Alyrian minutes.
+You are looking at a chopped off, bloody, and somewhat twisted claw
+that looks like it came form a turkey.  Perhaps you should return this 
+item to the Turkey Hunter in Rune.

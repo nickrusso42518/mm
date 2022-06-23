@@ -1,0 +1,13 @@
+> check eqlookup a89f8cedc9ed29f0c34fe08ceb34786132242b34ab259e5fc0205dea016322b9
+Item 'pork chops' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'pork chops'.
+This item weighs 0 stones and 10 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 14 minutes of the 'food' affect, providing +12 charm-melee-dam.
+This food has the traits raw-meat.
+Resting here is a pair of thick meaty looking pork chops.  The color of
+these pork chops is as perfect as you have ever seen.  You notice that there
+is very little marbling to the meat, meaning that it is almost all meat. 
+The wavering scent of fresh meat fills your nostrils as you examine these
+pork chops, perhaps to eat later.  Maybe they would go well in a stew of
+some sort.  

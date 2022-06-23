@@ -1,0 +1,12 @@
+> check eqlookup 70263a1caf6dea6c01f486d649bbf7b0a576ec2f588c8614cef9a3f5f7187253
+Item 'a plate of spinach ravioli' is type food, alignment 0, made of none (in (fresh) condition),[EQDB]
+has keywords 'plate ravioli spinach cat2'.
+This item weighs 0 stones and 3 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 1 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +4 ar-torso.
+This food has the traits gluten vegetable prepared ovo-lacto.
+This plate of ravioli is essentially a bunch of hollow noodles that are
+full of spinach.  Ravoili can come with many types of stuffings, but spinach
+seems to be the specialty of this dish.  The ravioli is covered with a pasty
+tomato sauce.  The entire dish gives off an odor that you find quite
+different than in most foods, nonetheless it does look delicious.  

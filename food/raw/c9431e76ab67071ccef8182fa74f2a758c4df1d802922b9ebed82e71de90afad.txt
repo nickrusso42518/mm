@@ -1,0 +1,12 @@
+> check eqlookup c9431e76ab67071ccef8182fa74f2a758c4df1d802922b9ebed82e71de90afad
+Item 'a bale of hay' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'hay bale feed'.
+This item weighs 0 stones and 15 pebbles, and is valued at 3,500 gold. {Cat. 2}
+This level 100 item has no special attributes.
+When eaten, this food will provide 30 minutes of the 'food' affect, providing +12 charm-skill-dam.
+This food has the traits prepared raw-plant.
+This rather large pile of straw has been packed tightly together and
+bound by twine to keep it falling apart.  Usually used by the keepers of the
+Lonely Dragon Inn to feed the animals.  Small insects and rodents scurry
+through the strands, gnawing on parts of the straw and twine, causing clumps
+to fall from it.  

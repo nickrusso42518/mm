@@ -1,0 +1,12 @@
+> check eqlookup e2d28921273591305b27976f6a0d48f0696b01c6796ce3e51cca407f15a73884
+Item 'a blue gongra' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'blue gongra'.
+This item weighs 0 stones and 7 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 45 minutes of the 'food' affect, providing +15 attack-speed.
+This food has the traits fruit.
+This interesting fruit is almost perfectly spherical, and its skin is
+very smooth.  Its smell is quite strong but not unpleasant, and the fruit is
+soft to the touch.  Taking a bite, you discover that the gongra is rather
+pulpy and juicy, but it is naturally sweet and has a delicious aftertaste. 
+Perhaps you should find a napkin before finishing your snack.  

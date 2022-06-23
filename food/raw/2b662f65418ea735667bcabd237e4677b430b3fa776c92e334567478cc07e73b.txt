@@ -1,0 +1,18 @@
+> check eqlookup 2b662f65418ea735667bcabd237e4677b430b3fa776c92e334567478cc07e73b
+Item 'a bucket of oats' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'bucket wheat oats'.
+This item weighs 0 stones and 10 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +20 sp-regen-max.
+This food has the traits gluten.
+This can be combined with the following ingredients to cook 'a light breakfast'.
+- Item 'a sweet pineapple'
+- Item 'a green, stripy watermelon'
+- Item 'a sliced banana'
+- Item 'a bucket of oats'
+- Item 'some yogurt'
+The stableboy carries this large bucket of oats around to refill the
+smaller buckets inside each stall.  These oats look so good they are
+probably even fit for human consumption.  The stables here are known all
+around the land as being the finest anywhere.  Nobles and wealthy
+dignitatries often come here to have their best steeds taken care of.  

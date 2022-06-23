@@ -1,0 +1,15 @@
+> check eqlookup ef7d07bce5f2b31535bf8184fcf109922ce811f5ca36185409c8b0a3e2c0c223
+Item 'a scoop of vanilla' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'scoop vanilla food ice cream cat2'.
+This item weighs 0 stones and 4 pebbles, and is valued at 1,000 gold. {Cat. 2}
+This level 75 item has the attributes: identified
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +12 disease-melee-dam.
+This food has the traits prepared sweets ovo-lacto.
+This can be combined with the following ingredients to cook 'a hot fudge sundae'.
+- Item 'a scoop of vanilla'
+- Item 'a twirly nut'
+- Item 'a dollop of whipped cream'
+- Item 'a jar of hot fudge sauce'
+It's a scoop of vanilla ice cream, often eaten in such things as cones or
+just by itself.  If you find a few other varieties and a banana or two you
+can make a sundae.  Best if you hurry though because it is melting rapidly. 

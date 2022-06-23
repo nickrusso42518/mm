@@ -1,0 +1,13 @@
+> check eqlookup 7c9c57eb0e88cb214c9031c5e139e4950d24fde68e4ca8c15cb192099ad695c0
+Item 'a T-bone steak' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'tbone steak'.
+This item weighs 0 stones and 13 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 15 minutes of the 'food' affect, providing +25 serrated-weapon-activation
+-damage.
+This food has the traits raw-meat.
+Resting here is a scrumptious looking T-bone steak.  This T-bone has been
+well cooked over an open pit barbecue with just the right spices.  The
+wondrous aroma of well-cooked meat fills your nostrils, making you hungry. 
+Perhaps this steak will serve as a good meal for you on a future journey, or
+maybe even now?  

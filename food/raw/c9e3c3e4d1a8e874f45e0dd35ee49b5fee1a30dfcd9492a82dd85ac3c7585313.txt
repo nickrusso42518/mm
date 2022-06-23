@@ -1,0 +1,12 @@
+> check eqlookup c9e3c3e4d1a8e874f45e0dd35ee49b5fee1a30dfcd9492a82dd85ac3c7585313
+Item 'the head of a sidhe official' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'head Sidhe official'.
+This item weighs 0 stones and 8 pebbles, and is valued at 1,675 gold. {Cat. 2}
+This level 55 item has the attributes: rot-death
+When eaten, this food will provide 25 minutes of the 'food' affect, providing +15 damage-boss-cat1.
+This food has the traits raw-meat.
+This pale head was removed from a Sidhe Official.  You do not recognize
+it, as it is caked with scabs and dirt.  A part of the spinal column
+protrudes from the neck giving one a clean place to hold it.  The hair has
+been entirely shaved off of it, and the brain sucked out through a small
+hole in the skull.  

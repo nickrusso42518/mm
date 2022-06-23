@@ -1,0 +1,20 @@
+> check eqlookup 641a0761872c0014df6d89633783196b88e5994022af1f10cd519e8444c63bd2
+Item 'a wonta tuber' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'wonta tuber'.
+This item weighs 0 stones and 11 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 2 hours 10 minutes of the 'food' affect, providing +12 moonlight-skill-dam.
+This food has the traits tuber.
+This can be combined with the following ingredients to cook 'a pot of winterroot soup'.
+- Item 'a tub of mirepoix'
+- Item 'a hardy edible root'
+- Item 'a tender turnip'
+- Item 'a firm, red beet'
+- Item 'a wonta tuber'
+- Item 'a ripe pumpkin'
+- Item 'a dollop of sour cream'
+This strange vegetable does not look all that appetizing.  It is a sickly
+white in color, and its pulpy flesh is gnarled and bumpy.  Still, you decide
+that it is no different from a potato, and would probably be tasty if
+prepared properly.  You could probably eat it raw, but you don't look
+forward to trying.  

@@ -1,0 +1,12 @@
+> check eqlookup 1b0b9c90defb8780d6ba9e928210757310e9844548d7c9fb3b08b2830190f254
+Item 'a chocolate truffle' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'truffle'.
+This item weighs 0 stones and 2 pebbles, and is valued at 125 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +30 search.
+This food has the traits gluten prepared sweets ovo-lacto.
+At first glance, it appears to be a small, dark-brown, shiny rock, but it 
+is far too light for that.  Looking closer, you see that it is covered 
+with a dark-brown chocolate shell, and that it only partially covers what 
+seems to be a truffle.  Sticking out of the bottom of the chocolate shell 
+is the stem of a luscious mushroom.

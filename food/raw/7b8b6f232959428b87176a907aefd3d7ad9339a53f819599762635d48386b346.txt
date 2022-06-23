@@ -1,0 +1,11 @@
+> check eqlookup 7b8b6f232959428b87176a907aefd3d7ad9339a53f819599762635d48386b346
+Item 'a small amount of edible moss' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'patch edible moss'.
+This item weighs 0 stones and 4 pebbles, and is valued at 25 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 22 minutes of the 'food' affect, providing +12 sunlight-melee-dam.
+This food has the traits fungus.
+The moss is dark green.  Despite its somewhat damp and dirty appearance, it
+looks edible.  If you were desperate for a source of nourishment, you might
+consider eating this.  Whilst its color and texture leaves much to be
+desired, its does seem to possess some nutritional value.  

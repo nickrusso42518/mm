@@ -1,0 +1,13 @@
+> check eqlookup da22322c4273adbc8e7312340adcfcd2b6d1c190ab5b9e2b43a4b12f3ab960ab
+Item 'a large spinach leaf' is type food, alignment 25, made of organic (in (fresh) condition),[EQDB]
+has keywords 'large spinach leaf'.
+This item weighs 0 stones and 2 pebbles, and is valued at 5,130 gold. {Cat. 2}
+This level 126 item has the attributes: identified none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +12 slash-melee-dam.
+This food has the traits raw-plant.
+This singular leaf has been carelessly ripped from a large bunch of
+spinach; thin tears ascend from the bottom of the leaf, abruptly stopping
+after a few inches.  The leaf itself is limp and dark green in color.  Small
+crinkles cover each side of the large leaf showing its natural growth
+pattern.  An intense aroma emanates from it and lingers on anything that
+touches it.  This bait would be best suited for a medium-sized mithril trap.

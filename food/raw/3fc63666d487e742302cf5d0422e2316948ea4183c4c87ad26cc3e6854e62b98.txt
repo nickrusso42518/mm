@@ -1,0 +1,9 @@
+> check eqlookup 3fc63666d487e742302cf5d0422e2316948ea4183c4c87ad26cc3e6854e62b98
+Item 'a stale cracker' is type food, alignment 0, made of organic (in (somewhat fresh) condition),[EQDB]
+has keywords 'stale cracker'.
+This item weighs 0 stones and 3 pebbles, and is valued at 16,530 gold. {Cat. 2}
+This level 200 item has the attributes: none
+When eaten, this food will provide 5 minutes of the 'food' affect, providing +25 aqueous-weapon-activation
+-damage.
+This food has the traits gluten prepared.
+A stale cracker has been left out for ages.

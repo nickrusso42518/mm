@@ -1,0 +1,12 @@
+> check eqlookup c1b0dd4647b1db161c8315f367256664e21a7e8dd2a3651753eae327abe6e92b
+Item 'a crisp carrot' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'crisp carrot'.
+This item weighs 0 stones and 11 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: none
+When eaten, this food will provide 6 minutes of the 'food' affect, providing +3 resilience.
+This food has the traits vegetable.
+A long crisp carrot is here ready to be eaten.  This bright orange carrot
+still covered with a small amount of dirt and appears to be just pulled from
+the ground.  It still has deep green leaves on its top.  You stop to
+consider how you should eat this vegetable.  You could eat it raw, boil it
+or chop it up and snack on the carrot at a later time.  

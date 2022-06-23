@@ -1,0 +1,11 @@
+> check eqlookup bb176b59634ddd79fa12b31f08397889f48e176d3188e67c0c7524d82f238290
+Item 'a grilled swordfish steak' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'swordfish fish steak roll'.
+This item weighs 0 stones and 5 pebbles, and is valued at 475 gold. {Cat. 2}
+This level 15 item has the attributes: throwable
+When eaten, this food will provide 3 hours 20 minutes of the 'food' affect, providing +10 acid-skill-res.
+This food has the traits fish prepared.
+A whole swordfish has been skinned and fried!  It sits, still looking
+intact, on a long roll of bread.  This huge fish looks almost comical in its
+new, temporary home.  A few leaves of lettuce and slices of tomato accompany
+him.  A spicy smelling pink sauce stains the inside of the bread.  

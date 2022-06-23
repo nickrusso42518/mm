@@ -1,0 +1,17 @@
+> check eqlookup 35944504774299e3a33bc9f83c1362745983ca23bffa63eda0eb7f5a8a530243
+Item 'a dilated, magenta eyeball' is type food, alignment 800, made of organic (in (fresh) condition),[EQDB]
+has keywords 'dilated purple twisted blood fluid dripping eyeball ball magenta'.
+This item weighs 0 stones and 4 pebbles, and is valued at 16,530 gold. {Cat. 2}
+This level 200 item has the attributes: none
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +5 running-speed.
+This food has the traits raw-meat.
+Affects saving-petri by 8.
+When casting pense, grants 5 search-prcnt.
+Plucked from the socket of a xorn-hydra crossbreed, this gross little treat
+is really something.  Although it smells terrible, its innate magical powers
+would likely be a boon to any adventurer.  The eyeball itself looks fused,
+as though the perceptory orb of a hydra were grafted onto one of a xorn, and
+the result were stuffed into the skull of the similarly resultant beast.  It
+is squished, abused, and disgusting, but ultimately could be quite useful..  
++++ a dilated, purple eyeball will, when worn, cast 'infravision' on its
+wearer, with a maximum frequency of once per 40 minute period.   

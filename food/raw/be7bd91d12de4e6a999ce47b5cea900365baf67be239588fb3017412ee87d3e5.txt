@@ -1,0 +1,13 @@
+> check eqlookup be7bd91d12de4e6a999ce47b5cea900365baf67be239588fb3017412ee87d3e5
+Item 'some pigeon entrails' is type food, alignment 0, made of flesh (in (fresh) condition),[EQDB]
+has keywords 'pigeon entrails'.
+This item weighs 0 stones and 5 pebbles, and is valued at 375 gold. {Cat. 2}
+This level 15 item has no special attributes.
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 holy-melee-dam.
+This food has the traits poultry.
+*Some pigeon entrails will last approximately 4 more Alyrian minutes.
+They're entrails.  Everybody's got them, but usually not so...  Exposed.  Or
+bloody.  Well, yes, bloody, but not while also this exposed.  And smelly. 
+Well, yes, probably this smelly too, but also not while this exposed. 
+Really, entrails are just gross.  Get rid of this pile of disgusting meat as
+soon as possible.  

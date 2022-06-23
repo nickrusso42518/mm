@@ -1,0 +1,12 @@
+> check eqlookup ffe7f928fd8914743355b8f5f7dd0d9a5233fcc248b771a4871929bf08e1ea23
+Item 'a normal ration' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'normal ration'.
+This item weighs 0 stones and 1 pebbles, and is valued at 35 gold. {Cat. 2}
+This level 5 item has no special attributes.
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +2 ar.
+This food has the traits prepared.
+It is a bar of rations fed to soldiers on the march.  It looks like a 
+piece of gray stone, but is chewable, though only barely.  No one has 
+ever dared to learn where this grim food is made, let alone what it is 
+made of.  Because they are so dry, you have to drink lots of water when 
+you eat one of these bars.

@@ -1,0 +1,11 @@
+> check eqlookup 6d839f0fcf1169acf340e67765a609a505ecb6b395e051205b2a88bf68fd96fc
+Item 'a crushed beetle cake' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'beetle cake weed crushed food'.
+This item weighs 0 stones and 1 pebbles, and is valued at 530 gold. {Cat. 2}
+This level 20 item has the attributes: none
+When eaten, this food will provide 40 minutes of the 'food' affect, providing +10 necromantic-skill-res.
+This food has the traits gluten raw-meat prepared.
+This is a small cake crafted by the kobold master chef, Kraz.  Made from
+crushed weeds picked off of the mountainside, they are thoroughly dried and
+then packed together with a special crushed beetle paste.  This disgusting
+treat is one of the favorite foods of the enslaved goblin workers.  

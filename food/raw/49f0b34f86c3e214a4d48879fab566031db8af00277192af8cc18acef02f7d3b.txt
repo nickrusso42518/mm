@@ -1,0 +1,11 @@
+> check eqlookup 49f0b34f86c3e214a4d48879fab566031db8af00277192af8cc18acef02f7d3b
+Item 'a bowl of tortilla soup' is type food, alignment 0, made of food (in (fresh) condition),[EQDB]
+has keywords 'soup bowl tortilla'.
+This item weighs 0 stones and 1 pebbles, and is valued at 405 gold. {Cat. 2}
+This level 15 item has the attributes: none
+When eaten, this food will provide now of the 'food' affect, providing +25 vorpal-weapon-activation-damage.
+This food has the traits poultry gluten prepared.
+This hot, steamy, spicy bowl of red liquid with bits of cheese and
+tortilla floating around in it gives off a wonderful aroma.  Just catching a
+whiff of it sends your taste buds over the edge and sets your mouth to
+watering.

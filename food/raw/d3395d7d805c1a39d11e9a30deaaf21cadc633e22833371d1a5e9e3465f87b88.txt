@@ -1,0 +1,13 @@
+> check eqlookup d3395d7d805c1a39d11e9a30deaaf21cadc633e22833371d1a5e9e3465f87b88
+Item 'the entrails of a small cricket' is type food, alignment 0, made of none (in (spoiled) condition),[EQDB]
+has keywords 'entrails cricket'.
+This item weighs 0 stones and 5 pebbles, and is valued at 155 gold. {Cat. 2}
+This level 5 item has the attributes: no-mimic none
+When eaten, this food will provide 10 minutes of the 'food' affect, providing +12 disease-skill-dam.
+This food has the traits raw-meat.
+*The entrails of a small cricket will last approximately 1,000 more Alyrian minutes.
+The problem with being squashed is that it is hard to keep your stomach in
+place afterwards.  These entrails have escaped from a small cricket's corpse
+and been left to rot.  Possibly edible - although it would be a brave person
+who tried - they are still steaming from body heat.  Small pieces of
+undigested cloth and food are entangled in the bloody mess.  

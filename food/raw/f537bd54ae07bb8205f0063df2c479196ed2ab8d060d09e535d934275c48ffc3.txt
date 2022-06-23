@@ -1,0 +1,10 @@
+> check eqlookup f537bd54ae07bb8205f0063df2c479196ed2ab8d060d09e535d934275c48ffc3
+Item 'a cherry topped float' is type food, alignment 0, made of organic (in (fresh) condition),[EQDB]
+has keywords 'glass cherry topped float ice cream cat2'.
+This item weighs 0 stones and 4 pebbles, and is valued at 900 gold. {Cat. 2}
+This level 75 item has the attributes: identified
+When eaten, this food will provide 35 minutes of the 'food' affect, providing +20 fistfighting.
+This food has the traits gluten prepared sweets ovo-lacto.
+Foaming root beer is topped with a large scoop of ice cream and a cherry
+on top.  The ice cream has partially melted making a white film over the top
+of the float.  It looks simply delicious.  

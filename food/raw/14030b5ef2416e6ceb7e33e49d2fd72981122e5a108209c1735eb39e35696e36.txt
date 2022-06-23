@@ -1,0 +1,18 @@
+> check eqlookup 14030b5ef2416e6ceb7e33e49d2fd72981122e5a108209c1735eb39e35696e36
+Item 'a dilated, mauve eyeball' is type food, alignment 800, made of organic (in (fresh) condition),[EQDB]
+has keywords 'dilated purple twisted blood fluid dripping eyeball ball mauve'.
+This item weighs 0 stones and 4 pebbles, and is valued at 17,030 gold. {Cat. 2}
+This level 200 item has the attributes: explode none
+When eaten, this food will provide 50 minutes of the 'food' affect, providing +12 summon-skill-dam.
+This food has the traits raw-meat.
+Affects saving-petri by 8.
+When casting pense, grants 5 search-prcnt.
+Plucked from the socket of a xorn-hydra crossbreed, this gross little
+treat is really something.  Although it smells terrible, its innate magical
+powers would likely be a boon to any adventurer.  The eyeball itself looks
+fused, as though the perceptory orb of a hydra were grafted onto one of a
+xorn, and the result were stuffed into the skull of the similarly resultant
+beast.  It is squished, abused, and disgusting, but ultimately could be
+quite useful..  
++++ a dilated, purple eyeball will, when worn, cast 'infravision' on its
+wearer, with a maximum frequency of once per 40 minute period.

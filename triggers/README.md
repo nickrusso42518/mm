@@ -71,7 +71,47 @@ recommendations regarding whether to sail or steam. Also, displays the number
 of rooms traversed at each screen refresh.
 
 ```
-text coming soon
+You spin the steering wheel until the ship is facing northwest.
+(260hull NWdir STOP NWwind 100%shld 1540, 506) moved=0 / head wind; use steam
+
+You spin the steering wheel until the ship is facing north.
+(260hull Ndir STOP NWwind 100%shld 1540, 506) moved=0 / bow wind; use steam
+
+You spin the steering wheel until the ship is facing northeast.
+(260hull NEdir STOP NWwind 100%shld 1540, 506) moved=0 / beam wind; use sail or steam
+
+You spin the steering wheel until the ship is facing east.
+(260hull Edir STOP NWwind 100%shld 1540, 506) moved=0 / quarter wind; use sail
+
+You spin the steering wheel until the ship is facing southeast.
+(260hull SEdir STOP NWwind 100%shld 1540, 506) moved=0 / tail wind; use sail
+
+You spin the steering wheel until the ship is facing south.
+(260hull Sdir STOP NWwind 100%shld 1540, 506) moved=0 / quarter wind; use sail
+
+You spin the steering wheel until the ship is facing southwest.
+(260hull SWdir STOP NWwind 100%shld 1540, 506) moved=0 / beam wind; use sail or steam
+
+You spin the steering wheel until the ship is facing west.
+(260hull Wdir STOP NWwind 100%shld 1540, 506) moved=0 / bow wind; use steam
+```
+
+The `moved` value shows the number of rooms traversed.
+```
+Ship speed has been set to FLANK.
+Musaqala's Corsair sails east.
+(260hull Edir FLANK NWwind 100%shld 1551, 503) moved=13 / quarter wind; use sail
+```
+
+Based on testing in a velocity-boosted corsair, these are the approximate
+`moved` values based on wind direction, assuming sails are in use.
+
+```
+tailwind: 15
+quarter: 13
+beam: 9
+bow: 6
+headwind: 3
 ```
 
 ### spell_efficiency1.xml

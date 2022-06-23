@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>rm;</name>
+			<script>-- Usage -&gt; say rm; .... tell vierna rm; .... clantalk rm; 
+
+local talk = matches[2]
+
+local name = gmcp.room.info.name
+local num = gmcp.room.info.num
+local x = gmcp.room.info.coord.x
+local y = gmcp.room.info.coord.y
+
+if string.lower(gmcp.room.info.wilds) == "true" then
+  -- Alyria (436, 1238) - The South Road R#3908670 as #
+  local area = gmcp.room.info.coord.name
+  local color = gmcp.room.info.coord.color
+  local sym = gmcp.room.info.coord.sym
+  send(talk.." "..area.." ("..x..", "..y..") - "..name.." R#"..num.." as "..color..""..sym)
+else
+  -- Sigil (435, 1226) - Sigil Clan Master R#28509
+  local zone = gmcp.room.info.zone
+  send(talk.." "..zone.." ("..x..", "..y..") - "..name.." R#"..num)
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^(.+)\s+rm;$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

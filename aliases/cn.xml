@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>cn</name>
+			<script>-- Safer way to cast psionic "cancellation"
+
+-- Number of schools to display per line
+local PER_LINE = 8
+
+-- Table of all schools
+local schools = {
+  "Aeromancy",
+  "Anthropomancy",
+  "Aquamancy",
+  "Artemancy",
+  "Arthropomancy",
+  "Astromancy",
+  "Bestiamancy",
+  "Chaosmancy",
+  "Chromatomancy",
+  "Chronomancy",
+  "Coromancy",
+  "Cruciomancy",
+  "Destructomancy",
+  "Diamancy",
+  "Dreadmancy",
+  "Electromancy",
+  "Ferromancy",
+  "Geomancy",
+  "Glaciomancy",
+  "Hematomancy",
+  "Hydromancy",
+  "Lavamancy",
+  "Lutomancy",
+  "Magmamancy",
+  "Metamancy",
+  "Morphomancy",
+  "Negamancy",
+  "Neuromancy",
+  "Noxomancy",
+  "Papyrimancy",
+  "Pyromancy",
+  "Retromancy",
+  "Sanctomancy",
+  "Stupomancy",
+  "Terramancy",
+  "Umbramancy",
+  "Unimancy",
+  "Velocimancy",
+  "Veritamancy",
+  "Vivomancy"
+}
+
+-- Iterate over schools, using i to count
+for i, school in pairs(schools) do
+  local cmd = "cast cancellation '"..school.."'"
+  cechoLink("&lt;green&gt;"..school, function() send(cmd) end, cmd, true)
+  
+  -- If we reached the line max, print newline, else use comma separation
+  if i % PER_LINE == 0 then cecho("\n") else cecho(", ") end
+end
+
+cecho("\n\n")</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^cn$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

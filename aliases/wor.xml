@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>wor</name>
+			<script>no_recall = string.find(gmcp.room.info.flags, "no[-]recall")
+if no_recall then
+  cecho("&lt;green&gt;\n&lt;&lt;&lt; NO RECALLING HERE &gt;&gt;&gt;\n")
+else
+  send("cast 'word of recall'", false)
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^wor$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>xnum</name>
+			<script>-- &gt; x3 get fish blue
+-- You take a shimmering white fish scale from a blue silk bag.
+-- You take a shimmering white fish scale from a blue silk bag.
+-- You take a shimmering white fish scale from a blue silk bag.
+
+local number = matches[2]
+local command = matches[3]
+
+for i=1,number,1 do
+  send(command, false)
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^x(\d+)\s+(.+)</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>warp</name>
+			<script>-- Safer way to cast archon "wrap"
+
+-- Number of places to display per line
+local PER_LINE = 8
+
+-- Places from HELP 1704
+local places = {
+  "Arcane Archipelago",
+  "Ariendyth",
+  "Atlantis",
+  "Genauras",
+  "Hellbent Mountain",
+  "Lowangen",
+  "Magencia",
+  "Ogre Village",
+  "Muldar Lohk Mulvar",
+  "Naulitas",
+  "New Kolvir",
+  "New Rigel",
+  "Palace of Diocletian",
+  "Pirate's Cove",
+  "Rune",
+  "Rune Forest",
+  "Sigil",
+  "Tellerium",
+  "Templeton",
+  "Vir",
+  "Vospire",
+  "Winterborn Mansion",
+  "Wreck of the Feisty Wench",
+  "Xaventry"
+}
+
+local skp = {
+  "Catacombs of Shame",
+  "Hotel Hello",
+  "Inconvenience",
+  "Kessarian",
+  "Maldra",
+  "Sea Hag"
+}
+
+if string.find(gmcp.room.info.flags, "no[-]recall") then
+  cecho("&lt;green&gt;\n&lt;&lt;&lt; NO WARPING HERE &gt;&gt;&gt;\n")
+else
+  -- Iterate over laces, using i to count
+  for i, place in pairs(places) do
+    local cmd = "cast warp '"..place.."'"
+    cechoLink("&lt;green&gt;"..place, function() send(cmd) end, cmd, true)
+  
+    -- If we reached the line max, print newline, else use comma separation
+    if i % PER_LINE == 0 then
+      cecho("\n")
+    else
+      cecho(", ")
+    end
+  end
+  
+  for i, place in pairs(skp) do
+    local cmd = "cast warp '"..place.."'"
+    cechoLink("&lt;red&gt;"..place..", ", function() send(cmd) end, cmd, true)
+  end
+  cecho("&lt;red&gt;(only use with warp skp)\n\n")
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^warp$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

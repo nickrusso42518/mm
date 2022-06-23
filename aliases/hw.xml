@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>hw</name>
+			<script>-- Map keyword to summary description. Populate your own weapons/descriptions
+local swap_options = {
+  tusk = "         exotic pain, piercing, serrated",
+  parasol = "      exotic corruption, extra dmg, overloading",
+  manrikigusari = "exotic bash, -ar scripts, echoing strike",
+  otherwhat = "    exotic bash, attack script, echoing strike",
+  weeping = "      sword slash, no decay, frost",
+  ardor = "        sword mental, vorpal",
+  pilum = "        spear air, extra dmg, vorpal",
+  elements = "     mace bash, battering",
+  decara = "       lance pierce, align +350, no decay",
+  malicious = "    lance sunlight, align -350, vampiric",
+  manari = "       lance pierce, balrog script, serrated",
+  tourmaline = "   lance earth, no decay, vorpal",
+  boulders = "     dagger pierce, conjure boulder",
+  heavenfire = "   dagger holy, remove-in-safe, flaming",
+  guillotine = "   yo-yo bash, lightning-skill-res, parry magic",
+  cacti = "        dart pierce, deliberately untrained and weak",
+}
+
+for weapon, desc in pairs(swap_options) do
+  local cmd = "swap weapon "..weapon
+  cechoLink("&lt;white&gt;"..weapon..": &lt;green&gt;"..desc, function() expandAlias(cmd) end, cmd, true)
+  echo("\n\n")
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^hw$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

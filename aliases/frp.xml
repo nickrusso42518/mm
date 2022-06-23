@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>frp</name>
+			<script>-- Provide a color-coded vitals report to your formation
+-- 3985/3990hp 3645/3645sp 2936/2941st
+
+local chp = gmcp.char.vitals.hp
+local csp = gmcp.char.vitals.sp
+local cst = gmcp.char.vitals.st
+  
+local mhp = gmcp.char.maxstats.maxhp
+local msp = gmcp.char.maxstats.maxsp
+local mst = gmcp.char.maxstats.maxst
+
+local thp = "|R"..chp.."/"..mhp.."hp"
+local tsp = "|C"..csp.."/"..msp.."sp"
+local tst = "|G"..cst.."/"..mst.."st"
+
+send("ft "..thp.." "..tsp.." "..tst, false)</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^frp$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

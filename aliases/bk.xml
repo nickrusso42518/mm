@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>bk</name>
+			<script>-- Global Hint: When underground and in dungeons, the Drow regenerate 45%
+-- more spell power than everyone else.
+
+-- Define target of spell and table of dungeons, keeps, and underground places
+local target = matches[2]
+
+-- Areas from HELP 2290
+local places = {
+  "A Disturbed Pyramid",
+  "A Fetid Mantoid Den",
+  "A Floral Cavern",
+  "A Ghost Town",
+  "A Glyph Haven",
+  "A Hydras Den",
+  "A Labyrinthine Molehill",
+  "A Passage Beneath Xaventry",
+  "An AcidDrenched Cavern",
+  "An Unreinforced Tunnel",
+  "Awesome Clan Hall",
+  "Bandit Camp",
+  "Bartletts Summer Retreat",
+  "Beneath A Trellis",
+  "Catacombs of Shame",
+  "Deeper Into The Cave System",
+  "Domain of Arbaces",
+  "Dungeon Avarice",
+  "Dungeon Deceit",
+  "Dungeon Odious",
+  "Dungeon Wroth",
+  "Frost Giant's Keep",
+  "Frosthold",
+  "Genauras",
+  "Great Alyrian Underground",
+  "Grimbold's Annex",
+  "Hellbent Mountain",
+  "Irda Isle Caverns",
+  "Islandtop Ruins",
+  "Kessarian's Dungeon",
+  "Lair of the Death Huaka",
+  "Lair of the Ice Witch",
+  "Maldra Keep",
+  "Mount Vesuvius",
+  "Nomad Village",
+  "Pelican's Demise",
+  "Refuge Of The Xanai",
+  "Sigil Underground",
+  "Smuggler's Cave",
+  "Temple Crypt",
+  "Temple of Sumter",
+  "The Citadel Above The Beach",
+  "The Coral Keep",
+  "The Final Resting Place of Admiral",
+  "The Gemstone Keep",
+  "The Obsidian Tear",
+  "The Proving Grounds",
+  "The Remnants of a Caldera",
+  "Troglodyte Village",
+  "Vandemaar's Keep"
+}
+
+for _, place in pairs(places) do
+
+  -- See if bleakness can be cast here. If so, do it and stop looping
+  can_bleakness = gmcp.room.info.zone == place
+  if can_bleakness then
+    send("cast bleakness "..target)
+    break
+  end
+end
+
+-- No bleakness allowed; don't cast, just notify
+if not can_bleakness then
+  cecho("&lt;green&gt;\n&lt;&lt;&lt; NO BLEAKNESS OR 45% SP-REGEN BONUS HERE: "..gmcp.room.info.zone.." &gt;&gt;&gt;\n\n")
+end</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^bk\s*(.*)$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>

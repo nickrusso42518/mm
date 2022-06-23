@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<AliasPackage>
+		<Alias isActive="yes" isFolder="no">
+			<name>rlt</name>
+			<script>-- convert Alyrian time to real time
+-- rlt 60 -&gt; 60 AL min = 15 RL min
+-- rlt 75 -&gt; 75 AL min = 18.75 RL min
+
+almin = matches[2]
+rlmin = almin / 4
+cecho("\n&lt;green&gt;"..almin.." AL min = "..rlmin.." RL min\n")</script>
+			<command></command>
+			<packageName></packageName>
+			<regex>^rlt\s+(\d+)$</regex>
+		</Alias>
+	</AliasPackage>
+</MudletPackage>
